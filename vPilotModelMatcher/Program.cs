@@ -1,4 +1,5 @@
-﻿using System.Text.RegularExpressions;
+﻿using System.Security;
+using System.Text.RegularExpressions;
 using System.Xml;
 
 namespace vPilotModelMatcher
@@ -15,10 +16,11 @@ namespace vPilotModelMatcher
         public string title { get; set; }
         public string ui_type { get; set; }
         public string ui_variation { get; set; }
+        public List<string> atc_parking_codes { get; set; }
 
         public override string ToString()
         {
-            return $"{title} - {ui_type} - {ui_variation}";
+            return $"{title} - {ui_type} - {ui_variation} - {string.Join(", ", atc_parking_codes ?? new[] { "" }.ToList())}";
         }
     }
 
@@ -44,70 +46,21 @@ namespace vPilotModelMatcher
             var aircraft = LoadAircraft();
             var airlines = LoadAirlines();
             var aircraftCfgs = LoadAircraftCfgs();
-            var fltsims = ParseAircraftCfgs(aircraftCfgs).ToList();
-
-            var rules = new List<ModelMatchRule>();
-
-            foreach (var fltsim in fltsims)
-            {
-                var iata = Regex.Match(fltsim.ui_variation, "[A-Z]{3}");
-
-                if (iata.Captures.Count > 1)
+            var fltsims = ParseAircraftCfgs(aircraftCfgs);
+            var rules = GenerateRules(fltsims, airlines, aircraft)
+                .GroupBy(r => new { r.CallsignPrefix, r.TypeCode })
+                .Select(r => new ModelMatchRule
                 {
-                    iata = Regex.Match(fltsim.title, "[A-Z]{3}");
+                    CallsignPrefix = r.Key.CallsignPrefix,
+                    TypeCode = r.Key.TypeCode,
+                    ModelName = string.Join("//", r.Select(r => r.ModelName))
+                })
+                .OrderBy(r => r.CallsignPrefix)
+                .ThenBy(r => r.TypeCode);
 
-                    if (iata.Captures.Count > 1)
-                        iata = null;
-                }
-
-                var matchingAirlines = airlines.Where(a => iata == null ? fltsim.ui_variation.Contains(a.operator_code) : iata.Value.ToUpper() == a.operator_code.ToUpper());
-
-                if (!matchingAirlines.Any())
-                    Console.WriteLine($"No airline found for {fltsim}");
-
-                if (matchingAirlines.Count() > 1)
-                    Console.WriteLine($"More than 1 airline found for {fltsim}");
-
-                var matchingAircraft = aircraft
-                    .Where(a => fltsim.ui_type.Contains(a.tdesig))
-                    .OrderByDescending(a => a.model_no.Length);
-
-                if (!matchingAircraft.Any())
-                    matchingAircraft = aircraft
-                        .Where(a => !string.IsNullOrWhiteSpace(a.model_no))
-                        .Where(a => fltsim.ui_type.Contains(a.model_no))
-                        .OrderByDescending(a => a.model_no.Length);
-
-                if (!matchingAircraft.Any())
-                {
-                    Console.WriteLine($"No aircraft found for {fltsim}");
-                    continue;
-                }
-
-                rules.Add(new ModelMatchRule
-                {
-                    CallsignPrefix = matchingAirlines.Count() == 1 ? matchingAirlines.First().operator_code : null,
-                    ModelName = fltsim.title,
-                    TypeCode = matchingAircraft.First().tdesig
-                });
-            }
-
-            rules =
-                rules
-                    .GroupBy(r => new { r.CallsignPrefix, r.TypeCode })
-                    .Select(r => new ModelMatchRule
-                    {
-                        CallsignPrefix = r.Key.CallsignPrefix,
-                        TypeCode = r.Key.TypeCode,
-                        ModelName = string.Join("//", r.Select(r => r.ModelName))
-                    })
-                    .OrderBy(r => r.CallsignPrefix)
-                    .ThenBy(r => r.TypeCode)
-                    .ToList();
-
-            var outputXml = $"<?xml version=\"1.0\" encoding=\"utf-8\"?>" +
-                $"<ModelMatchRuleSet>" +
-                $"{string.Join('\n', rules.Select(r => $"<ModelMatchRule {(string.IsNullOrWhiteSpace(r.CallsignPrefix) ? "" : $"CallsignPrefix=\"{r.CallsignPrefix}\" ")}TypeCode=\"{r.TypeCode}\" ModelName=\"{r.ModelName}\" />"))}" +
+            var outputXml = $"<?xml version=\"1.0\" encoding=\"utf-8\"?>{Environment.NewLine}" +
+                $"<ModelMatchRuleSet>{Environment.NewLine}" +
+                $"{string.Join('\n', rules.Select(r => $"<ModelMatchRule {(string.IsNullOrWhiteSpace(r.CallsignPrefix) ? "" : $"CallsignPrefix=\"{SecurityElement.Escape(r.CallsignPrefix)}\" ")}TypeCode=\"{SecurityElement.Escape(r.TypeCode)}\" ModelName=\"{SecurityElement.Escape(r.ModelName)}\" />"))}" +
                 $"</ModelMatchRuleSet>";
 
             XmlDocument xmlDocument = new();
@@ -118,7 +71,7 @@ namespace vPilotModelMatcher
             Console.ReadLine();
         }
 
-        private static List<Aircraft> LoadAircraft()
+        private static IEnumerable<Aircraft> LoadAircraft()
         {
             var aircraft = typeof(Program).Assembly.GetManifestResourceStream("vPilotModelMatcher.Aircraft.txt");
 
@@ -128,6 +81,7 @@ namespace vPilotModelMatcher
                 .ReadToEnd()
                 .Split(new[] { "\r\n" }, StringSplitOptions.None)
                 .Where(line => !string.IsNullOrWhiteSpace(line))
+                .Where(line => line.Split(',')[9].Length > 2)
                 .Select(line =>
                 {
                     var split = line.Split(',');
@@ -139,11 +93,10 @@ namespace vPilotModelMatcher
                         model_name = split[2],
                         tdesig = line.Split(',')[9]
                     };
-                })
-                .ToList();
+                });
         }
 
-        private static List<Airline> LoadAirlines()
+        private static IEnumerable<Airline> LoadAirlines()
         {
             var airlines = typeof(Program).Assembly.GetManifestResourceStream("vPilotModelMatcher.Airlines.txt");
 
@@ -164,8 +117,7 @@ namespace vPilotModelMatcher
                         operator_name = split[1],
                         country = split[3]
                     };
-                })
-                .ToList();
+                });
         }
 
         private static Dictionary<string, List<string>> LoadAircraftCfgs()
@@ -239,22 +191,193 @@ namespace vPilotModelMatcher
                 {
                     var split = line.Split('=');
 
-                    switch (split[0])
+                    switch (split[0].Trim())
                     {
                         case "title":
-                            fltsim.title = split[1];
+                            fltsim.title = split[1].Trim();
                             break;
                         case "ui_type":
-                            fltsim.ui_type = split[1];
+                            fltsim.ui_type = split[1].Trim();
                             break;
                         case "ui_variation":
-                            fltsim.ui_variation = split[1];
+                            fltsim.ui_variation = split[1].Trim();
+                            break;
+                        case "atc_parking_codes":
+                            fltsim.atc_parking_codes = split[1].Split(',').Select(s => s.Trim()).ToList();
                             break;
                     }
                 }
 
                 yield return fltsim;
             }
+        }
+
+        private static IEnumerable<ModelMatchRule> GenerateRules(IEnumerable<Fltsim> fltsims, IEnumerable<Airline> airlines, IEnumerable<Aircraft> aircraft)
+        {
+            foreach (var fltsim in fltsims)
+            {
+                var matchingAirlines = FindAirline(fltsim, airlines);
+
+                if (!matchingAirlines.Any())
+                    Console.WriteLine($"No airline found for {fltsim}");
+
+                if (matchingAirlines.Count() > 1)
+                    Console.WriteLine($"More than 1 airline found for {fltsim}");
+
+                var matchingAircrafts = FindAircraft(fltsim, aircraft);
+
+                if (!matchingAircrafts.Any())
+                {
+                    Console.WriteLine($"No aircraft found for {fltsim}");
+                    continue;
+                }
+
+                yield return new ModelMatchRule
+                {
+                    CallsignPrefix = matchingAirlines.Count() == 1 ? matchingAirlines.First().operator_code : null,
+                    ModelName = fltsim.title,
+                    TypeCode = matchingAircrafts.First().tdesig
+                };
+            }
+        }
+
+        private static IEnumerable<Airline> FindAirline(Fltsim fltsim, IEnumerable<Airline> airlines)
+        {
+            IEnumerable<Airline> AlternativeSearch()
+            {
+                //What to do here?
+                //matchingAirlines = airlines.Where(a => iata == null ? fltsim.ui_variation.Contains(a.operator_code) : iata.Value.ToUpper() == a.operator_code.ToUpper());
+                return new List<Airline>();
+            }
+
+            var matchingAirlines = new List<Airline>().AsEnumerable();
+
+            if (fltsim.atc_parking_codes?.Any() ?? false)
+                matchingAirlines = airlines.Where(a => fltsim.atc_parking_codes.Any(apc => apc.ToUpper() == a.operator_code.ToUpper()));
+
+            if (!matchingAirlines.Any() || matchingAirlines.Count() > 1)
+            {
+                var iata = Regex.Match(fltsim.ui_variation, "(?<![A-Z]|-)[A-Z]{3}(?![A-Z])");
+
+                if (iata.Captures.Count == 1)
+                    matchingAirlines = airlines.Where(a => iata.Value.ToUpper() == a.operator_code.ToUpper());
+                else
+                {
+                    iata = Regex.Match(fltsim.title, "(?<![A-Z]|-)[A-Z]{3}(?![A-Z])");
+
+                    if (iata.Captures.Count == 1)
+                    {
+                        matchingAirlines = airlines.Where(a => iata.Value.ToUpper() == a.operator_code.ToUpper());
+
+                        if (!matchingAirlines.Any())
+                            matchingAirlines = AlternativeSearch();
+                    }
+                    else
+                    {
+                        if (fltsim.atc_parking_codes?.Any() ?? false)
+                            matchingAirlines = airlines.Where(a => fltsim.atc_parking_codes.Any(apc => apc.ToUpper() == a.operator_code.ToUpper()));
+                        else
+                            matchingAirlines = AlternativeSearch();
+                    }
+                }
+            }
+
+            return matchingAirlines;
+        }
+
+        private static IEnumerable<Aircraft> FindAircraft(Fltsim fltsim, IEnumerable<Aircraft> aircraft)
+        {
+            IEnumerable<Aircraft> AlternativeSearch()
+            {
+                var matchingAircraft = new List<Aircraft>().AsEnumerable();
+
+                var ui_typeSplit = fltsim.ui_type
+                    .Split(' ');
+
+                var matchingManufacturer = aircraft.Where(a => ui_typeSplit.Select(ui => ui.ToUpper()).Contains(a.manufacturer_code.ToUpper()));
+
+                if (matchingManufacturer.Any())
+                {
+                    var ui_typeSplit_numbers = ui_typeSplit
+                        .Select(ui => Regex.Replace(ui, "[^0-9.]", ""))
+                        .Where(ui => !string.IsNullOrEmpty(ui));
+
+                    matchingAircraft = matchingManufacturer
+                        .Where(a => !string.IsNullOrWhiteSpace(a.model_no))
+                        .Where(a => ui_typeSplit_numbers.Any(ui => a.model_no.Contains(ui)))
+                        .OrderByDescending(a => a.model_no.Length);
+
+                    var matchingTdesig = matchingAircraft.Where(a => ui_typeSplit_numbers.Any(ui => a.tdesig.Contains(ui)));
+
+                    if (matchingTdesig.GroupBy(a => a.tdesig).Count() == 1)
+                        return matchingTdesig;
+                }
+                else
+                {
+                    matchingAircraft = aircraft
+                        .Where(a => fltsim.ui_type.Replace("-", "").Contains(a.tdesig))
+                        .OrderByDescending(a => a.model_no.Length);
+                }
+
+                if (!matchingAircraft.Any())
+                    matchingAircraft = aircraft
+                        .Where(a => !string.IsNullOrWhiteSpace(a.model_no))
+                        .Where(a => fltsim.ui_type.Contains(a.model_no))
+                        .OrderByDescending(a => a.model_no.Length);
+
+                return matchingAircraft;
+            }
+
+            var ui_typeSplit = fltsim.ui_type
+                   .Split(' ')
+                   .Select(s => s.Trim())
+                   .ToList();
+
+            ui_typeSplit.AddRange(ui_typeSplit.Select(ui => ui.Replace("-", "")).ToList());
+
+            ui_typeSplit = ui_typeSplit.Distinct().ToList();
+
+            var matchingManufacturer = aircraft.Where(a => ui_typeSplit.Select(ui => ui.ToUpper()).Contains(a.manufacturer_code.ToUpper()));
+
+            if (matchingManufacturer.Any())
+            {
+                var matchingAircraft = matchingManufacturer
+                    .Where(a => !string.IsNullOrWhiteSpace(a.model_no))
+                    .Where(a => ui_typeSplit.Any(ui => ui.Contains(a.model_no)))
+                    .OrderByDescending(a => a.model_no.Length)
+                    .AsEnumerable();
+
+                matchingAircraft = matchingAircraft.Concat(matchingManufacturer
+                  .Where(a => ui_typeSplit.Any(ui => ui.Contains(a.tdesig)))
+                  .OrderByDescending(a => a.model_no.Length));
+
+                if (matchingAircraft.GroupBy(a => a.tdesig).Count() == 1)
+                    return matchingAircraft;
+
+                if (!matchingAircraft.Any())
+                {
+                    var ui_typeSplit_numbers = ui_typeSplit
+                        .Select(ui => Regex.Replace(ui, "[^0-9.-]", ""))
+                        .Where(ui => !string.IsNullOrEmpty(ui));
+
+                    matchingAircraft = matchingManufacturer
+                        .Where(a => !string.IsNullOrWhiteSpace(a.model_no))
+                        .Where(a => ui_typeSplit_numbers.Any(ui => a.model_no.Contains(ui)))
+                        .OrderByDescending(a => a.model_no.Length);
+
+                    var matchingTdesig = matchingAircraft.Where(a => ui_typeSplit_numbers.Any(ui => a.tdesig.Contains(ui)));
+
+                    if (matchingTdesig.GroupBy(a => a.tdesig).Count() == 1)
+                        return matchingTdesig;
+                }
+
+                if (!matchingAircraft.Any())
+                    matchingAircraft = AlternativeSearch();
+
+                return matchingAircraft;
+            }
+            else
+                return AlternativeSearch();
         }
     }
 }

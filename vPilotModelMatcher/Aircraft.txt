@@ -455,6 +455,7 @@ BOEING,AV-8,Harrier,,1,Jet,LandPlane,L1J,M,HAR,G
 BOEING,B-17,Flying Fortress,,4,Piston,LandPlane,L4P,M,B17,E
 BOEING,B-29,Superfortress,,4,Piston,LandPlane,L4P,M,B29,D
 BOEING,777-F,,,2,Jet,LandPlane,L2J,H,B77L,B
+BOEING,777-200F,,,2,Jet,LandPlane,L2J,H,B77L,B
 BOEING,B-52,Stratofortress,,8,Jet,LandPlane,L8J,H,B52,B
 BOEING,,BBJ2,,2,Jet,LandPlane,L2J,M,B738,D
 BOEING,BBJ3,,,2,Jet,LandPlane,L2J,M,B739,D
@@ -616,6 +617,7 @@ BOEING,737 MAX 10,,,2,Jet,LandPlane,L2J,M,B3XM,
 BOEING,737 MAX 8200,,,2,Jet,LandPlane,L2J,M,B38M,
 BOEING,737-8200,,,2,Jet,LandPlane,L2J,M,B38M,
 BOMBARDIER,CL-600 Regional Jet ,CRJ-1000,,2,Jet,LandPlane,L2J,M,CRJX,F
+BOMBARDIER,,Regional Jet CRJ-900,,2,Jet,LandPlane,L2J,M,CRJ9,F
 BOMBARDIER,Regional Jet CRJ-1000,,,2,Jet,LandPlane,L2J,M,CRJX,F
 BOMBARDIER,BD-100,Challenger 300,,2,Jet,LandPlane,L2J,M,CL30,G
 BOMBARDIER,BD-700,Global 5000,,2,Jet,LandPlane,L2J,M,GL5T,E
@@ -1244,6 +1246,7 @@ EMBRAER,E190-E2,,,2,Jet,LandPlane,L2J,M,E290,D
 EMBRAER,ERJ-190-400,,,2,Jet,LandPlane,L2J,M,E295,D
 EMBRAER,E195-E2,,,2,Jet,LandPlane,L2J,M,E295,D
 EMBRAER,ERJ-190-500,,,2,Jet,LandPlane,L2J,M,E275,Z
+EMBRAER,E175,,,2,Jet,LandPlane,L2J,M,E175,Z
 EMBRAER,E175-E2,,,2,Jet,LandPlane,L2J,M,E275,Z
 EMBRAER,EMB-550 Praetor 600,,,2,Jet,LandPlane,L2J,M,E550,G
 EMBRAER,,Praetor 600,,2,Jet,LandPlane,L2J,M,E550,G
