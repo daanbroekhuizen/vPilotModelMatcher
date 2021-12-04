@@ -8,10 +8,17 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Update="ICAO_Aircraft.txt">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
-    <None Update="ICAO_Airlines.txt">
+    <None Remove="Aircraft.txt" />
+    <None Remove="Airlines.txt" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Aircraft.txt" />
+    <EmbeddedResource Include="Airlines.txt" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="TestData\**\*.cfg">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
   </ItemGroup>

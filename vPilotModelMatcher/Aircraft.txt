@@ -1,0 +1,1896 @@
+AIRBUS,A-350-900 XWB,,,2,Jet,LandPlane,L2J,H,A359,B
+AIRBUS,A-350-900 XWB Prestige,,,2,Jet,LandPlane,L2J,H,A359,B
+AIRBUS,Prestige (A-350-900),,,2,Jet,LandPlane,L2J,H,A359,B
+AIRBUS,C-212,,,2,Turboprop/Turboshaft,LandPlane,L2T,M,C212,G
+AIRBUS,A-300B2,,,2,Jet,LandPlane,L2J,H,A30B,C
+AIRBUS,A-300B2-1,,,2,Jet,LandPlane,L2J,H,A30B,C
+AIRBUS,A-300B2-100,,,2,Jet,LandPlane,L2J,H,A30B,C
+AIRBUS,A-300B2-200,,,2,Jet,LandPlane,L2J,H,A30B,C
+AIRBUS,A-300B2K-3,,,2,Jet,LandPlane,L2J,H,A30B,C
+AIRBUS,A-300B4-2,,,2,Jet,LandPlane,L2J,H,A30B,C
+AIRBUS,A-300B4-100,,,2,Jet,LandPlane,L2J,H,A30B,C
+AIRBUS,A-300B4-200,,,2,Jet,LandPlane,L2J,H,A30B,C
+AIRBUS,A-300B4-600,,,2,Jet,LandPlane,L2J,H,A306,C
+AIRBUS,A-300C4-200,,,2,Jet,LandPlane,L2J,H,A30B,C
+AIRBUS,A-300C4-600,,,2,Jet,LandPlane,L2J,H,A306,C
+AIRBUS,A-300F4-200,,,2,Jet,LandPlane,L2J,H,A30B,C
+AIRBUS,A-300F4-600,,,2,Jet,LandPlane,L2J,H,A306,C
+AIRBUS,A-300ST,Beluga,,2,Jet,LandPlane,L2J,H,A3ST,C
+AIRBUS,A-300ST,Super Transporter,,2,Jet,LandPlane,L2J,H,A3ST,C
+AIRBUS,A-310,,,2,Jet,LandPlane,L2J,H,A310,C
+AIRBUS,A-318,,,2,Jet,LandPlane,L2J,M,A318,D
+AIRBUS,A-319,,,2,Jet,LandPlane,L2J,M,A319,D
+AIRBUS,A-319,ACJ,,2,Jet,LandPlane,L2J,M,A319,D
+AIRBUS,A-320,,,2,Jet,LandPlane,L2J,M,A320,D
+AIRBUS,A-321,,,2,Jet,LandPlane,L2J,M,A321,D
+AIRBUS,A-330-200,,,2,Jet,LandPlane,L2J,H,A332,B
+AIRBUS,A-330-300,,,2,Jet,LandPlane,L2J,H,A333,B
+AIRBUS,A-340-200,,,4,Jet,LandPlane,L4J,H,A342,B
+AIRBUS,A-340-300,,,4,Jet,LandPlane,L4J,H,A343,B
+AIRBUS,A-340-500,,,4,Jet,LandPlane,L4J,H,A345,B
+AIRBUS,A-340-600,,,4,Jet,LandPlane,L4J,H,A346,B
+AIRBUS,A-380-800,,,4,Jet,LandPlane,L4J,J,A388,A
+AIRBUS,,Beluga,,2,Jet,LandPlane,L2J,H,A3ST,C
+AIRBUS,CC-150,Polaris,,2,Jet,LandPlane,L2J,H,A310,C
+AIRBUS,,Polaris,,2,Jet,LandPlane,L2J,H,A310,C
+AIRBUS,,Super Transporter,,2,Jet,LandPlane,L2J,H,A3ST,C
+AIRBUS,VC-1 ACJ,,,2,Jet,LandPlane,L2J,M,A319,D
+AIRBUS,A-400M Grizzly,,,4,Turboprop/Turboshaft,LandPlane,L4T,H,A400,C
+AIRBUS,A-318 Elite,,,2,Jet,LandPlane,L2J,M,A318,D
+AIRBUS,A-320 Prestige,,,2,Jet,LandPlane,L2J,M,A320,D
+AIRBUS,A-330-200 Prestige,,,2,Jet,LandPlane,L2J,H,A332,B
+AIRBUS,A-340-200 Prestige,,,4,Jet,LandPlane,L4J,H,A342,B
+AIRBUS,A-340-300 Prestige,,,4,Jet,LandPlane,L4J,H,A343,B
+AIRBUS,A-340-500 Prestige,,,4,Jet,LandPlane,L4J,H,A345,B
+AIRBUS,A-340-600 Prestige,,,4,Jet,LandPlane,L4J,H,A346,B
+AIRBUS,A-380-800 Prestige,,,4,Jet,LandPlane,L4J,J,A388,A
+AIRBUS,Prestige (A-320),,,2,Jet,LandPlane,L2J,M,A320,D
+AIRBUS,Prestige (A-330-200),,,2,Jet,LandPlane,L2J,H,A332,B
+AIRBUS,Prestige (A-340-200),,,4,Jet,LandPlane,L4J,H,A342,B
+AIRBUS,Prestige (A-340-300),,,4,Jet,LandPlane,L4J,H,A343,B
+AIRBUS,Prestige (A-340-500),,,4,Jet,LandPlane,L4J,H,A345,B
+AIRBUS,Prestige (A-340-600),,,4,Jet,LandPlane,L4J,H,A346,B
+AIRBUS,Prestige (A-380-800),,,4,Jet,LandPlane,L4J,J,A388,A
+AIRBUS,Elite,,,2,Jet,LandPlane,L2J,M,A318,D
+AIRBUS,KC-30,,,2,Jet,LandPlane,L2J,H,A332,B
+AIRBUS,A-350-1000 XWB,,,2,Jet,LandPlane,L2J,H,A35K,B
+AIRBUS,A-350-1000 XWB Prestige,,,2,Jet,LandPlane,L2J,H,A35K,B
+AIRBUS,Prestige (A-350-1000),,,2,Jet,LandPlane,L2J,H,A35K,B
+AIRBUS,A-330-200 Voyager,,,2,Jet,LandPlane,L2J,H,A332,B
+AIRBUS,Voyager,,,2,Jet,LandPlane,L2J,H,A332,B
+AIRBUS,A-400M Atlas,,,4,Turboprop/Turboshaft,LandPlane,L4T,H,A400,C
+AIRBUS,Grizzly,,,4,Turboprop/Turboshaft,LandPlane,L4T,H,A400,C
+AIRBUS,Atlas,,,4,Turboprop/Turboshaft,LandPlane,L4T,H,A400,C
+AIRBUS,C-295,,,2,Turboprop/Turboshaft,LandPlane,L2T,M,C295,F
+AIRBUS,C-295 Persuader,,,2,Turboprop/Turboshaft,LandPlane,L2T,M,C295,F
+AIRBUS,Persuader (C-295),,,2,Turboprop/Turboshaft,LandPlane,L2T,M,C295,F
+AIRBUS,SC-105 Amazonas,,,2,Turboprop/Turboshaft,LandPlane,L2T,M,C295,F
+AIRBUS,Amazonas,,,2,Turboprop/Turboshaft,LandPlane,L2T,M,C295,F
+AIRBUS,CN-235,,,2,Turboprop/Turboshaft,LandPlane,L2T,M,CN35,G
+AIRBUS,CN-235 Persuader,,,2,Turboprop/Turboshaft,LandPlane,L2T,M,CN35,G
+AIRBUS,Persuader (CN-235),,,2,Turboprop/Turboshaft,LandPlane,L2T,M,CN35,G
+AIRBUS,HC-144 Ocean Sentry,,,2,Turboprop/Turboshaft,LandPlane,L2T,M,CN35,G
+AIRBUS,Ocean Sentry,,,2,Turboprop/Turboshaft,LandPlane,L2T,M,CN35,G
+AIRBUS,,E-Fan,,2,Electric,LandPlane,L2E,L,EFAN,G
+AIRBUS,A-330-900,,,2,Jet,LandPlane,L2J,H,A339,B
+AIRBUS,A-319neo,,,2,Jet,LandPlane,L2J,M,A19N,D
+AIRBUS,A-320neo,,,2,Jet,LandPlane,L2J,M,A20N,D
+AIRBUS,A-321neo,,,2,Jet,LandPlane,L2J,M,A21N,D
+AIRBUS,A-330-800,,,2,Jet,LandPlane,L2J,H,A338,B
+AIRBUS,A-330-700,Beluga XL,,2,Jet,LandPlane,L2J,H,A337,B
+AIRBUS,,Beluga XL,,2,Jet,LandPlane,L2J,H,A337,B
+AIRBUS,A-220-100,,,2,Jet,LandPlane,L2J,M,BCS1,D
+AIRBUS,A-220-300,,,2,Jet,LandPlane,L2J,M,BCS3,D
+AIRBUS,A-220-100 ACJ TwoTwenty,,,2,Jet,LandPlane,L2J,M,BCS1,
+AIRBUS,,ACJ TwoTwenty,,2,Jet,LandPlane,L2J,M,BCS1,
+AIRBUS,ACJ (A-319),,,2,Jet,LandPlane,L2J,M,A319,
+AIRBUS,ACJ-319 neo,,,2,Jet,LandPlane,L2J,M,A19N,
+AIRBUS,ACJ-320neo,,,2,Jet,LandPlane,L2J,M,A20N,
+AIRBUS,ACJ-330-800,,,2,Jet,LandPlane,L2J,H,A338,
+AIRBUS,ACJ-330-900,,,2,Jet,LandPlane,L2J,H,A339,
+AIRBUS,ACJ-350-900,,,2,Jet,LandPlane,L2J,H,A359,
+AIRBUS,ACJ-350-1000,,,2,Jet,LandPlane,L2J,H,A35K,
+ATR,ATR-42-600,,,2,Turboprop/Turboshaft,LandPlane,L2T,M,AT46,F
+ATR,ATR-72-201,,,2,Turboprop/Turboshaft,LandPlane,L2T,M,AT72,F
+ATR,ATR-72-202,,,2,Turboprop/Turboshaft,LandPlane,L2T,M,AT72,F
+ATR,ATR-72-211,,,2,Turboprop/Turboshaft,LandPlane,L2T,M,AT73,F
+ATR,ATR-72-500,,,2,Turboprop/Turboshaft,LandPlane,L2T,M,AT75,F
+ATR,ATR-72-600,,,2,Turboprop/Turboshaft,LandPlane,L2T,M,AT76,F
+ATR,ATR-42-300,,,2,Turboprop/Turboshaft,LandPlane,L2T,M,AT43,F
+ATR,ATR-42-320,,,2,Turboprop/Turboshaft,LandPlane,L2T,M,AT43,F
+ATR,ATR-42-400,,,2,Turboprop/Turboshaft,LandPlane,L2T,M,AT44,F
+ATR,ATR-42-400,Surveyor,,2,Turboprop/Turboshaft,LandPlane,L2T,M,AT44,F
+ATR,ATR-42-500,,,2,Turboprop/Turboshaft,LandPlane,L2T,M,AT45,F
+ATR,ATR-42-500,Surveyor,,2,Turboprop/Turboshaft,LandPlane,L2T,M,AT45,F
+ATR,,Surveyor (ATR-42-400),,2,Turboprop/Turboshaft,LandPlane,L2T,M,AT44,F
+ATR,,Surveyor (ATR-42-500),,2,Turboprop/Turboshaft,LandPlane,L2T,M,AT45,F
+ATR,ATR-72-212,,,2,Turboprop/Turboshaft,LandPlane,L2T,M,AT73,F
+ATR,ATR-72-212A (500),,,2,Turboprop/Turboshaft,LandPlane,L2T,M,AT75,F
+ATR,ATR-72-212A (600),,,2,Turboprop/Turboshaft,LandPlane,L2T,M,AT76,F
+ATR,ATR P-72,,,2,Turboprop/Turboshaft,LandPlane,L2T,M,AT76,F
+BEECH,Bonanza 36,,,1,Piston,LandPlane,L1P,L,BE36,G
+BEECH,17,Staggerwing,,1,Piston,LandPlane,L1P,L,BE17,G
+BEECH,18 (piston),,,2,Piston,LandPlane,L2P,L,BE18,G
+BEECH,18 (turbine),,,2,Turboprop/Turboshaft,LandPlane,L2T,L,B18T,G
+BEECH,19,Musketeer Sport,,1,Piston,LandPlane,L1P,L,BE19,G
+BEECH,19,Sport,,1,Piston,LandPlane,L1P,L,BE19,G
+BEECH,23,Musketeer,,1,Piston,LandPlane,L1P,L,BE23,G
+BEECH,23,Sundowner,,1,Piston,LandPlane,L1P,L,BE23,G
+BEECH,24,Musketeer Super,,1,Piston,LandPlane,L1P,L,BE24,G
+BEECH,24,Sierra,,1,Piston,LandPlane,L1P,L,BE24,G
+BEECH,33,Bonanza,,1,Piston,LandPlane,L1P,L,BE33,G
+BEECH,33,Debonair,,1,Piston,LandPlane,L1P,L,BE33,G
+BEECH,35,Bonanza,,1,Piston,LandPlane,L1P,L,BE35,G
+BEECH,36,Bonanza (turbine),,1,Turboprop/Turboshaft,LandPlane,L1T,L,B36T,G
+BEECH,45,Mentor,,1,Piston,LandPlane,L1P,L,T34P,G
+BEECH,50,Twin Bonanza,,2,Piston,LandPlane,L2P,L,BE50,G
+BEECH,55,Baron,,2,Piston,LandPlane,L2P,L,BE55,G
+BEECH,56,Turbo Baron,,2,Piston,LandPlane,L2P,L,BE56,G
+BEECH,58,Baron,,2,Piston,LandPlane,L2P,L,BE58,G
+BEECH,60,Duke,,2,Piston,LandPlane,L2P,L,BE60,G
+BEECH,65,Queen Air,,2,Piston,LandPlane,L2P,L,BE65,G
+BEECH,70,Queen Air,,2,Piston,LandPlane,L2P,L,BE70,G
+BEECH,76,Duchess,,2,Piston,LandPlane,L2P,L,BE76,G
+BEECH,77,Skipper,,1,Piston,LandPlane,L1P,L,BE77,G
+BEECH,80,Queen Air,,2,Piston,LandPlane,L2P,L,BE80,G
+BEECH,80,Zamir,,2,Piston,LandPlane,L2P,L,BE80,G
+BEECH,88,Queen Air,,2,Piston,LandPlane,L2P,L,BE88,G
+BEECH,90 (A90-1),Ute,,2,Turboprop/Turboshaft,LandPlane,L2T,L,U21,G
+BEECH,90 (A90-2),Ute,,2,Turboprop/Turboshaft,LandPlane,L2T,L,U21,G
+BEECH,90 (A90-3),Ute,,2,Turboprop/Turboshaft,LandPlane,L2T,L,U21,G
+BEECH,90 (A90-4),Ute,,2,Turboprop/Turboshaft,LandPlane,L2T,L,U21,G
+BEECH,90 (A90),King Air,,2,Turboprop/Turboshaft,LandPlane,L2T,L,BE9L,G
+BEECH,90 (B90),King Air,,2,Turboprop/Turboshaft,LandPlane,L2T,L,BE9L,G
+BEECH,90 (C90),King Air,,2,Turboprop/Turboshaft,LandPlane,L2T,L,BE9L,G
+BEECH,90 (D90),King Air,,2,Turboprop/Turboshaft,LandPlane,L2T,L,BE9L,G
+BEECH,90 (E90),King Air,,2,Turboprop/Turboshaft,LandPlane,L2T,L,BE9L,G
+BEECH,90 (F90),King Air,,2,Turboprop/Turboshaft,LandPlane,L2T,L,BE9T,G
+BEECH,90,King Air,,2,Turboprop/Turboshaft,LandPlane,L2T,L,BE9L,G
+BEECH,95,Travel Air,,2,Piston,LandPlane,L2P,L,BE95,G
+BEECH,99,Airliner,,2,Turboprop/Turboshaft,LandPlane,L2T,L,BE99,G
+BEECH,100,King Air,,2,Turboprop/Turboshaft,LandPlane,L2T,L,BE10,G
+BEECH,200,Super King Air,,2,Turboprop/Turboshaft,LandPlane,L2T,L/M,BE20,G
+BEECH,300 (B300),Super King Air 350,,2,Turboprop/Turboshaft,LandPlane,L2T,L/M,B350,G
+BEECH,300,Super King Air,,2,Turboprop/Turboshaft,LandPlane,L2T,L,BE30,G
+BEECH,400,Beechjet,,2,Jet,LandPlane,L2J,M,BE40,G
+BEECH,1074,,,1,Piston,LandPlane,L1P,L,U22,G
+BEECH,1079,,,1,Piston,LandPlane,L1P,L,U22,G
+BEECH,1300,Commuter,,2,Turboprop/Turboshaft,LandPlane,L2T,L/M,BE20,G
+BEECH,1900,,,2,Turboprop/Turboshaft,LandPlane,L2T,M,B190,G
+BEECH,2000,Starship,,2,Turboprop/Turboshaft,LandPlane,L2T,L,STAR,G
+BEECH,,Airliner,,2,Turboprop/Turboshaft,LandPlane,L2T,L,BE99,G
+BEECH,AT-7,Navigator,,2,Piston,LandPlane,L2P,L,BE18,G
+BEECH,AT-11,Kansan,,2,Piston,LandPlane,L2P,L,BE18,G
+BEECH,,Baron (55),,2,Piston,LandPlane,L2P,L,BE55,G
+BEECH,,Baron (58),,2,Piston,LandPlane,L2P,L,BE58,G
+BEECH,,Bonanza (33),,1,Piston,LandPlane,L1P,L,BE33,G
+BEECH,,Bonanza (35),,1,Piston,LandPlane,L1P,L,BE35,G
+BEECH,A36 Bonanza 36,,,1,Piston,LandPlane,L1P,L,BE36,G
+BEECH,A36AT Bonanza 36,,,1,Piston,LandPlane,L1P,L,BE36,G
+BEECH,,"Bonanza (36, turbine)",,1,Turboprop/Turboshaft,LandPlane,L1T,L,B36T,G
+BEECH,C-12A,Huron,,2,Turboprop/Turboshaft,LandPlane,L2T,L/M,BE20,G
+BEECH,C-12C,Huron,,2,Turboprop/Turboshaft,LandPlane,L2T,L/M,BE20,G
+BEECH,C-12D,Huron,,2,Turboprop/Turboshaft,LandPlane,L2T,L/M,BE20,G
+BEECH,C-12E,Huron,,2,Turboprop/Turboshaft,LandPlane,L2T,L/M,BE20,G
+BEECH,C-12F,Huron,,2,Turboprop/Turboshaft,LandPlane,L2T,L/M,BE20,G
+BEECH,C-12J,,,2,Turboprop/Turboshaft,LandPlane,L2T,M,B190,G
+BEECH,C-12L,Huron,,2,Turboprop/Turboshaft,LandPlane,L2T,L/M,BE20,G
+BEECH,C-12R,Huron,,2,Turboprop/Turboshaft,LandPlane,L2T,L/M,BE20,G
+BEECH,C-45,Expeditor,,2,Piston,LandPlane,L2P,L,BE18,G
+BEECH,C-55,Baron,,2,Piston,LandPlane,L2P,L,BE55,G
+BEECH,,Cochise,,2,Piston,LandPlane,L2P,L,BE55,G
+BEECH,,Commuter,,2,Turboprop/Turboshaft,LandPlane,L2T,L/M,BE20,G
+BEECH,,Debonair,,1,Piston,LandPlane,L1P,L,BE33,G
+BEECH,,Duchess,,2,Piston,LandPlane,L2P,L,BE76,G
+BEECH,,Duke,,2,Piston,LandPlane,L2P,L,BE60,G
+BEECH,EU-21,Ute,,2,Turboprop/Turboshaft,LandPlane,L2T,L,U21,G
+BEECH,,Expeditor,,2,Piston,LandPlane,L2P,L,BE18,G
+BEECH,FWC-12,Tzufit,,2,Turboprop/Turboshaft,LandPlane,L2T,L/M,BE20,G
+BEECH,,Huron,,2,Turboprop/Turboshaft,LandPlane,L2T,L/M,BE20,G
+BEECH,,Jayhawk,,2,Jet,LandPlane,L2J,M,BE40,G
+BEECH,JC-12,Huron,,2,Turboprop/Turboshaft,LandPlane,L2T,L/M,BE20,G
+BEECH,JRB,Expeditor,,2,Piston,LandPlane,L2P,L,BE18,G
+BEECH,JU-21,Ute,,2,Turboprop/Turboshaft,LandPlane,L2T,L,U21,G
+BEECH,,Kansan,,2,Piston,LandPlane,L2P,L,BE18,G
+BEECH,,"King Air (90, A90 to E90)",,2,Turboprop/Turboshaft,LandPlane,L2T,L,BE9L,G
+BEECH,,King Air (100),,2,Turboprop/Turboshaft,LandPlane,L2T,L,BE10,G
+BEECH,,King Air (F90),,2,Turboprop/Turboshaft,LandPlane,L2T,L,BE9T,G
+BEECH,,Mentor,,1,Piston,LandPlane,L1P,L,T34P,G
+BEECH,,Musketeer,,1,Piston,LandPlane,L1P,L,BE23,G
+BEECH,,Musketeer Sport,,1,Piston,LandPlane,L1P,L,BE19,G
+BEECH,,Musketeer Super,,1,Piston,LandPlane,L1P,L,BE24,G
+BEECH,,Navigator,,2,Piston,LandPlane,L2P,L,BE18,G
+BEECH,NC-12,Huron,,2,Turboprop/Turboshaft,LandPlane,L2T,L/M,BE20,G
+BEECH,QU-22,,,1,Piston,LandPlane,L1P,L,U22,G
+BEECH,,Queen Air (65),,2,Piston,LandPlane,L2P,L,BE65,G
+BEECH,,Queen Air (70),,2,Piston,LandPlane,L2P,L,BE70,G
+BEECH,,Queen Air (80),,2,Piston,LandPlane,L2P,L,BE80,G
+BEECH,,Queen Air (88),,2,Piston,LandPlane,L2P,L,BE88,G
+BEECH,RC-12,Huron,,2,Turboprop/Turboshaft,LandPlane,L2T,L/M,BE20,G
+BEECH,RC-45,Expeditor,,2,Piston,LandPlane,L2P,L,BE18,G
+BEECH,RU-8,Seminole,,2,Piston,LandPlane,L2P,L,BE50,G
+BEECH,RU-21,Ute,,2,Turboprop/Turboshaft,LandPlane,L2T,L,U21,G
+BEECH,,Seminole (U-8D/E/G),,2,Piston,LandPlane,L2P,L,BE50,G
+BEECH,,Seminole (U-8F),,2,Piston,LandPlane,L2P,L,BE65,G
+BEECH,,Sierra,,1,Piston,LandPlane,L1P,L,BE24,G
+BEECH,,Skipper,,1,Piston,LandPlane,L1P,L,BE77,G
+BEECH,SNB,Expeditor,,2,Piston,LandPlane,L2P,L,BE18,G
+BEECH,,Sport,,1,Piston,LandPlane,L1P,L,BE19,G
+BEECH,,Staggerwing,,1,Piston,LandPlane,L1P,L,BE17,G
+BEECH,,Starship,,2,Turboprop/Turboshaft,LandPlane,L2T,L,STAR,G
+BEECH,,Sundowner,,1,Piston,LandPlane,L1P,L,BE23,G
+BEECH,,Super King Air 350,,2,Turboprop/Turboshaft,LandPlane,L2T,L/M,B350,G
+BEECH,,Super King Air (200),,2,Turboprop/Turboshaft,LandPlane,L2T,L/M,BE20,G
+BEECH,,Super King Air (300),,2,Turboprop/Turboshaft,LandPlane,L2T,L,BE30,G
+BEECH,T-1,Jayhawk,,2,Jet,LandPlane,L2J,M,BE40,G
+BEECH,T-34A,Mentor,,1,Piston,LandPlane,L1P,L,T34P,G
+BEECH,T-34B,Mentor,,1,Piston,LandPlane,L1P,L,T34P,G
+BEECH,T-34C,Turbo Mentor,,1,Turboprop/Turboshaft,LandPlane,L1T,L,T34T,G
+BEECH,T-42,Cochise,,2,Piston,LandPlane,L2P,L,BE55,G
+BEECH,T-44,King Air,,2,Turboprop/Turboshaft,LandPlane,L2T,L,BE9L,G
+BEECH,TC-12,Huron,,2,Turboprop/Turboshaft,LandPlane,L2T,L/M,BE20,G
+BEECH,TC-45,Expeditor,,2,Piston,LandPlane,L2P,L,BE18,G
+BEECH,,Travel Air,,2,Piston,LandPlane,L2P,L,BE95,G
+BEECH,,Traveler,,1,Piston,LandPlane,L1P,L,BE17,G
+BEECH,,Turbo Baron,,2,Piston,LandPlane,L2P,L,BE56,G
+BEECH,,Turbo Mentor,,1,Turboprop/Turboshaft,LandPlane,L1T,L,T34T,G
+BEECH,,Twin Bonanza,,2,Piston,LandPlane,L2P,L,BE50,G
+BEECH,,Tzufit,,2,Turboprop/Turboshaft,LandPlane,L2T,L/M,BE20,G
+BEECH,U-8D,Seminole,,2,Piston,LandPlane,L2P,L,BE50,G
+BEECH,U-8E,Seminole,,2,Piston,LandPlane,L2P,L,BE50,G
+BEECH,U-8F,Seminole,,2,Piston,LandPlane,L2P,L,BE65,G
+BEECH,U-8G,Seminole,,2,Piston,LandPlane,L2P,L,BE50,G
+BEECH,U-21A,Ute,,2,Turboprop/Turboshaft,LandPlane,L2T,L,U21,G
+BEECH,U-21F,Ute,,2,Turboprop/Turboshaft,LandPlane,L2T,L,BE10,G
+BEECH,U-21G,Ute,,2,Turboprop/Turboshaft,LandPlane,L2T,L,U21,G
+BEECH,UC-12,Huron,,2,Turboprop/Turboshaft,LandPlane,L2T,L/M,BE20,G
+BEECH,UC-43,Traveler,,1,Piston,LandPlane,L1P,L,BE17,G
+BEECH,UC-45,Expeditor,,2,Piston,LandPlane,L2P,L,BE18,G
+BEECH,,Ute (U-21A/G),,2,Turboprop/Turboshaft,LandPlane,L2T,L,U21,G
+BEECH,,Ute (U-21F),,2,Turboprop/Turboshaft,LandPlane,L2T,L,BE10,G
+BEECH,VC-6,King Air,,2,Turboprop/Turboshaft,LandPlane,L2T,L,BE9L,G
+BEECH,YC-43,Traveler,,1,Piston,LandPlane,L1P,L,BE17,G
+BEECH,,Zamir,,2,Piston,LandPlane,L2P,L,BE80,G
+BEECH,60 Royal Turbine Duke,,,2,Turboprop/Turboshaft,LandPlane,L2T,L,B60T,G
+BEECH,Royal Turbine Duke,,,2,Turboprop/Turboshaft,LandPlane,L2T,L,B60T,G
+BEECH,36 Bonanza 36,,,1,Piston,LandPlane,L1P,L,BE36,G
+BEECH,A36TC Bonanza,,,1,Piston,LandPlane,L1P,L,BT36,G
+BEECH,B36TC Bonanza,,,1,Piston,LandPlane,L1P,L,BT36,G
+BEECH,Bonanza (A36TC/B36TC),,,1,Piston,LandPlane,L1P,L,BT36,G
+BEECH,58P Pressurized Baron,,,2,Piston,LandPlane,L2P,L,B58T,G
+BEECH,Pressurized Baron,,,2,Piston,LandPlane,L2P,L,B58T,G
+BEECH,58TC Baron,,,2,Piston,LandPlane,L2P,L,B58T,G
+BEECH,Baron (58TC),,,2,Piston,LandPlane,L2P,L,B58T,G
+BEECH,400A,Beechjet,,2,Jet,LandPlane,L2J,M,BE40,G
+BEECH,400T,Jayhawk,,2,Jet,LandPlane,L2J,M,BE40,G
+BEECH,400T,TX,,2,Jet,LandPlane,L2J,M,BE40,G
+BEECH,,TX,,2,Jet,LandPlane,L2J,M,BE40,G
+BEECH,T-400,,,2,Jet,LandPlane,L2J,M,BE40,G
+BEECH,Beechjet (400/400A),,,2,Jet,LandPlane,L2J,M,BE40,G
+BEECH,Beechjet (400XT/400XPR),,,2,Jet,LandPlane,L2J,M,BE4W,G
+BEECH,400XT,Beechjet,,2,Jet,LandPlane,L2J,M,BE4W,G
+BEECH,400XPR,Beechjet,,2,Jet,LandPlane,L2J,M,BE4W,G
+BEECHCRAFT,G36 Bonanza,,,1,Piston,LandPlane,L1P,L,BE36,G
+BEECHCRAFT,Bonanza (G36),,,1,Piston,LandPlane,L1P,L,BE36,G
+BEECHCRAFT,58 Baron,,,2,Piston,LandPlane,L2P,L,BE58,G
+BEECHCRAFT,Baron,,,2,Piston,LandPlane,L2P,L,BE58,G
+BEECHCRAFT,90 King Air 90,,,2,Turboprop/Turboshaft,LandPlane,L2T,L,BE9L,G
+BEECHCRAFT,King Air 90,,,2,Turboprop/Turboshaft,LandPlane,L2T,L,BE9L,G
+BEECHCRAFT,200 King Air 250,,,2,Turboprop/Turboshaft,LandPlane,L2T,L/M,BE20,G
+BEECHCRAFT,King Air 250,,,2,Turboprop/Turboshaft,LandPlane,L2T,L/M,BE20,G
+BEECHCRAFT,300 (B300) King Air 350,,,2,Turboprop/Turboshaft,LandPlane,L2T,L/M,B350,G
+BEECHCRAFT,King Air 350,,,2,Turboprop/Turboshaft,LandPlane,L2T,L/M,B350,G
+BEECHCRAFT,T-6 Texan 2,,,1,Turboprop/Turboshaft,LandPlane,L1T,L,TEX2,G
+BEECHCRAFT,AT-6 Texan 2,,,1,Turboprop/Turboshaft,LandPlane,L1T,L,TEX2,G
+BEECHCRAFT,3000 Texan 2,,,1,Turboprop/Turboshaft,LandPlane,L1T,L,TEX2,G
+BEECHCRAFT,Texan 2,,,1,Turboprop/Turboshaft,LandPlane,L1T,L,TEX2,G
+BEECHCRAFT,AT-6,Wolverine,,1,Turboprop/Turboshaft,LandPlane,L1T,L,TEX2,G
+BEECHCRAFT,,Wolverine,,1,Turboprop/Turboshaft,LandPlane,L1T,L,TEX2,G
+BEECHCRAFT,,King Air 360,,2,Turboprop/Turboshaft,LandPlane,L2T,L/M,B350,
+BEECHCRAFT,300 (B300) King Air 360,,,2,Turboprop/Turboshaft,LandPlane,L2T,L/M,B350,
+BELL,47D,,,1,Piston,Helicopter,H1P,L,B47G,G
+BELL,47G,,,1,Piston,Helicopter,H1P,L,B47G,G
+BELL,47G,Trooper,,1,Piston,Helicopter,H1P,L,B47G,G
+BELL,47H,,,1,Piston,Helicopter,H1P,L,B47G,G
+BELL,47J,Ranger,,1,Piston,Helicopter,H1P,L,B47J,G
+BELL,204,,,1,Turboprop/Turboshaft,Helicopter,H1T,L,UH1,G
+BELL,205,,,1,Turboprop/Turboshaft,Helicopter,H1T,L,UH1,G
+BELL,206A,JetRanger,,1,Turboprop/Turboshaft,Helicopter,H1T,L,B06,G
+BELL,206B,JetRanger,,1,Turboprop/Turboshaft,Helicopter,H1T,L,B06,G
+BELL,206L,LongRanger,,1,Turboprop/Turboshaft,Helicopter,H1T,L,B06,G
+BELL,206LT,TwinRanger,,2,Turboprop/Turboshaft,Helicopter,H2T,L,B06T,G
+BELL,209,HueyCobra,,1,Turboprop/Turboshaft,Helicopter,H1T,L,HUCO,G
+BELL,209,SuperCobra,,2,Turboprop/Turboshaft,Helicopter,H2T,M,SUCO,G
+BELL,210,,,1,Turboprop/Turboshaft,Helicopter,H1T,L,UH1,G
+BELL,212,,,2,Turboprop/Turboshaft,Helicopter,H2T,L,B212,G
+BELL,212,Twin Two-Twelve,,2,Turboprop/Turboshaft,Helicopter,H2T,L,B212,G
+BELL,214A,Isfahan,,1,Turboprop/Turboshaft,Helicopter,H1T,M,B214,G
+BELL,214B,,,1,Turboprop/Turboshaft,Helicopter,H1T,M,B214,G
+BELL,214C,BigLifter,,1,Turboprop/Turboshaft,Helicopter,H1T,M,B214,G
+BELL,214ST,SuperTransport,,2,Turboprop/Turboshaft,Helicopter,H2T,M,BSTP,G
+BELL,222,,,2,Turboprop/Turboshaft,Helicopter,H2T,L,B222,G
+BELL,230,,,2,Turboprop/Turboshaft,Helicopter,H2T,L,B230,G
+BELL,301,,,2,Turboprop/Turboshaft,Tiltrotor,T2T,L,XV15,G
+BELL,406,,,1,Turboprop/Turboshaft,Helicopter,H1T,L,B06,G
+BELL,406,Combat Scout,,1,Turboprop/Turboshaft,Helicopter,H1T,L,B06,G
+BELL,407,,,1,Turboprop/Turboshaft,Helicopter,H1T,L,B407,G
+BELL,412,,,2,Turboprop/Turboshaft,Helicopter,H2T,L,B412,G
+BELL,412,Arapaho,,2,Turboprop/Turboshaft,Helicopter,H2T,L,B412,G
+BELL,412,Sentinel,,2,Turboprop/Turboshaft,Helicopter,H2T,L,B412,G
+BELL,427,,,2,Turboprop/Turboshaft,Helicopter,H2T,L,B427,G
+BELL,429,GlobalRanger,,2,Turboprop/Turboshaft,Helicopter,H2T,L,B429,G
+BELL,430,,,2,Turboprop/Turboshaft,Helicopter,H2T,L,B430,G
+BELL,449,SuperCobra,,2,Turboprop/Turboshaft,Helicopter,H2T,M,SUCO,G
+BELL,AH-1E,HueyCobra,,1,Turboprop/Turboshaft,Helicopter,H1T,L,HUCO,G
+BELL,AH-1F,HueyCobra,,1,Turboprop/Turboshaft,Helicopter,H1T,L,HUCO,G
+BELL,AH-1P,HueyCobra,,1,Turboprop/Turboshaft,Helicopter,H1T,L,HUCO,G
+BELL,AH-1S,HueyCobra,,1,Turboprop/Turboshaft,Helicopter,H1T,L,HUCO,G
+BELL,AH-1W,SuperCobra,,2,Turboprop/Turboshaft,Helicopter,H2T,M,SUCO,G
+BELL,AH-1Z,SuperCobra,,2,Turboprop/Turboshaft,Helicopter,H2T,M,SUCO,G
+BELL,,Airacobra,,1,Piston,LandPlane,L1P,L,P39,G
+BELL,,BigLifter,,1,Turboprop/Turboshaft,Helicopter,H1T,M,B214,G
+BELL,CH-118,,,1,Turboprop/Turboshaft,Helicopter,H1T,L,UH1,G
+BELL,CH-136,,,1,Turboprop/Turboshaft,Helicopter,H1T,L,B06,G
+BELL,CH-139,,,1,Turboprop/Turboshaft,Helicopter,H1T,L,B06,G
+BELL,CH-146,Griffon,,2,Turboprop/Turboshaft,Helicopter,H2T,L,B412,G
+BELL,COH-58,,,1,Turboprop/Turboshaft,Helicopter,H1T,L,B06,G
+BELL,,Combat Scout,,1,Turboprop/Turboshaft,Helicopter,H1T,L,B06,G
+BELL,,Creek,,1,Turboprop/Turboshaft,Helicopter,H1T,L,B06,G
+BELL,CUH-1H,,,1,Turboprop/Turboshaft,Helicopter,H1T,L,UH1,G
+BELL,EH-1,Iroquois,,1,Turboprop/Turboshaft,Helicopter,H1T,L,UH1,G
+BELL,,GlobalRanger,,2,Turboprop/Turboshaft,Helicopter,H2T,L,B429,G
+BELL,,Griffin,,2,Turboprop/Turboshaft,Helicopter,H2T,L,B412,G
+BELL,,Griffon,,2,Turboprop/Turboshaft,Helicopter,H2T,L,B412,G
+BELL,HH-1,Iroquois,,1,Turboprop/Turboshaft,Helicopter,H1T,L,UH1,G
+BELL,Arapaho (412),,,2,Turboprop/Turboshaft,Helicopter,H2T,L,B412,G
+BELL,Arapaho (RH-70),,,1,Turboprop/Turboshaft,Helicopter,H1T,L,B407,G
+BELL,HH-13,,,1,Piston,Helicopter,H1P,L,B47J,G
+BELL,,Huey,,1,Turboprop/Turboshaft,Helicopter,H1T,L,UH1,G
+BELL,,HueyCobra,,1,Turboprop/Turboshaft,Helicopter,H1T,L,HUCO,G
+BELL,,Iroquois,,1,Turboprop/Turboshaft,Helicopter,H1T,L,UH1,G
+BELL,,Isfahan,,1,Turboprop/Turboshaft,Helicopter,H1T,M,B214,G
+BELL,,JetRanger,,1,Turboprop/Turboshaft,Helicopter,H1T,L,B06,G
+BELL,,Kingcobra,,1,Piston,LandPlane,L1P,L,P63,G
+BELL,,Kiowa,,1,Turboprop/Turboshaft,Helicopter,H1T,L,B06,G
+BELL,,Kiowa Warrior,,1,Turboprop/Turboshaft,Helicopter,H1T,L,B06,G
+BELL,,LongRanger,,1,Turboprop/Turboshaft,Helicopter,H1T,L,B06,G
+BELL,OH-13,Sioux,,1,Piston,Helicopter,H1P,L,B47G,G
+BELL,OH-58,Kiowa,,1,Turboprop/Turboshaft,Helicopter,H1T,L,B06,G
+BELL,OH-58,Kiowa Warrior,,1,Turboprop/Turboshaft,Helicopter,H1T,L,B06,G
+BELL,P-39,Airacobra,,1,Piston,LandPlane,L1P,L,P39,G
+BELL,P-63,Kingcobra,,1,Piston,LandPlane,L1P,L,P63,G
+BELL,,Ranger,,1,Piston,Helicopter,H1P,L,B47J,G
+BELL,,SeaRanger,,1,Turboprop/Turboshaft,Helicopter,H1T,L,B06,G
+BELL,,Sentinel,,2,Turboprop/Turboshaft,Helicopter,H2T,L,B412,G
+BELL,SH-1,Iroquois,,1,Turboprop/Turboshaft,Helicopter,H1T,L,UH1,G
+BELL,,Sioux,,1,Piston,Helicopter,H1P,L,B47G,G
+BELL,,SuperCobra,,2,Turboprop/Turboshaft,Helicopter,H2T,M,SUCO,G
+BELL,,SuperTransport,,2,Turboprop/Turboshaft,Helicopter,H2T,M,BSTP,G
+BELL,TAH-1,HueyCobra,,1,Turboprop/Turboshaft,Helicopter,H1T,L,HUCO,G
+BELL,TH-1E,Iroquois,,1,Turboprop/Turboshaft,Helicopter,H1T,L,UH1,G
+BELL,ARH-70 Arapaho,,,1,Turboprop/Turboshaft,Helicopter,H1T,L,B407,G
+BELL,YRH-70,Arapaho,,1,Turboprop/Turboshaft,Helicopter,H1T,L,B407,G
+BELL,TH-1F,Iroquois,,1,Turboprop/Turboshaft,Helicopter,H1T,L,UH1,G
+BELL,TH-1H Iroquois,,,1,Turboprop/Turboshaft,Helicopter,H1T,L,UH1,G
+BELL,TH-1L,Iroquois,,1,Turboprop/Turboshaft,Helicopter,H1T,L,UH1,G
+BELL,TH-1S,HueyCobra,,1,Turboprop/Turboshaft,Helicopter,H1T,L,HUCO,G
+BELL,TH-13N,,,1,Piston,Helicopter,H1P,L,B47J,G
+BELL,TH-13T,,,1,Piston,Helicopter,H1P,L,B47G,G
+BELL,TH-57,SeaRanger,,1,Turboprop/Turboshaft,Helicopter,H1T,L,B06,G
+BELL,TH-67,Creek,,1,Turboprop/Turboshaft,Helicopter,H1T,L,B06,G
+BELL,TH-206,,,1,Turboprop/Turboshaft,Helicopter,H1T,L,B06,G
+BELL,,Trooper,,1,Piston,Helicopter,H1P,L,B47G,G
+BELL,,Twin Two-Twelve,,2,Turboprop/Turboshaft,Helicopter,H2T,L,B212,G
+BELL,,TwinRanger,,2,Turboprop/Turboshaft,Helicopter,H2T,L,B06T,G
+BELL,UH-1A,Iroquois,,1,Turboprop/Turboshaft,Helicopter,H1T,L,UH1,G
+BELL,UH-1B,Iroquois,,1,Turboprop/Turboshaft,Helicopter,H1T,L,UH1,G
+BELL,UH-1C,Iroquois,,1,Turboprop/Turboshaft,Helicopter,H1T,L,UH1,G
+BELL,UH-1D,Iroquois,,1,Turboprop/Turboshaft,Helicopter,H1T,L,UH1,G
+BELL,UH-1E,Iroquois,,1,Turboprop/Turboshaft,Helicopter,H1T,L,UH1,G
+BELL,UH-1F,Iroquois,,1,Turboprop/Turboshaft,Helicopter,H1T,L,UH1,G
+BELL,UH-1H,Iroquois,,1,Turboprop/Turboshaft,Helicopter,H1T,L,UH1,G
+BELL,UH-1L,Iroquois,,1,Turboprop/Turboshaft,Helicopter,H1T,L,UH1,G
+BELL,UH-1M,Iroquois,,1,Turboprop/Turboshaft,Helicopter,H1T,L,UH1,G
+BELL,UH-1N,,,2,Turboprop/Turboshaft,Helicopter,H2T,L,B212,G
+BELL,UH-1V,Iroquois,,1,Turboprop/Turboshaft,Helicopter,H1T,L,UH1,G
+BELL,UH-1Y,,,2,Turboprop/Turboshaft,Helicopter,H2T,M,UH1Y,G
+BELL,UH-13H,,,1,Piston,Helicopter,H1P,L,B47G,G
+BELL,UH-13J,,,1,Piston,Helicopter,H1P,L,B47J,G
+BELL,UH-13P,,,1,Piston,Helicopter,H1P,L,B47J,G
+BELL,UH-13R,,,1,Piston,Helicopter,H1P,L,B47J,G
+BELL,VH-1,,,2,Turboprop/Turboshaft,Helicopter,H2T,L,B212,G
+BELL,VH-4,JetRanger,,1,Turboprop/Turboshaft,Helicopter,H1T,L,B06,G
+BELL,XV-15,,,2,Turboprop/Turboshaft,Tiltrotor,T2T,L,XV15,G
+BELL,412 Griffin,,,2,Turboprop/Turboshaft,Helicopter,H2T,L,B412,G
+BELL,525 Relentless,,,2,Turboprop/Turboshaft,Helicopter,H2T,M,B525,G
+BELL,Relentless,,,2,Turboprop/Turboshaft,Helicopter,H2T,M,B525,G
+BELL,505,Jet Ranger X,,1,Turboprop/Turboshaft,Helicopter,H1T,L,B505,G
+BELL,,Jet Ranger X,,1,Turboprop/Turboshaft,Helicopter,H1T,L,B505,G
+BELL,V-280,Valor,,2,Turboprop/Turboshaft,Tiltrotor,T2T,M,V280,Z
+BELL,,Valor,,2,Turboprop/Turboshaft,Tiltrotor,T2T,M,V280,Z
+BOEING,787-10 Dreamliner,,,2,Jet,LandPlane,L2J,H,B78X,B
+BOEING,75,Kaydet,,1,Piston,LandPlane,L1P,L,ST75,G
+BOEING,707-100,,,4,Jet,LandPlane,L4J,M,B701,D
+BOEING,707-300,,,4,Jet,LandPlane,L4J,H,B703,C
+BOEING,717-200,,,2,Jet,LandPlane,L2J,M,B712,E
+BOEING,717-200,Business Express,,2,Jet,LandPlane,L2J,M,B712,E
+BOEING,720,,,4,Jet,LandPlane,L4J,M,B720,D
+BOEING,727-100,,,3,Jet,LandPlane,L3J,M,B721,D
+BOEING,727-100RE,Super 27,,3,Jet,LandPlane,L3J,M,R721,D
+BOEING,727-200,,,3,Jet,LandPlane,L3J,M,B722,D
+BOEING,727-200RE,Super 27,,3,Jet,LandPlane,L3J,M,R722,D
+BOEING,737-200,,,2,Jet,LandPlane,L2J,M,B732,E
+BOEING,737-200,Surveiller,,2,Jet,LandPlane,L2J,M,B732,E
+BOEING,737-300,,,2,Jet,LandPlane,L2J,M,B733,E
+BOEING,737-400,,,2,Jet,LandPlane,L2J,M,B734,E
+BOEING,737-500,,,2,Jet,LandPlane,L2J,M,B735,E
+BOEING,737-600,,,2,Jet,LandPlane,L2J,M,B736,D
+BOEING,737-700,,,2,Jet,LandPlane,L2J,M,B737,D
+BOEING,737-700,BBJ,,2,Jet,LandPlane,L2J,M,B737,D
+BOEING,737-700,Wedgetail,,2,Jet,LandPlane,L2J,M,E737,D
+BOEING,737-800,,,2,Jet,LandPlane,L2J,M,B738,D
+BOEING,737-800,BBJ2,,2,Jet,LandPlane,L2J,M,B738,D
+BOEING,737-900,,,2,Jet,LandPlane,L2J,M,B739,D
+BOEING,737-900 BBJ3,,,2,Jet,LandPlane,L2J,M,B739,D
+BOEING,747-100,,,4,Jet,LandPlane,L4J,H,B741,B
+BOEING,747-200,,,4,Jet,LandPlane,L4J,H,B742,B
+BOEING,747-300,,,4,Jet,LandPlane,L4J,H,B743,B
+BOEING,747-400LCF,Dreamlifter,,4,Jet,LandPlane,L4J,H,BLCF,B
+BOEING,747SP,,,4,Jet,LandPlane,L4J,H,B74S,B
+BOEING,747SR,,,4,Jet,LandPlane,L4J,H,B74R,B
+BOEING,757-200,,,2,Jet,LandPlane,L2J,M,B752,D
+BOEING,757-300,,,2,Jet,LandPlane,L2J,M,B753,D
+BOEING,767-200,,,2,Jet,LandPlane,L2J,H,B762,C
+BOEING,767-300,,,2,Jet,LandPlane,L2J,H,B763,C
+BOEING,767-400,,,2,Jet,LandPlane,L2J,H,B764,C
+BOEING,777-200,,,2,Jet,LandPlane,L2J,H,B772,B
+BOEING,777-200ER,,,2,Jet,LandPlane,L2J,H,B772,B
+BOEING,777-200LR,,,2,Jet,LandPlane,L2J,H,B77L,B
+BOEING,777-300,,,2,Jet,LandPlane,L2J,H,B773,B
+BOEING,777-300ER,,,2,Jet,LandPlane,L2J,H,B77W,B
+BOEING,787-8 Dreamliner,,,2,Jet,LandPlane,L2J,H,B788,B
+BOEING,787-9 Dreamliner,,,2,Jet,LandPlane,L2J,H,B789,B
+BOEING,AH-64,Longbow Apache,,2,Turboprop/Turboshaft,Helicopter,H2T,M,H64,G
+BOEING,AV-8,Harrier,,1,Jet,LandPlane,L1J,M,HAR,G
+BOEING,B-17,Flying Fortress,,4,Piston,LandPlane,L4P,M,B17,E
+BOEING,B-29,Superfortress,,4,Piston,LandPlane,L4P,M,B29,D
+BOEING,777-F,,,2,Jet,LandPlane,L2J,H,B77L,B
+BOEING,B-52,Stratofortress,,8,Jet,LandPlane,L8J,H,B52,B
+BOEING,,BBJ2,,2,Jet,LandPlane,L2J,M,B738,D
+BOEING,BBJ3,,,2,Jet,LandPlane,L2J,M,B739,D
+BOEING,,Business Express,,2,Jet,LandPlane,L2J,M,B712,E
+BOEING,C-17,Globemaster 3,,4,Jet,LandPlane,L4J,H,C17,C
+BOEING,C-18,,,4,Jet,LandPlane,L4J,H,B703,C
+BOEING,C-22,,,3,Jet,LandPlane,L3J,M,B721,D
+BOEING,C-32,,,2,Jet,LandPlane,L2J,M,B752,D
+BOEING,C-40,,,2,Jet,LandPlane,L2J,M,B737,D
+BOEING,C-40,Clipper,,2,Jet,LandPlane,L2J,M,B737,D
+BOEING,C-97,Stratofreighter,,4,Piston,LandPlane,L4P,M,C97,D
+BOEING,C-135FR,Stratotanker,,4,Jet,LandPlane,L4J,H,K35R,C
+BOEING,C-137,,,4,Jet,LandPlane,L4J,H,B703,C
+BOEING,CH-47,Chinook,,2,Turboprop/Turboshaft,Helicopter,H2T,M,H47,F
+BOEING,,Chinook,,2,Turboprop/Turboshaft,Helicopter,H2T,M,H47,F
+BOEING,,Clipper,,2,Jet,LandPlane,L2J,M,B737,D
+BOEING,CT-43,,,2,Jet,LandPlane,L2J,M,B732,E
+BOEING,,Defender,,1,Turboprop/Turboshaft,Helicopter,H1T,L,H500,G
+BOEING,NC-135,,,4,Jet,LandPlane,L4J,H,C135,C
+BOEING,TC-135,,,4,Jet,LandPlane,L4J,H,R135,C
+BOEING,Dreamlifter,,,4,Jet,LandPlane,L4J,H,BLCF,B
+BOEING,Dreamliner (Srs.8),,,2,Jet,LandPlane,L2J,H,B788,B
+BOEING,Dreamliner (Srs.9),,,2,Jet,LandPlane,L2J,H,B789,B
+BOEING,E-3A (CFM56),Sentry,,4,Jet,LandPlane,L4J,H,E3CF,C
+BOEING,E-3A (TF33),Sentry,,4,Jet,LandPlane,L4J,H,E3TF,C
+BOEING,E-3B,Sentry,,4,Jet,LandPlane,L4J,H,E3TF,C
+BOEING,E-3C,Sentry,,4,Jet,LandPlane,L4J,H,E3TF,C
+BOEING,E-3D,Sentry,,4,Jet,LandPlane,L4J,H,E3CF,C
+BOEING,E-3F,Sentry,,4,Jet,LandPlane,L4J,H,E3CF,C
+BOEING,E-4,,,4,Jet,LandPlane,L4J,H,B742,B
+BOEING,E-6,Mercury,,4,Jet,LandPlane,L4J,H,E6,C
+BOEING,E-8,J-Stars,,4,Jet,LandPlane,L4J,H,B703,C
+BOEING,E-767,,,2,Jet,LandPlane,L2J,H,E767,C
+BOEING,,Eagle,,2,Jet,LandPlane,L2J,M,F15,F
+BOEING,EC-18,,,4,Jet,LandPlane,L4J,H,B703,C
+BOEING,EC-137,,,4,Jet,LandPlane,L4J,H,B703,C
+BOEING,,Explorer,,2,Turboprop/Turboshaft,Helicopter,H2T,L,EXPL,G
+BOEING,F-15,Eagle,,2,Jet,LandPlane,L2J,M,F15,F
+BOEING,F-15,Ra'am,,2,Jet,LandPlane,L2J,M,F15,F
+BOEING,,Flying Fortress,,4,Piston,LandPlane,L4P,M,B17,E
+BOEING,,Globemaster 3,,4,Jet,LandPlane,L4J,H,C17,C
+BOEING,Hornet,,,2,Jet,LandPlane,L2J,M,F18H,F
+BOEING,FA-18C Hornet,,,2,Jet,LandPlane,L2J,M,F18H,F
+BOEING,,Goshawk,,1,Jet,LandPlane,L1J,M,HAWK,G
+BOEING,,Harrier,,1,Jet,LandPlane,L1J,M,HAR,G
+BOEING,HH-47,,,2,Turboprop/Turboshaft,Helicopter,H2T,M,H47,F
+BOEING,JE-3,Sentry,,4,Jet,LandPlane,L4J,H,E3TF,C
+BOEING,,J-Stars,,4,Jet,LandPlane,L4J,H,B703,C
+BOEING,,Kaydet,,1,Piston,LandPlane,L1P,L,ST75,G
+BOEING,KC-135E,Stratotanker,,4,Jet,LandPlane,L4J,H,K35E,C
+BOEING,KC-135R,Stratotanker,,4,Jet,LandPlane,L4J,H,K35R,C
+BOEING,KC-135T,Stratotanker,,4,Jet,LandPlane,L4J,H,K35R,C
+BOEING,KC-137,,,4,Jet,LandPlane,L4J,H,B703,C
+BOEING,KC-767,,,2,Jet,LandPlane,L2J,H,B762,C
+BOEING,KE-3,,,4,Jet,LandPlane,L4J,H,KE3,C
+BOEING,,Lifter,,1,Turboprop/Turboshaft,Helicopter,H1T,L,H500,G
+BOEING,,Longbow Apache,,2,Turboprop/Turboshaft,Helicopter,H2T,M,H64,G
+BOEING,MD-10,,,3,Jet,LandPlane,L3J,H,DC10,C
+BOEING,MD-11,,,3,Jet,LandPlane,L3J,H,MD11,C
+BOEING,MD-81,,,2,Jet,LandPlane,L2J,M,MD81,D
+BOEING,MD-82,,,2,Jet,LandPlane,L2J,M,MD82,D
+BOEING,MD-83,,,2,Jet,LandPlane,L2J,M,MD83,D
+BOEING,MD-87,,,2,Jet,LandPlane,L2J,M,MD87,D
+BOEING,MD-88,,,2,Jet,LandPlane,L2J,M,MD88,D
+BOEING,MD-90,,,2,Jet,LandPlane,L2J,M,MD90,D
+BOEING,FA-18D Hornet,,,2,Jet,LandPlane,L2J,M,F18H,F
+BOEING,MD-500,,,1,Turboprop/Turboshaft,Helicopter,H1T,L,H500,G
+BOEING,MD-500,Defender,,1,Turboprop/Turboshaft,Helicopter,H1T,L,H500,G
+BOEING,MD-500,Nightfox,,1,Turboprop/Turboshaft,Helicopter,H1T,L,H500,G
+BOEING,MD-520N,,,1,Turboprop/Turboshaft,Helicopter,H1T,L,MD52,G
+BOEING,MD-530F,Lifter,,1,Turboprop/Turboshaft,Helicopter,H1T,L,H500,G
+BOEING,MD-530MG,Defender,,1,Turboprop/Turboshaft,Helicopter,H1T,L,H500,G
+BOEING,MD-530MG,Nightfox,,1,Turboprop/Turboshaft,Helicopter,H1T,L,H500,G
+BOEING,MD-600N,,,1,Turboprop/Turboshaft,Helicopter,H1T,L,MD60,G
+BOEING,MD-902,Explorer,,2,Turboprop/Turboshaft,Helicopter,H2T,L,EXPL,G
+BOEING,,Mercury,,4,Jet,LandPlane,L4J,H,E6,C
+BOEING,MH-47,Chinook,,2,Turboprop/Turboshaft,Helicopter,H2T,M,H47,F
+BOEING,N2S,Kaydet,,1,Piston,LandPlane,L1P,L,ST75,G
+BOEING,,Nightfox,,1,Turboprop/Turboshaft,Helicopter,H1T,L,H500,G
+BOEING,OC-135,,,4,Jet,LandPlane,L4J,H,C135,C
+BOEING,PT-13,Kaydet,,1,Piston,LandPlane,L1P,L,ST75,G
+BOEING,PT-17,Kaydet,,1,Piston,LandPlane,L1P,L,ST75,G
+BOEING,PT-18,Kaydet,,1,Piston,LandPlane,L1P,L,ST75,G
+BOEING,PT-27,Kaydet,,1,Piston,LandPlane,L1P,L,ST75,G
+BOEING,,Ra'am,,2,Jet,LandPlane,L2J,M,F15,F
+BOEING,RC-135,,,4,Jet,LandPlane,L4J,H,R135,C
+BOEING,,Sentry (CFM56),,4,Jet,LandPlane,L4J,H,E3CF,C
+BOEING,,Sentry (TF33),,4,Jet,LandPlane,L4J,H,E3TF,C
+BOEING,,Stratofortress,,8,Jet,LandPlane,L8J,H,B52,B
+BOEING,,Stratofreighter,,4,Piston,LandPlane,L4P,M,C97,D
+BOEING,,Stratotanker (CFM56 engines),,4,Jet,LandPlane,L4J,H,K35R,C
+BOEING,,Stratotanker (TF33 engines),,4,Jet,LandPlane,L4J,H,K35E,C
+BOEING,Super 27 (100),,,3,Jet,LandPlane,L3J,M,R721,D
+BOEING,Super 27 (200),,,3,Jet,LandPlane,L3J,M,R722,D
+BOEING,,Superfortress,,4,Piston,LandPlane,L4P,M,B29,D
+BOEING,,Surveiller,,2,Jet,LandPlane,L2J,M,B732,E
+BOEING,T-45,Goshawk,,1,Jet,LandPlane,L1J,M,HAWK,G
+BOEING,VC-25,,,4,Jet,LandPlane,L4J,H,B742,B
+BOEING,VC-96,,,2,Jet,LandPlane,L2J,M,B732,E
+BOEING,WC-135,,,4,Jet,LandPlane,L4J,H,C135,C
+BOEING,,Wedgetail,,2,Jet,LandPlane,L2J,M,E737,D
+BOEING,F-15 Slam Eagle,,,2,Jet,LandPlane,L2J,M,F15,F
+BOEING,Slam Eagle,,,2,Jet,LandPlane,L2J,M,F15,F
+BOEING,CC-177 Globemaster 3,,,4,Jet,LandPlane,L4J,H,C17,C
+BOEING,P-8 Poseidon,,,2,Jet,LandPlane,L2J,M,P8,D
+BOEING,737-800 Poseidon,,,2,Jet,LandPlane,L2J,M,P8,D
+BOEING,Poseidon,,,2,Jet,LandPlane,L2J,M,P8,D
+BOEING,737-700 AEWC,,,2,Jet,LandPlane,L2J,M,E737,D
+BOEING,AH-64 Saraf,,,2,Turboprop/Turboshaft,Helicopter,H2T,M,H64,G
+BOEING,,Saraf,,2,Turboprop/Turboshaft,Helicopter,H2T,M,H64,G
+BOEING,JCH-47 Chinook,,,2,Turboprop/Turboshaft,Helicopter,H2T,M,H47,F
+BOEING,747-8,,,4,Jet,LandPlane,L4J,H,B748,B
+BOEING,Growler,,,2,Jet,LandPlane,L2J,M,F18S,F
+BOEING,EA-18 Growler,,,2,Jet,LandPlane,L2J,M,F18S,F
+BOEING,Dreamliner (Srs.10),,,2,Jet,LandPlane,L2J,H,B78X,B
+BOEING,Super Hornet,,,2,Jet,LandPlane,L2J,M,F18S,F
+BOEING,FA-18E Super Hornet,,,2,Jet,LandPlane,L2J,M,F18S,F
+BOEING,FA-18F Super Hornet,,,2,Jet,LandPlane,L2J,M,F18S,F
+BOEING,NEA-18 Growler,,,2,Jet,LandPlane,L2J,M,F18S,F
+BOEING,777-8,,,2,Jet,LandPlane,L2J,H,B778,Z
+BOEING,777-9,,,2,Jet,LandPlane,L2J,H,B779,Z
+BOEING,747-8 BBJ,,,4,Jet,LandPlane,L4J,H,B748,B
+BOEING,BBJ (747-8),,,4,Jet,LandPlane,L4J,H,B748,B
+BOEING,777-200LR BBJ,,,2,Jet,LandPlane,L2J,H,B77L,B
+BOEING,BBJ (777-200LR),,,2,Jet,LandPlane,L2J,H,B77L,B
+BOEING,777-300ER BBJ,,,2,Jet,LandPlane,L2J,H,B77W,B
+BOEING,BBJ (777-300ER),,,2,Jet,LandPlane,L2J,H,B77W,B
+BOEING,787-8 BBJ,,,2,Jet,LandPlane,L2J,H,B788,B
+BOEING,BBJ (787-8),,,2,Jet,LandPlane,L2J,H,B788,B
+BOEING,787-9 BBJ,,,2,Jet,LandPlane,L2J,H,B789,B
+BOEING,BBJ (787-9),,,2,Jet,LandPlane,L2J,H,B789,B
+BOEING,737,MAX 7,,2,Jet,LandPlane,L2J,M,B37M,D
+BOEING,737,MAX 7 BBJ,,2,Jet,LandPlane,L2J,M,B37M,D
+BOEING,737,MAX 8,,2,Jet,LandPlane,L2J,M,B38M,D
+BOEING,737,MAX 8 BBJ,,2,Jet,LandPlane,L2J,M,B38M,D
+BOEING,737,MAX 9,,2,Jet,LandPlane,L2J,M,B39M,D
+BOEING,737,MAX 9 BBJ,,2,Jet,LandPlane,L2J,M,B39M,D
+BOEING,BBJ (737-700),,,2,Jet,LandPlane,L2J,M,B737,D
+BOEING,BBJ (737 MAX 7),,,2,Jet,LandPlane,L2J,M,B37M,D
+BOEING,BBJ (737 MAX 8),,,2,Jet,LandPlane,L2J,M,B38M,D
+BOEING,BBJ (737 MAX 9),,,2,Jet,LandPlane,L2J,M,B39M,D
+BOEING,451,Scout,,1,Piston,LandPlane,L1P,L,YL15,G
+BOEING,YL-15,Scout,,1,Piston,LandPlane,L1P,L,YL15,G
+BOEING,,Scout,,1,Piston,LandPlane,L1P,L,YL15,G
+BOEING,747-400,,,4,Jet,LandPlane,L4J,H,B744,B
+BOEING,40,,,1,Piston,LandPlane,L1P,L,BO40,
+BOEING,MQ-25 Stingray,,,1,Jet,LandPlane,L1J,M,Q25,
+BOEING,,Stingray,,1,Jet,LandPlane,L1J,M,Q25,
+BOEING,KC-46 Pegasus,,,2,Jet,LandPlane,L2J,H,B762,C
+BOEING,,Pegasus,,2,Jet,LandPlane,L2J,H,B762,C
+BOEING,T-7,Red Hawk,,1,Jet,LandPlane,L1J,M,BT7,
+BOEING,,Red Hawk,,1,Jet,LandPlane,L1J,M,BT7,
+BOEING,BTX-1,,,1,Jet,LandPlane,L1J,M,BT7,
+BOEING,737-7,,,2,Jet,LandPlane,L2J,M,B37M,D
+BOEING,737-8,,,2,Jet,LandPlane,L2J,M,B38M,D
+BOEING,737-9,,,2,Jet,LandPlane,L2J,M,B39M,D
+BOEING,737-10,,,2,Jet,LandPlane,L2J,M,B3XM,
+BOEING,737 MAX 10,,,2,Jet,LandPlane,L2J,M,B3XM,
+BOEING,737 MAX 8200,,,2,Jet,LandPlane,L2J,M,B38M,
+BOEING,737-8200,,,2,Jet,LandPlane,L2J,M,B38M,
+BOMBARDIER,CL-600 Regional Jet ,CRJ-1000,,2,Jet,LandPlane,L2J,M,CRJX,F
+BOMBARDIER,Regional Jet CRJ-1000,,,2,Jet,LandPlane,L2J,M,CRJX,F
+BOMBARDIER,BD-100,Challenger 300,,2,Jet,LandPlane,L2J,M,CL30,G
+BOMBARDIER,BD-700,Global 5000,,2,Jet,LandPlane,L2J,M,GL5T,E
+BOMBARDIER,BD-700,Global Express,,2,Jet,LandPlane,L2J,M,GLEX,E
+BOMBARDIER,,Challenger 300,,2,Jet,LandPlane,L2J,M,CL30,G
+BOMBARDIER,,Global 5000,,2,Jet,LandPlane,L2J,M,GL5T,E
+BOMBARDIER,,Global Express,,2,Jet,LandPlane,L2J,M,GLEX,E
+BOMBARDIER,,Sentinel,,2,Jet,LandPlane,L2J,M,GLEX,E
+BOMBARDIER,BD-500 CSeries CS100,,,2,Jet,LandPlane,L2J,M,BCS1,D
+BOMBARDIER,BD-500 CSeries CS300,,,2,Jet,LandPlane,L2J,M,BCS3,D
+BOMBARDIER,BD-100 Challenger 350,,,2,Jet,LandPlane,L2J,M,CL35,G
+BOMBARDIER,Challenger 350,,,2,Jet,LandPlane,L2J,M,CL35,G
+BOMBARDIER,CL-600 Challenger 650,,,2,Jet,LandPlane,L2J,M,CL60,F
+BOMBARDIER,Challenger 650,,,2,Jet,LandPlane,L2J,M,CL60,F
+BOMBARDIER,E-11,,,2,Jet,LandPlane,L2J,M,GLEX,E
+BOMBARDIER,BD-700 Global 7000,,,2,Jet,LandPlane,L2J,M,GL7T,E
+BOMBARDIER,Global 7000,,,2,Jet,LandPlane,L2J,M,GL7T,E
+BOMBARDIER,BD-700 ,Global 6000,,2,Jet,LandPlane,L2J,M,GLEX,E
+BOMBARDIER,Global 6000,,,2,Jet,LandPlane,L2J,M,GLEX,E
+BOMBARDIER,CSeries CS100,,,2,Jet,LandPlane,L2J,M,BCS1,D
+BOMBARDIER,CSeries CS300,,,2,Jet,LandPlane,L2J,M,BCS3,D
+BOMBARDIER,CS100,,,2,Jet,LandPlane,L2J,M,BCS1,D
+BOMBARDIER,CS300,,,2,Jet,LandPlane,L2J,M,BCS3,D
+BOMBARDIER,CL-600 ,Regional Jet CRJ-550,,2,Jet,LandPlane,L2J,M,CRJ7,F
+BOMBARDIER,,Regional Jet CRJ-550,,2,Jet,LandPlane,L2J,M,CRJ7,F
+BOMBARDIER,BD-700,Global 5500,,2,Jet,LandPlane,L2J,M,GL5T,E
+BOMBARDIER,BD-700,Global 6500,,2,Jet,LandPlane,L2J,M,GLEX,E
+BOMBARDIER,BD-700,Global 7500,,2,Jet,LandPlane,L2J,M,GL7T,E
+BOMBARDIER,,Global 5500,,2,Jet,LandPlane,L2J,M,GL5T,E
+BOMBARDIER,,Global 6500,,2,Jet,LandPlane,L2J,M,GLEX,E
+BOMBARDIER,,Global 7500,,2,Jet,LandPlane,L2J,M,GL7T,E
+CANADAIR,A-10,Catalina,,2,Piston,Amphibian,A2P,M,CAT,Z
+CANADAIR,C-143 Challenger 604,,,2,Jet,LandPlane,L2J,M,CL60,F
+CANADAIR,,Catalina,,2,Piston,Amphibian,A2P,M,CAT,Z
+CANADAIR,CC-109,Cosmopolitan,,2,Turboprop/Turboshaft,LandPlane,L2T,M,CVLT,D
+CANADAIR,CC-144,Challenger 600,,2,Jet,LandPlane,L2J,M,CL60,F
+CANADAIR,CC-144B,Challenger 601,,2,Jet,LandPlane,L2J,M,CL60,F
+CANADAIR,CE-144A,Challenger 600,,2,Jet,LandPlane,L2J,M,CL60,F
+CANADAIR,CF-5,,,2,Jet,LandPlane,L2J,M,F5,G
+CANADAIR,CF-104,Starfighter,,1,Jet,LandPlane,L1J,M,F104,G
+CANADAIR,CF-116,,,2,Jet,LandPlane,L2J,M,F5,G
+CANADAIR,,Challenger 600,,2,Jet,LandPlane,L2J,M,CL60,F
+CANADAIR,,Challenger 601,,2,Jet,LandPlane,L2J,M,CL60,F
+CANADAIR,,Challenger 604,,2,Jet,LandPlane,L2J,M,CL60,F
+CANADAIR,Challenger 605,,,2,Jet,LandPlane,L2J,M,CL60,F
+CANADAIR,,Challenger 800,,2,Jet,LandPlane,L2J,M,CRJ2,F
+CANADAIR,Challenger 850,,,2,Jet,LandPlane,L2J,M,CRJ2,F
+CANADAIR,Challenger 870,,,2,Jet,LandPlane,L2J,M,CRJ7,F
+CANADAIR,Challenger 890,,,2,Jet,LandPlane,L2J,M,CRJ9,F
+CANADAIR,CL-1,Catalina,,2,Piston,Amphibian,A2P,M,CAT,Z
+CANADAIR,CL-13,Sabre,,1,Jet,LandPlane,L1J,M,F86,G
+CANADAIR,CL-30,Silver Star,,1,Jet,LandPlane,L1J,M,T33,G
+CANADAIR,CL-41,Tutor,,1,Jet,LandPlane,L1J,L,CL41,G
+CANADAIR,CL-44-O,Guppy,,4,Turboprop/Turboshaft,LandPlane,L4T,M,CL4G,D
+CANADAIR,CL-66,,,2,Turboprop/Turboshaft,LandPlane,L2T,M,CVLT,D
+CANADAIR,CL-90,Starfighter,,1,Jet,LandPlane,L1J,M,F104,G
+CANADAIR,CL-201,Starfighter,,1,Jet,LandPlane,L1J,M,F104,G
+CANADAIR,CL-215,,,2,Piston,Amphibian,A2P,M,CL2P,E
+CANADAIR,CL-215T,,,2,Turboprop/Turboshaft,Amphibian,A2T,M,CL2T,E
+CANADAIR,CL-219,,,2,Jet,LandPlane,L2J,M,F5,G
+CANADAIR,CL-226,,,2,Jet,LandPlane,L2J,M,F5,G
+CANADAIR,CL-415,,,2,Turboprop/Turboshaft,Amphibian,A2T,M,CL2T,E
+CANADAIR,CL-415,SuperScooper,,2,Turboprop/Turboshaft,Amphibian,A2T,M,CL2T,E
+CANADAIR,CL-600,Challenger 600,,2,Jet,LandPlane,L2J,M,CL60,F
+CANADAIR,CL-600,Challenger 601,,2,Jet,LandPlane,L2J,M,CL60,F
+CANADAIR,CL-600,Challenger 604,,2,Jet,LandPlane,L2J,M,CL60,F
+CANADAIR,CL-600 Challenger 605,,,2,Jet,LandPlane,L2J,M,CL60,F
+CANADAIR,CL-600,Challenger 800,,2,Jet,LandPlane,L2J,M,CRJ2,F
+CANADAIR,CL-600 Challenger 850,,,2,Jet,LandPlane,L2J,M,CRJ2,F
+CANADAIR,CL-600 Challenger 870,,,2,Jet,LandPlane,L2J,M,CRJ7,F
+CANADAIR,CL-600 Challenger 890,,,2,Jet,LandPlane,L2J,M,CRJ9,F
+CANADAIR,CL-600,Corporate Jetliner,,2,Jet,LandPlane,L2J,M,CRJ2,F
+CANADAIR,CL-600,Regional Jet CRJ-100,,2,Jet,LandPlane,L2J,M,CRJ1,F
+CANADAIR,CL-600,Regional Jet CRJ-200,,2,Jet,LandPlane,L2J,M,CRJ2,F
+CANADAIR,CL-600,Regional Jet CRJ-440,,2,Jet,LandPlane,L2J,M,CRJ2,F
+CANADAIR,CL-600,Regional Jet CRJ-700,,2,Jet,LandPlane,L2J,M,CRJ7,F
+CANADAIR,CL-600,Regional Jet CRJ-701,,2,Jet,LandPlane,L2J,M,CRJ7,F
+CANADAIR,CL-600,Regional Jet CRJ-705,,2,Jet,LandPlane,L2J,M,CRJ9,F
+CANADAIR,CL-600,Regional Jet CRJ-900,,2,Jet,LandPlane,L2J,M,CRJ9,F
+CANADAIR,CL-600,Regional Jet RJ-100,,2,Jet,LandPlane,L2J,M,CRJ1,F
+CANADAIR,CL-600,Regional Jet RJ-200,,2,Jet,LandPlane,L2J,M,CRJ2,F
+CANADAIR,CL-600,Special Edition,,2,Jet,LandPlane,L2J,M,CRJ2,F
+CANADAIR,,Corporate Jetliner,,2,Jet,LandPlane,L2J,M,CRJ2,F
+CANADAIR,,Cosmopolitan,,2,Turboprop/Turboshaft,LandPlane,L2T,M,CVLT,D
+CANADAIR,CT-114,Tutor,,1,Jet,LandPlane,L1J,L,CL41,G
+CANADAIR,CT-133,Silver Star,,1,Jet,LandPlane,L1J,M,T33,G
+CANADAIR,CV-580,,,2,Turboprop/Turboshaft,LandPlane,L2T,M,CVLT,D
+CANADAIR,F-104,Starfighter,,1,Jet,LandPlane,L1J,M,F104,G
+CANADAIR,,Guppy,,4,Turboprop/Turboshaft,LandPlane,L4T,M,CL4G,D
+CANADAIR,NF-5,,,2,Jet,LandPlane,L2J,M,F5,G
+CANADAIR,OA-10,Catalina,,2,Piston,Amphibian,A2P,M,CAT,Z
+CANADAIR,,Regional Jet CRJ-100,,2,Jet,LandPlane,L2J,M,CRJ1,F
+CANADAIR,,Regional Jet CRJ-200,,2,Jet,LandPlane,L2J,M,CRJ2,F
+CANADAIR,,Regional Jet CRJ-440,,2,Jet,LandPlane,L2J,M,CRJ2,F
+CANADAIR,,Regional Jet CRJ-700,,2,Jet,LandPlane,L2J,M,CRJ7,F
+CANADAIR,,Regional Jet CRJ-701,,2,Jet,LandPlane,L2J,M,CRJ7,F
+CANADAIR,,Regional Jet CRJ-705,,2,Jet,LandPlane,L2J,M,CRJ9,F
+CANADAIR,,Regional Jet CRJ-900,,2,Jet,LandPlane,L2J,M,CRJ9,F
+CANADAIR,,Regional Jet RJ-100,,2,Jet,LandPlane,L2J,M,CRJ1,F
+CANADAIR,,Regional Jet RJ-200,,2,Jet,LandPlane,L2J,M,CRJ2,F
+CANADAIR,,Sabre,,1,Jet,LandPlane,L1J,M,F86,G
+CANADAIR,,Silver Star,,1,Jet,LandPlane,L1J,M,T33,G
+CANADAIR,,Special Edition,,2,Jet,LandPlane,L2J,M,CRJ2,F
+CANADAIR,,Starfighter,,1,Jet,LandPlane,L1J,M,F104,G
+CANADAIR,,SuperScooper,,2,Turboprop/Turboshaft,Amphibian,A2T,M,CL2T,E
+CANADAIR,T-33,Silver Star,,1,Jet,LandPlane,L1J,M,T33,G
+CANADAIR,,Tutor,,1,Jet,LandPlane,L1J,L,CL41,G
+CESSNA,525 Citation M2,,,2,Jet,LandPlane,L2J,L,C25M,G
+CESSNA,Citation M2,,,2,Jet,LandPlane,L2J,L,C25M,G
+CESSNA,350,,,1,Piston,LandPlane,L1P,L,COL3,G
+CESSNA,LC-42,,,1,Piston,LandPlane,L1P,L,COL3,G
+CESSNA,LC-42 Corvalis,,,1,Piston,LandPlane,L1P,L,COL3,G
+CESSNA,400,,,1,Piston,LandPlane,L1P,L,COL4,G
+CESSNA,350 Corvalis,,,1,Piston,LandPlane,L1P,L,COL3,G
+CESSNA,LC-41,,,1,Piston,LandPlane,L1P,L,COL4,G
+CESSNA,LC-41 Corvalis TT,,,1,Piston,LandPlane,L1P,L,COL4,G
+CESSNA,400 Corvalis TT,,,1,Piston,LandPlane,L1P,L,COL4,G
+CESSNA,Corvalis,,,1,Piston,LandPlane,L1P,L,COL3,G
+CESSNA,Corvalis TT,,,1,Piston,LandPlane,L1P,L,COL4,G
+CESSNA,120,,,1,Piston,LandPlane,L1P,L,C120,G
+CESSNA,140,,,1,Piston,LandPlane,L1P,L,C140,G
+CESSNA,150,,,1,Piston,LandPlane,L1P,L,C150,G
+CESSNA,150,Commuter,,1,Piston,LandPlane,L1P,L,C150,G
+CESSNA,152,,,1,Piston,LandPlane,L1P,L,C152,G
+CESSNA,170,,,1,Piston,LandPlane,L1P,L,C170,G
+CESSNA,172,,,1,Piston,LandPlane,L1P,L,C172,G
+CESSNA,172,Cutlass,,1,Piston,LandPlane,L1P,L,C172,G
+CESSNA,172,Skyhawk,,1,Piston,LandPlane,L1P,L,C172,G
+CESSNA,172RG,Cutlass RG,,1,Piston,LandPlane,L1P,L,C72R,G
+CESSNA,175,,,1,Piston,LandPlane,L1P,L,C175,G
+CESSNA,175,Skylark,,1,Piston,LandPlane,L1P,L,C175,G
+CESSNA,177,,,1,Piston,LandPlane,L1P,L,C177,G
+CESSNA,177,Cardinal,,1,Piston,LandPlane,L1P,L,C177,G
+CESSNA,177RG,Cardinal RG,,1,Piston,LandPlane,L1P,L,C77R,G
+CESSNA,180,,,1,Piston,LandPlane,L1P,L,C180,G
+CESSNA,162 Skycatcher,,,1,Piston,LandPlane,L1P,L,C162,G
+CESSNA,180,Skywagon 180,,1,Piston,LandPlane,L1P,L,C180,G
+CESSNA,182,,,1,Piston,LandPlane,L1P,L,C182,G
+CESSNA,182,Skylane,,1,Piston,LandPlane,L1P,L,C182,G
+CESSNA,185,Skywagon,,1,Piston,LandPlane,L1P,L,C185,G
+CESSNA,188,AgPickup,,1,Piston,LandPlane,L1P,L,C188,G
+CESSNA,188,AgWagon,,1,Piston,LandPlane,L1P,L,C188,G
+CESSNA,190,,,1,Piston,LandPlane,L1P,L,C190,G
+CESSNA,195,,,1,Piston,LandPlane,L1P,L,C195,G
+CESSNA,205,,,1,Piston,LandPlane,L1P,L,C205,G
+CESSNA,206 (turbine),,,1,Turboprop/Turboshaft,LandPlane,L1T,L,C06T,G
+CESSNA,206,Stationair,,1,Piston,LandPlane,L1P,L,C206,G
+CESSNA,206,Super Skywagon,,1,Piston,LandPlane,L1P,L,C206,G
+CESSNA,207 (turbine),,,1,Turboprop/Turboshaft,LandPlane,L1T,L,C07T,G
+CESSNA,207,Skywagon 207,,1,Piston,LandPlane,L1P,L,C207,G
+CESSNA,207,Stationair 7,,1,Piston,LandPlane,L1P,L,C207,G
+CESSNA,207,Stationair 8,,1,Piston,LandPlane,L1P,L,C207,G
+CESSNA,208,Caravan 1,,1,Turboprop/Turboshaft,LandPlane,L1T,L,C208,G
+CESSNA,208,Cargomaster,,1,Turboprop/Turboshaft,LandPlane,L1T,L,C208,G
+CESSNA,208,Grand Caravan,,1,Turboprop/Turboshaft,LandPlane,L1T,L,C208,G
+CESSNA,208,Super Cargomaster,,1,Turboprop/Turboshaft,LandPlane,L1T,L,C208,G
+CESSNA,210,,,1,Piston,LandPlane,L1P,L,C210,G
+CESSNA,210,Centurion,,1,Piston,LandPlane,L1P,L,C210,G
+CESSNA,305,Bird Dog,,1,Piston,LandPlane,L1P,L,O1,G
+CESSNA,310,,,2,Piston,LandPlane,L2P,L,C310,G
+CESSNA,318A,,,2,Jet,LandPlane,L2J,L,T37,G
+CESSNA,318B,,,2,Jet,LandPlane,L2J,L,T37,G
+CESSNA,318C,,,2,Jet,LandPlane,L2J,L,T37,G
+CESSNA,318D,Dragonfly,,2,Jet,LandPlane,L2J,L,A37,G
+CESSNA,318E,Dragonfly,,2,Jet,LandPlane,L2J,L,A37,G
+CESSNA,320,Executive Skyknight,,2,Piston,LandPlane,L2P,L,C320,G
+CESSNA,320,Skyknight,,2,Piston,LandPlane,L2P,L,C320,G
+CESSNA,321,Bird Dog,,1,Piston,LandPlane,L1P,L,O1,G
+CESSNA,335,,,2,Piston,LandPlane,L2P,L,C335,G
+CESSNA,336,Skymaster,,2,Piston,LandPlane,L2P,L,C336,G
+CESSNA,337,Super Skymaster,,2,Piston,LandPlane,L2P,L,C337,G
+CESSNA,340,,,2,Piston,LandPlane,L2P,L,C340,G
+CESSNA,401,,,2,Piston,LandPlane,L2P,L,C402,G
+CESSNA,402,,,2,Piston,LandPlane,L2P,L,C402,G
+CESSNA,402 (turbine),,,2,Turboprop/Turboshaft,LandPlane,L2T,L,C02T,G
+CESSNA,402,Businessliner,,2,Piston,LandPlane,L2P,L,C402,G
+CESSNA,402,Utililiner,,2,Piston,LandPlane,L2P,L,C402,G
+CESSNA,404 (turbine),,,2,Turboprop/Turboshaft,LandPlane,L2T,L,C04T,G
+CESSNA,404,Titan,,2,Piston,LandPlane,L2P,L,C404,G
+CESSNA,411,,,2,Piston,LandPlane,L2P,L,C411,G
+CESSNA,414,,,2,Piston,LandPlane,L2P,L,C414,G
+CESSNA,414 (turbine),,,2,Turboprop/Turboshaft,LandPlane,L2T,L,C14T,G
+CESSNA,414,Chancellor,,2,Piston,LandPlane,L2P,L,C414,G
+CESSNA,421,,,2,Piston,LandPlane,L2P,L,C421,G
+CESSNA,421 (turbine),,,2,Turboprop/Turboshaft,LandPlane,L2T,L,C21T,G
+CESSNA,421,Executive Commuter,,2,Piston,LandPlane,L2P,L,C421,G
+CESSNA,421,Golden Eagle,,2,Piston,LandPlane,L2P,L,C421,G
+CESSNA,425,Conquest 1,,2,Turboprop/Turboshaft,LandPlane,L2T,L,C425,G
+CESSNA,425,Corsair,,2,Turboprop/Turboshaft,LandPlane,L2T,L,C425,G
+CESSNA,441,Conquest,,2,Turboprop/Turboshaft,LandPlane,L2T,L,C441,G
+CESSNA,441,Conquest 2,,2,Turboprop/Turboshaft,LandPlane,L2T,L,C441,G
+CESSNA,500,Citation,,2,Jet,LandPlane,L2J,L,C500,G
+CESSNA,500,Citation 1,,2,Jet,LandPlane,L2J,L,C500,G
+CESSNA,501,Citation 1SP,,2,Jet,LandPlane,L2J,L,C501,G
+CESSNA,510,Citation Mustang,,2,Jet,LandPlane,L2J,L,C510,G
+CESSNA,525,Citation CJ1,,2,Jet,LandPlane,L2J,L,C525,G
+CESSNA,525,CitationJet,,2,Jet,LandPlane,L2J,L,C525,G
+CESSNA,525A,Citation CJ2,,2,Jet,LandPlane,L2J,L,C25A,G
+CESSNA,525B,Citation CJ3,,2,Jet,LandPlane,L2J,L,C25B,G
+CESSNA,525C Citation CJ4,,,2,Jet,LandPlane,L2J,M,C25C,G
+CESSNA,526,CitationJet,,2,Jet,LandPlane,L2J,L,C526,G
+CESSNA,550,Citation 2,,2,Jet,LandPlane,L2J,L,C550,G
+CESSNA,551,Citation 2SP,,2,Jet,LandPlane,L2J,L,C551,G
+CESSNA,560,Citation 5,,2,Jet,LandPlane,L2J,M,C560,G
+CESSNA,560,Citation Encore,,2,Jet,LandPlane,L2J,M,C560,G
+CESSNA,550B Citation Bravo,,,2,Jet,LandPlane,L2J,L,C55B,G
+CESSNA,Citation Bravo,,,2,Jet,LandPlane,L2J,L,C55B,G
+CESSNA,560,Citation Ultra,,2,Jet,LandPlane,L2J,M,C560,G
+CESSNA,560XL,Citation Excel,,2,Jet,LandPlane,L2J,M,C56X,G
+CESSNA,560XL,Citation XLS,,2,Jet,LandPlane,L2J,M,C56X,G
+CESSNA,650,Citation 3,,2,Jet,LandPlane,L2J,M,C650,G
+CESSNA,650,Citation 6,,2,Jet,LandPlane,L2J,M,C650,G
+CESSNA,650,Citation 7,,2,Jet,LandPlane,L2J,M,C650,G
+CESSNA,680,Citation Sovereign,,2,Jet,LandPlane,L2J,M,C680,G
+CESSNA,750,Citation 10,,2,Jet,LandPlane,L2J,M,C750,G
+CESSNA,A-37,Dragonfly,,2,Jet,LandPlane,L2J,L,A37,G
+CESSNA,A150,Aerobat,,1,Piston,LandPlane,L1P,L,C150,G
+CESSNA,A152,Aerobat,,1,Piston,LandPlane,L1P,L,C152,G
+CESSNA,A185,AgCarryall,,1,Piston,LandPlane,L1P,L,C185,G
+CESSNA,A185,Skywagon 185,,1,Piston,LandPlane,L1P,L,C185,G
+CESSNA,A188,AgTruck,,1,Piston,LandPlane,L1P,L,C188,G
+CESSNA,A188,AgWagon,,1,Piston,LandPlane,L1P,L,C188,G
+CESSNA,,Aerobat (A150),,1,Piston,LandPlane,L1P,L,C150,G
+CESSNA,,Aerobat (A152),,1,Piston,LandPlane,L1P,L,C152,G
+CESSNA,,AgCarryall,,1,Piston,LandPlane,L1P,L,C185,G
+CESSNA,,AgHusky,,1,Piston,LandPlane,L1P,L,C188,G
+CESSNA,,AgPickup,,1,Piston,LandPlane,L1P,L,C188,G
+CESSNA,,AgTruck,,1,Piston,LandPlane,L1P,L,C188,G
+CESSNA,,AgWagon,,1,Piston,LandPlane,L1P,L,C188,G
+CESSNA,,Airmaster,,1,Piston,LandPlane,L1P,L,CMAS,G
+CESSNA,AT-8,Bobcat,,2,Piston,LandPlane,L2P,L,T50,G
+CESSNA,AT-17,Bobcat,,2,Piston,LandPlane,L2P,L,T50,G
+CESSNA,AW,,,1,Piston,LandPlane,L1P,L,CAW,G
+CESSNA,,Bird Dog,,1,Piston,LandPlane,L1P,L,O1,G
+CESSNA,,Bobcat,,2,Piston,LandPlane,L2P,L,T50,G
+CESSNA,,Businessliner,,2,Piston,LandPlane,L2P,L,C402,G
+CESSNA,C-34,,,1,Piston,LandPlane,L1P,L,CMAS,G
+CESSNA,C-37,,,1,Piston,LandPlane,L1P,L,CMAS,G
+CESSNA,C-38,Airmaster,,1,Piston,LandPlane,L1P,L,CMAS,G
+CESSNA,C-98,,,1,Turboprop/Turboshaft,LandPlane,L1T,L,C208,G
+CESSNA,C-145,Airmaster,,1,Piston,LandPlane,L1P,L,CMAS,G
+CESSNA,C-165,Airmaster,,1,Piston,LandPlane,L1P,L,CMAS,G
+CESSNA,,Caravan 1,,1,Turboprop/Turboshaft,LandPlane,L1T,L,C208,G
+CESSNA,,Caravan 2,,2,Turboprop/Turboshaft,LandPlane,L2T,L,F406,G
+CESSNA,,Cardinal,,1,Piston,LandPlane,L1P,L,C177,G
+CESSNA,,Cardinal RG,,1,Piston,LandPlane,L1P,L,C77R,G
+CESSNA,,Cargomaster,,1,Turboprop/Turboshaft,LandPlane,L1T,L,C208,G
+CESSNA,,Centurion,,1,Piston,LandPlane,L1P,L,C210,G
+CESSNA,,Chancellor,,2,Piston,LandPlane,L2P,L,C414,G
+CESSNA,,Citation,,2,Jet,LandPlane,L2J,L,C500,G
+CESSNA,,Citation 1,,2,Jet,LandPlane,L2J,L,C500,G
+CESSNA,,Citation 1SP,,2,Jet,LandPlane,L2J,L,C501,G
+CESSNA,,Citation 2,,2,Jet,LandPlane,L2J,L,C550,G
+CESSNA,,Citation 2SP,,2,Jet,LandPlane,L2J,L,C551,G
+CESSNA,,Citation 3,,2,Jet,LandPlane,L2J,M,C650,G
+CESSNA,,Citation 5,,2,Jet,LandPlane,L2J,M,C560,G
+CESSNA,,Citation 6,,2,Jet,LandPlane,L2J,M,C650,G
+CESSNA,,Citation 7,,2,Jet,LandPlane,L2J,M,C650,G
+CESSNA,,Citation 10,,2,Jet,LandPlane,L2J,M,C750,G
+CESSNA,,Citation CJ1,,2,Jet,LandPlane,L2J,L,C525,G
+CESSNA,,Citation CJ2,,2,Jet,LandPlane,L2J,L,C25A,G
+CESSNA,,Citation CJ3,,2,Jet,LandPlane,L2J,L,C25B,G
+CESSNA,Citation CJ4,,,2,Jet,LandPlane,L2J,M,C25C,G
+CESSNA,,Citation Encore,,2,Jet,LandPlane,L2J,M,C560,G
+CESSNA,,Citation Excel,,2,Jet,LandPlane,L2J,M,C56X,G
+CESSNA,,Citation Mustang,,2,Jet,LandPlane,L2J,L,C510,G
+CESSNA,,Citation S2,,2,Jet,LandPlane,L2J,L,C550,G
+CESSNA,,Citation Sovereign,,2,Jet,LandPlane,L2J,M,C680,G
+CESSNA,,Citation Ultra,,2,Jet,LandPlane,L2J,M,C560,G
+CESSNA,,Citation XLS,,2,Jet,LandPlane,L2J,M,C56X,G
+CESSNA,,CitationJet (525),,2,Jet,LandPlane,L2J,L,C525,G
+CESSNA,,CitationJet (526),,2,Jet,LandPlane,L2J,L,C526,G
+CESSNA,,Commuter,,1,Piston,LandPlane,L1P,L,C150,G
+CESSNA,,Conquest,,2,Turboprop/Turboshaft,LandPlane,L2T,L,C441,G
+CESSNA,,Conquest 1,,2,Turboprop/Turboshaft,LandPlane,L2T,L,C425,G
+CESSNA,,Conquest 2,,2,Turboprop/Turboshaft,LandPlane,L2T,L,C441,G
+CESSNA,,Corsair,,2,Turboprop/Turboshaft,LandPlane,L2T,L,C425,G
+CESSNA,,Crane,,2,Piston,LandPlane,L2P,L,T50,G
+CESSNA,,Crusader,,2,Piston,LandPlane,L2P,L,C303,G
+CESSNA,,Cutlass,,1,Piston,LandPlane,L1P,L,C172,G
+CESSNA,,Cutlass RG,,1,Piston,LandPlane,L1P,L,C72R,G
+CESSNA,DC-6,,,1,Piston,LandPlane,L1P,L,CDC6,G
+CESSNA,,Dragonfly,,2,Jet,LandPlane,L2J,L,A37,G
+CESSNA,,Executive Commuter,,2,Piston,LandPlane,L2P,L,C421,G
+CESSNA,,Executive Skyknight,,2,Piston,LandPlane,L2P,L,C320,G
+CESSNA,F406,Caravan 2,,2,Turboprop/Turboshaft,LandPlane,L2T,L,F406,G
+CESSNA,F406,Vigilant,,2,Turboprop/Turboshaft,LandPlane,L2T,L,F406,G
+CESSNA,,Golden Eagle,,2,Piston,LandPlane,L2P,L,C421,G
+CESSNA,,Grand Caravan,,1,Turboprop/Turboshaft,LandPlane,L1T,L,C208,G
+CESSNA,,Hawk XP,,1,Piston,LandPlane,L1P,L,C172,G
+CESSNA,L-19,Bird Dog,,1,Piston,LandPlane,L1P,L,O1,G
+CESSNA,L-27,,,2,Piston,LandPlane,L2P,L,C310,G
+CESSNA,LC-126,,,1,Piston,LandPlane,L1P,L,C195,G
+CESSNA,M337,Super Skymaster,,2,Piston,LandPlane,L2P,L,C337,G
+CESSNA,MC337,Super Skymaster,,2,Piston,LandPlane,L2P,L,C337,G
+CESSNA,,Mescalero,,1,Piston,LandPlane,L1P,L,C172,G
+CESSNA,NGP,,,1,Piston,LandPlane,L1P,L,CNGP,G
+CESSNA,O-1,Bird Dog,,1,Piston,LandPlane,L1P,L,O1,G
+CESSNA,O-2,Super Skymaster,,2,Piston,LandPlane,L2P,L,C337,G
+CESSNA,Skycatcher,,,1,Piston,LandPlane,L1P,L,C162,G
+CESSNA,OA-37,Dragonfly,,2,Jet,LandPlane,L2J,L,A37,G
+CESSNA,OE,Bird Dog,,1,Piston,LandPlane,L1P,L,O1,G
+CESSNA,OT-47,Citation Ultra,,2,Jet,LandPlane,L2J,M,C560,G
+CESSNA,P172,Skyhawk Powermatic,,1,Piston,LandPlane,L1P,L,C172,G
+CESSNA,P206,Super Skylane,,1,Piston,LandPlane,L1P,L,C206,G
+CESSNA,P210 (turbine),,,1,Turboprop/Turboshaft,LandPlane,L1T,L,C10T,G
+CESSNA,P210,Pressurized Centurion,,1,Piston,LandPlane,L1P,L,P210,G
+CESSNA,P337,Pressurized Skymaster,,2,Piston,LandPlane,L2P,L,P337,G
+CESSNA,,Pressurized Centurion,,1,Piston,LandPlane,L1P,L,P210,G
+CESSNA,,Pressurized Skymaster,,2,Piston,LandPlane,L2P,L,P337,G
+CESSNA,R172,,,1,Piston,LandPlane,L1P,L,C172,G
+CESSNA,R172,Hawk XP,,1,Piston,LandPlane,L1P,L,C172,G
+CESSNA,R182,Skylane RG,,1,Piston,LandPlane,L1P,L,C82R,G
+CESSNA,S550,Citation S2,,2,Jet,LandPlane,L2J,L,C550,G
+CESSNA,,Skyhawk,,1,Piston,LandPlane,L1P,L,C172,G
+CESSNA,,Skyhawk Powermatic,,1,Piston,LandPlane,L1P,L,C172,G
+CESSNA,,Skyknight,,2,Piston,LandPlane,L2P,L,C320,G
+CESSNA,,Skylane,,1,Piston,LandPlane,L1P,L,C182,G
+CESSNA,,Skylane RG,,1,Piston,LandPlane,L1P,L,C82R,G
+CESSNA,,Skylark,,1,Piston,LandPlane,L1P,L,C175,G
+CESSNA,,Skymaster,,2,Piston,LandPlane,L2P,L,C336,G
+CESSNA,,Skywagon,,1,Piston,LandPlane,L1P,L,C185,G
+CESSNA,,Skywagon 180,,1,Piston,LandPlane,L1P,L,C180,G
+CESSNA,,Skywagon 185,,1,Piston,LandPlane,L1P,L,C185,G
+CESSNA,,Skywagon 206,,1,Piston,LandPlane,L1P,L,C206,G
+CESSNA,,Skywagon 207,,1,Piston,LandPlane,L1P,L,C207,G
+CESSNA,,Stationair,,1,Piston,LandPlane,L1P,L,C206,G
+CESSNA,,Stationair 6,,1,Piston,LandPlane,L1P,L,C206,G
+CESSNA,,Stationair 7,,1,Piston,LandPlane,L1P,L,C207,G
+CESSNA,,Stationair 8,,1,Piston,LandPlane,L1P,L,C207,G
+CESSNA,,Super Cargomaster,,1,Turboprop/Turboshaft,LandPlane,L1T,L,C208,G
+CESSNA,,Super Skylane,,1,Piston,LandPlane,L1P,L,C206,G
+CESSNA,,Super Skymaster,,2,Piston,LandPlane,L2P,L,C337,G
+CESSNA,,Super Skywagon,,1,Piston,LandPlane,L1P,L,C206,G
+CESSNA,T-37,,,2,Jet,LandPlane,L2J,L,T37,G
+CESSNA,T-41,Mescalero,,1,Piston,LandPlane,L1P,L,C172,G
+CESSNA,T-50,Bobcat,,2,Piston,LandPlane,L2P,L,T50,G
+CESSNA,T188,AgHusky,,1,Piston,LandPlane,L1P,L,C188,G
+CESSNA,T207,Turbo Skywagon 207,,1,Piston,LandPlane,L1P,L,C207,G
+CESSNA,T207,Turbo Stationair 7,,1,Piston,LandPlane,L1P,L,C207,G
+CESSNA,T206 Turbo Stationair,,,1,Piston,LandPlane,L1P,L,T206,G
+CESSNA,T206 Stationair TC,,,1,Piston,LandPlane,L1P,L,T206,G
+CESSNA,Turbo Skylane,,,1,Piston,LandPlane,L1P,L,C82S,G
+CESSNA,T207,Turbo Stationair 8,,1,Piston,LandPlane,L1P,L,C207,G
+CESSNA,T303,Crusader,,2,Piston,LandPlane,L2P,L,C303,G
+CESSNA,T310,,,2,Piston,LandPlane,L2P,L,C310,G
+CESSNA,T337B,Turbo Super Skymaster,,2,Piston,LandPlane,L2P,L,C337,G
+CESSNA,T337C,Turbo Super Skymaster,,2,Piston,LandPlane,L2P,L,C337,G
+CESSNA,T337D,Turbo Super Skymaster,,2,Piston,LandPlane,L2P,L,C337,G
+CESSNA,T337E,Turbo Super Skymaster,,2,Piston,LandPlane,L2P,L,C337,G
+CESSNA,T337F,Turbo Super Skymaster,,2,Piston,LandPlane,L2P,L,C337,G
+CESSNA,T337G,Pressurized Skymaster,,2,Piston,LandPlane,L2P,L,P337,G
+CESSNA,T337H,Turbo Super Skymaster,,2,Piston,LandPlane,L2P,L,C337,G
+CESSNA,,Titan,,2,Piston,LandPlane,L2P,L,C404,G
+CESSNA,TL-19,Bird Dog,,1,Piston,LandPlane,L1P,L,O1,G
+CESSNA,TO-1,Bird Dog,,1,Piston,LandPlane,L1P,L,O1,G
+CESSNA,TP206 Turbo Super Skylane,,,1,Piston,LandPlane,L1P,L,T206,G
+CESSNA,TU206 Turbo Super Skywagon,,,1,Piston,LandPlane,L1P,L,T206,G
+CESSNA,TU206 Turbo Skywagon 206,,,1,Piston,LandPlane,L1P,L,T206,G
+CESSNA,TU206 Turbo Stationair,,,1,Piston,LandPlane,L1P,L,T206,G
+CESSNA,TU206 Turbo Stationair 6,,,1,Piston,LandPlane,L1P,L,T206,G
+CESSNA,T210 Turbo Centurion,,,1,Piston,LandPlane,L1P,L,T210,G
+CESSNA,Turbo Centurion,,,1,Piston,LandPlane,L1P,L,T210,G
+CESSNA,T182 Turbo Skylane,,,1,Piston,LandPlane,L1P,L,C82S,G
+CESSNA,,Turbo Skywagon 207,,1,Piston,LandPlane,L1P,L,C207,G
+CESSNA,,Turbo Stationair 7,,1,Piston,LandPlane,L1P,L,C207,G
+CESSNA,,Turbo Stationair 8,,1,Piston,LandPlane,L1P,L,C207,G
+CESSNA,,Turbo Super Skymaster,,2,Piston,LandPlane,L2P,L,C337,G
+CESSNA,U-3,,,2,Piston,LandPlane,L2P,L,C310,G
+CESSNA,U-17A,,,1,Piston,LandPlane,L1P,L,C185,G
+CESSNA,U-17B,,,1,Piston,LandPlane,L1P,L,C185,G
+CESSNA,U-17C,,,1,Piston,LandPlane,L1P,L,C180,G
+CESSNA,U-27,,,1,Turboprop/Turboshaft,LandPlane,L1T,L,C208,G
+CESSNA,U206,Skywagon 206,,1,Piston,LandPlane,L1P,L,C206,G
+CESSNA,U206,Stationair,,1,Piston,LandPlane,L1P,L,C206,G
+CESSNA,U206,Stationair 6,,1,Piston,LandPlane,L1P,L,C206,G
+CESSNA,U206,Super Skywagon,,1,Piston,LandPlane,L1P,L,C206,G
+CESSNA,UC-35 Citation Encore,,,2,Jet,LandPlane,L2J,M,C560,G
+CESSNA,UC-35,Citation Ultra,,2,Jet,LandPlane,L2J,M,C560,G
+CESSNA,Stationair TC,,,1,Piston,LandPlane,L1P,L,T206,G
+CESSNA,Turbo Stationair,,,1,Piston,LandPlane,L1P,L,T206,G
+CESSNA,Turbo Super Skylane,,,1,Piston,LandPlane,L1P,L,T206,G
+CESSNA,Turbo Super Skywagon,,,1,Piston,LandPlane,L1P,L,T206,G
+CESSNA,Turbo Skylane RG,,,1,Piston,LandPlane,L1P,L,C82T,G
+CESSNA,UC-78,Bobcat,,2,Piston,LandPlane,L2P,L,T50,G
+CESSNA,,Utililiner,,2,Piston,LandPlane,L2P,L,C402,G
+CESSNA,,Vigilant,,2,Turboprop/Turboshaft,LandPlane,L2T,L,F406,G
+CESSNA,680A Citation Latitude,,,2,Jet,LandPlane,L2J,M,C68A,G
+CESSNA,208 Caravan 675,,,1,Turboprop/Turboshaft,LandPlane,L1T,L,C208,G
+CESSNA,T240 Corvalis TTx,,,1,Piston,LandPlane,L1P,L,C240,G
+CESSNA,Corvalis TTx,,,1,Piston,LandPlane,L1P,L,C240,G
+CESSNA,T240 TTx,,,1,Piston,LandPlane,L1P,L,C240,G
+CESSNA,TTx,,,1,Piston,LandPlane,L1P,L,C240,G
+CESSNA,Turbo Skywagon 206,,,1,Piston,LandPlane,L1P,L,T206,G
+CESSNA,Turbo Stationair 6,,,1,Piston,LandPlane,L1P,L,T206,G
+CESSNA,TR182 Turbo Skylane RG,,,1,Piston,LandPlane,L1P,L,C82T,G
+CESSNA,AC-208 Combat Caravan,,,1,Turboprop/Turboshaft,LandPlane,L1T,L,C208,G
+CESSNA,Caravan 675,,,1,Turboprop/Turboshaft,LandPlane,L1T,L,C208,G
+CESSNA,Combat Caravan,,,1,Turboprop/Turboshaft,LandPlane,L1T,L,C208,G
+CESSNA,Citation Latitude,,,2,Jet,LandPlane,L2J,M,C68A,G
+CESSNA,E350,,,1,Turboprop/Turboshaft,LandPlane,L1T,L,E350,G
+CESSNA,700 Citation Longitude,,,2,Jet,LandPlane,L2J,M,C700,G
+CESSNA,Citation Longitude,,,2,Jet,LandPlane,L2J,M,C700,G
+CESSNA,E530 Scorpion,,,2,Jet,LandPlane,L2J,M,E530,G
+CESSNA,,Scorpion,,2,Jet,LandPlane,L2J,M,E530,G
+CESSNA,T-51,,,1,Piston,LandPlane,L1P,L,C150,G
+CESSNA,408 SkyCourier,,,2,Turboprop/Turboshaft,LandPlane,L2T,M,C408,
+CESSNA,,SkyCourier,,2,Turboprop/Turboshaft,LandPlane,L2T,M,C408,
+DE HAVILLAND CANADA,,Beaver,,1,Piston,LandPlane,L1P,L,DHC2,G
+DE HAVILLAND CANADA,,Buffalo,,2,Turboprop/Turboshaft,LandPlane,L2T,M,DHC5,E
+DE HAVILLAND CANADA,C-7,Caribou,,2,Piston,LandPlane,L2P,M,DHC4,G
+DE HAVILLAND CANADA,C-8,Buffalo,,2,Turboprop/Turboshaft,LandPlane,L2T,M,DHC5,E
+DE HAVILLAND CANADA,C-115,Buffalo,,2,Turboprop/Turboshaft,LandPlane,L2T,M,DHC5,E
+DE HAVILLAND CANADA,,Caribou,,2,Piston,LandPlane,L2P,M,DHC4,G
+DE HAVILLAND CANADA,CC-115,Buffalo,,2,Turboprop/Turboshaft,LandPlane,L2T,M,DHC5,E
+DE HAVILLAND CANADA,CC-138,Twin Otter,,2,Turboprop/Turboshaft,LandPlane,L2T,L,DHC6,G
+DE HAVILLAND CANADA,CC-142,Dash 8,,2,Turboprop/Turboshaft,LandPlane,L2T,M,DH8A,F
+DE HAVILLAND CANADA,,Chipmunk,,1,Piston,LandPlane,L1P,L,DHC1,G
+DE HAVILLAND CANADA,CS2F,Tracker,,2,Piston,LandPlane,L2P,M,S2P,G
+DE HAVILLAND CANADA,CT-142,Dash 8,,2,Turboprop/Turboshaft,LandPlane,L2T,M,DH8A,F
+DE HAVILLAND CANADA,CV-2,Caribou,,2,Piston,LandPlane,L2P,M,DHC4,G
+DE HAVILLAND CANADA,CV-7,Buffalo,,2,Turboprop/Turboshaft,LandPlane,L2T,M,DHC5,E
+DE HAVILLAND CANADA,,Dash 7,,4,Turboprop/Turboshaft,LandPlane,L4T,M,DHC7,E
+DE HAVILLAND CANADA,,Dash 8 (100),,2,Turboprop/Turboshaft,LandPlane,L2T,M,DH8A,F
+DE HAVILLAND CANADA,,Dash 8 (200),,2,Turboprop/Turboshaft,LandPlane,L2T,M,DH8B,F
+DE HAVILLAND CANADA,,Dash 8 (300),,2,Turboprop/Turboshaft,LandPlane,L2T,M,DH8C,F
+DE HAVILLAND CANADA,,Dash 8 (400),,2,Turboprop/Turboshaft,LandPlane,L2T,M,DH8D,E
+DE HAVILLAND CANADA,DH-82,Tiger Moth,,1,Piston,LandPlane,L1P,L,DH82,G
+DE HAVILLAND CANADA,DHC-1,Chipmunk,,1,Piston,LandPlane,L1P,L,DHC1,G
+DE HAVILLAND CANADA,DHC-2 Mk1,Beaver,,1,Piston,LandPlane,L1P,L,DHC2,G
+DE HAVILLAND CANADA,DHC-2 Mk3,Turbo Beaver,,1,Turboprop/Turboshaft,LandPlane,L1T,L,DH2T,G
+DE HAVILLAND CANADA,DHC-3,Otter,,1,Piston,LandPlane,L1P,L,DHC3,G
+DE HAVILLAND CANADA,DHC-3,Turbo Otter,,1,Turboprop/Turboshaft,LandPlane,L1T,L,DH3T,G
+DE HAVILLAND CANADA,DHC-4,Caribou,,2,Piston,LandPlane,L2P,M,DHC4,G
+DE HAVILLAND CANADA,DHC-5,Buffalo,,2,Turboprop/Turboshaft,LandPlane,L2T,M,DHC5,E
+DE HAVILLAND CANADA,DHC-6,Twin Otter,,2,Turboprop/Turboshaft,LandPlane,L2T,L,DHC6,G
+DE HAVILLAND CANADA,DHC-7,Dash 7,,4,Turboprop/Turboshaft,LandPlane,L4T,M,DHC7,E
+DE HAVILLAND CANADA,DHC-8-100,Dash 8,,2,Turboprop/Turboshaft,LandPlane,L2T,M,DH8A,F
+DE HAVILLAND CANADA,DHC-8-200,Dash 8,,2,Turboprop/Turboshaft,LandPlane,L2T,M,DH8B,F
+DE HAVILLAND CANADA,DHC-8-300,Dash 8,,2,Turboprop/Turboshaft,LandPlane,L2T,M,DH8C,F
+DE HAVILLAND CANADA,DHC-8-400,Dash 8,,2,Turboprop/Turboshaft,LandPlane,L2T,M,DH8D,E
+DE HAVILLAND CANADA,E-9,Dash 8,,2,Turboprop/Turboshaft,LandPlane,L2T,M,DH8A,F
+DE HAVILLAND CANADA,EO-5,Dash 7,,4,Turboprop/Turboshaft,LandPlane,L4T,M,DHC7,E
+DE HAVILLAND CANADA,L-20,Beaver,,1,Piston,LandPlane,L1P,L,DHC2,G
+DE HAVILLAND CANADA,NU-1,Otter,,1,Piston,LandPlane,L1P,L,DHC3,G
+DE HAVILLAND CANADA,O-5,Dash 7,,4,Turboprop/Turboshaft,LandPlane,L4T,M,DHC7,E
+DE HAVILLAND CANADA,,Otter,,1,Piston,LandPlane,L1P,L,DHC3,G
+DE HAVILLAND CANADA,RC-7,Dash 7,,4,Turboprop/Turboshaft,LandPlane,L4T,M,DHC7,E
+DE HAVILLAND CANADA,S-2,Tracker,,2,Piston,LandPlane,L2P,M,S2P,G
+DE HAVILLAND CANADA,,Tiger Moth,,1,Piston,LandPlane,L1P,L,DH82,G
+DE HAVILLAND CANADA,,Tracker,,2,Piston,LandPlane,L2P,M,S2P,G
+DE HAVILLAND CANADA,,Turbo Beaver,,1,Turboprop/Turboshaft,LandPlane,L1T,L,DH2T,G
+DE HAVILLAND CANADA,,Turbo Otter,,1,Turboprop/Turboshaft,LandPlane,L1T,L,DH3T,G
+DE HAVILLAND CANADA,,Twin Otter,,2,Turboprop/Turboshaft,LandPlane,L2T,L,DHC6,G
+DE HAVILLAND CANADA,U-1,Otter,,1,Piston,LandPlane,L1P,L,DHC3,G
+DE HAVILLAND CANADA,U-6,Beaver,,1,Piston,LandPlane,L1P,L,DHC2,G
+DE HAVILLAND CANADA,UC,Otter,,1,Piston,LandPlane,L1P,L,DHC3,G
+DE HAVILLAND CANADA,UV-18,Twin Otter,,2,Turboprop/Turboshaft,LandPlane,L2T,L,DHC6,G
+DE HAVILLAND CANADA,DHC-4,Turbo Caribou,,2,Turboprop/Turboshaft,LandPlane,L2T,M,DH4T,
+DE HAVILLAND CANADA,,Turbo Caribou,,2,Turboprop/Turboshaft,LandPlane,L2T,M,DH4T,
+DE HAVILLAND,,Chipmunk,,1,Piston,LandPlane,L1P,L,DHC1,G
+DE HAVILLAND,,Comet Replica,,2,Piston,LandPlane,L2P,L,DH88,G
+DE HAVILLAND,,Devon,,2,Piston,LandPlane,L2P,L,DOVE,G
+DE HAVILLAND,DH-60,Moth,,1,Piston,LandPlane,L1P,L,DH60,G
+DE HAVILLAND,DH-60,Moth Major,,1,Piston,LandPlane,L1P,L,DH60,G
+DE HAVILLAND,DH-80,Puss Moth,,1,Piston,LandPlane,L1P,L,DH80,G
+DE HAVILLAND,DH-82,Queen Bee,,1,Piston,LandPlane,L1P,L,DH82,G
+DE HAVILLAND,DH-82,Tiger Moth,,1,Piston,LandPlane,L1P,L,DH82,G
+DE HAVILLAND,DH-83,Fox Moth,,1,Piston,LandPlane,L1P,L,DH83,G
+DE HAVILLAND,DH-85,Leopard Moth,,1,Piston,LandPlane,L1P,L,DH85,G
+DE HAVILLAND,DH-87,Hornet Moth,,1,Piston,LandPlane,L1P,L,DH87,G
+DE HAVILLAND,DH-88,Comet Replica,,2,Piston,LandPlane,L2P,L,DH88,G
+DE HAVILLAND,DH-89,Dragon Rapide,,2,Piston,LandPlane,L2P,L,DH89,G
+DE HAVILLAND,DH-90,Dragonfly,,2,Piston,LandPlane,L2P,L,DH90,G
+DE HAVILLAND,DH-94,Moth Minor,,1,Piston,LandPlane,L1P,L,DH94,G
+DE HAVILLAND,DH-98,Mosquito,,2,Piston,LandPlane,L2P,M,MOSQ,G
+DE HAVILLAND,DH-100,Vampire,,1,Jet,LandPlane,L1J,L,VAMP,G
+DE HAVILLAND,DH-104,Dove,,2,Piston,LandPlane,L2P,L,DOVE,G
+DE HAVILLAND,DH-112,Venom,,1,Jet,LandPlane,L1J,M,VNOM,G
+DE HAVILLAND,DH-114,Heron,,4,Piston,LandPlane,L4P,L,HERN,G
+DE HAVILLAND,DH-115,Vampire,,1,Jet,LandPlane,L1J,L,VAMP,G
+DE HAVILLAND,DH-125,,,2,Jet,LandPlane,L2J,M,H25A,G
+DE HAVILLAND,DHC-1,Chipmunk,,1,Piston,LandPlane,L1P,L,DHC1,G
+DE HAVILLAND,,Dove,,2,Piston,LandPlane,L2P,L,DOVE,G
+DE HAVILLAND,,Dragon Rapide,,2,Piston,LandPlane,L2P,L,DH89,G
+DE HAVILLAND,,Dragonfly,,2,Piston,LandPlane,L2P,L,DH90,G
+DE HAVILLAND,,Fox Moth,,1,Piston,LandPlane,L1P,L,DH83,G
+DE HAVILLAND,,Heron,,4,Piston,LandPlane,L4P,L,HERN,G
+DE HAVILLAND,,Hornet Moth,,1,Piston,LandPlane,L1P,L,DH87,G
+DE HAVILLAND,,Leopard Moth,,1,Piston,LandPlane,L1P,L,DH85,G
+DE HAVILLAND,,Mosquito,,2,Piston,LandPlane,L2P,M,MOSQ,G
+DE HAVILLAND,,Moth,,1,Piston,LandPlane,L1P,L,DH60,G
+DE HAVILLAND,,Moth Major,,1,Piston,LandPlane,L1P,L,DH60,G
+DE HAVILLAND,,Moth Minor,,1,Piston,LandPlane,L1P,L,DH94,G
+DE HAVILLAND,,Puss Moth,,1,Piston,LandPlane,L1P,L,DH80,G
+DE HAVILLAND,,Queen Bee,,1,Piston,LandPlane,L1P,L,DH82,G
+DE HAVILLAND,,Sea Devon,,2,Piston,LandPlane,L2P,L,DOVE,G
+DE HAVILLAND,,Tiger Moth,,1,Piston,LandPlane,L1P,L,DH82,G
+DE HAVILLAND,,Vampire,,1,Jet,LandPlane,L1J,L,VAMP,G
+DE HAVILLAND,,Venom,,1,Jet,LandPlane,L1J,M,VNOM,G
+DE HAVILLAND,DH-84,Dragon,,2,Piston,LandPlane,L2P,L,DH84,
+DE HAVILLAND,,Dragon,,2,Piston,LandPlane,L2P,L,DH84,
+EMBRAER,ERJ-170-100,,,2,Jet,LandPlane,L2J,M,E170,F
+EMBRAER,175 (short wing),,,2,Jet,LandPlane,L2J,M,E75S,F
+EMBRAER,175 (long wing),,,2,Jet,LandPlane,L2J,M,E75L,F
+EMBRAER,ERJ-170-200 (short wing),,,2,Jet,LandPlane,L2J,M,E75S,F
+EMBRAER,ERJ-170-200 (long wing),,,2,Jet,LandPlane,L2J,M,E75L,F
+EMBRAER,EMB-505 Phenom 300,,,2,Jet,LandPlane,L2J,M,E55P,G
+EMBRAER,Phenom 300,,,2,Jet,LandPlane,L2J,M,E55P,G
+EMBRAER,ERJ-190,Lineage 1000,,2,Jet,LandPlane,L2J,M,E190,E
+EMBRAER,,Lineage 1000,,2,Jet,LandPlane,L2J,M,E190,E
+EMBRAER,EMB-135BJ Legacy,,,2,Jet,LandPlane,L2J,M,E35L,F
+EMBRAER,EMB-135BJ Legacy 600,,,2,Jet,LandPlane,L2J,M,E35L,F
+EMBRAER,EMB-135BJ Legacy 650,,,2,Jet,LandPlane,L2J,M,E35L,F
+EMBRAER,170,,,2,Jet,LandPlane,L2J,M,E170,F
+EMBRAER,190,,,2,Jet,LandPlane,L2J,M,E190,E
+EMBRAER,A-1,,,1,Jet,LandPlane,L1J,M,AMX,G
+EMBRAER,A-27,Tucano,,1,Turboprop/Turboshaft,LandPlane,L1T,L,TUCA,G
+EMBRAER,A-29,,,1,Turboprop/Turboshaft,LandPlane,L1T,L,E314,G
+EMBRAER,,ALX,,1,Turboprop/Turboshaft,LandPlane,L1T,L,E314,G
+EMBRAER,AMX,,,1,Jet,LandPlane,L1J,M,AMX,G
+EMBRAER,AT-26,Xavante,,1,Jet,LandPlane,L1J,L,M326,G
+EMBRAER,AT-29,,,1,Turboprop/Turboshaft,LandPlane,L1T,L,E314,G
+EMBRAER,,Bandeirante,,2,Turboprop/Turboshaft,LandPlane,L2T,L,E110,G
+EMBRAER,,Bandeirulha,,2,Turboprop/Turboshaft,LandPlane,L2T,L,E110,G
+EMBRAER,,Brasilia,,2,Turboprop/Turboshaft,LandPlane,L2T,M,E120,G
+EMBRAER,C-95,Bandeirante,,2,Turboprop/Turboshaft,LandPlane,L2T,L,E110,G
+EMBRAER,C-99,,,2,Jet,LandPlane,L2J,M,E145,F
+EMBRAER,,Carioca,,1,Piston,LandPlane,L1P,L,P28B,G
+EMBRAER,,Carioquinha,,1,Piston,LandPlane,L1P,L,P28A,G
+EMBRAER,,Corisco,,1,Piston,LandPlane,L1P,L,P28R,G
+EMBRAER,,Corisco 2,,1,Piston,LandPlane,L1P,L,P28T,G
+EMBRAER,EC-9,Xingu,,2,Turboprop/Turboshaft,LandPlane,L2T,L,E121,G
+EMBRAER,EC-95,Bandeirante,,2,Turboprop/Turboshaft,LandPlane,L2T,L,E110,G
+EMBRAER,EMB-110,Bandeirante,,2,Turboprop/Turboshaft,LandPlane,L2T,L,E110,G
+EMBRAER,EMB-111,Bandeirulha,,2,Turboprop/Turboshaft,LandPlane,L2T,L,E110,G
+EMBRAER,EMB-120,Brasilia,,2,Turboprop/Turboshaft,LandPlane,L2T,M,E120,G
+EMBRAER,EMB-121,Xingu,,2,Turboprop/Turboshaft,LandPlane,L2T,L,E121,G
+EMBRAER,EMB-145EP,,,2,Jet,LandPlane,L2J,M,E145,F
+EMBRAER,EMB-145ER,,,2,Jet,LandPlane,L2J,M,E145,F
+EMBRAER,EMB-145EU,,,2,Jet,LandPlane,L2J,M,E145,F
+EMBRAER,EMB-145LR,,,2,Jet,LandPlane,L2J,M,E145,F
+EMBRAER,EMB-145LU,,,2,Jet,LandPlane,L2J,M,E145,F
+EMBRAER,EMB-145MP,,,2,Jet,LandPlane,L2J,M,E145,F
+EMBRAER,EMB-145MP/ASW,,,2,Jet,LandPlane,L2J,M,E145,F
+EMBRAER,EMB-145RS,,,2,Jet,LandPlane,L2J,M,E145,F
+EMBRAER,EMB-145SA,,,2,Jet,LandPlane,L2J,M,E145,F
+EMBRAER,EMB-145XR,,,2,Jet,LandPlane,L2J,M,E45X,F
+EMBRAER,EMB-200,Ipanema,,1,Piston,LandPlane,L1P,L,IPAN,G
+EMBRAER,EMB-201,Ipanema,,1,Piston,LandPlane,L1P,L,IPAN,G
+EMBRAER,EMB-202,Ipanema,,1,Piston,LandPlane,L1P,L,IPAN,G
+EMBRAER,EMB-312,Tucano,,1,Turboprop/Turboshaft,LandPlane,L1T,L,TUCA,G
+EMBRAER,EMB-312F,Tucano,,1,Turboprop/Turboshaft,LandPlane,L1T,L,TUCA,G
+EMBRAER,EMB-545 Legacy 450,,,2,Jet,LandPlane,L2J,M,E545,G
+EMBRAER,EMB-312H,Super Tucano,,1,Turboprop/Turboshaft,LandPlane,L1T,L,E314,G
+EMBRAER,EMB-314,ALX,,1,Turboprop/Turboshaft,LandPlane,L1T,L,E314,G
+EMBRAER,EMB-314,Super Tucano,,1,Turboprop/Turboshaft,LandPlane,L1T,L,E314,G
+EMBRAER,EMB-326,Xavante,,1,Jet,LandPlane,L1J,L,M326,G
+EMBRAER,EMB-500 Phenom 100,,,2,Jet,LandPlane,L2J,L,E50P,G
+EMBRAER,EMB-710,Carioca,,1,Piston,LandPlane,L1P,L,P28B,G
+EMBRAER,EMB-711B,Corisco,,1,Piston,LandPlane,L1P,L,P28R,G
+EMBRAER,EMB-711C,Corisco,,1,Piston,LandPlane,L1P,L,P28R,G
+EMBRAER,EMB-711T,Corisco 2,,1,Piston,LandPlane,L1P,L,P28T,G
+EMBRAER,EMB-712,Carioquinha,,1,Piston,LandPlane,L1P,L,P28A,G
+EMBRAER,EMB-712,Tupi,,1,Piston,LandPlane,L1P,L,P28A,G
+EMBRAER,EMB-720,Minuano,,1,Piston,LandPlane,L1P,L,PA32,G
+EMBRAER,EMB-721,Sertanejo,,1,Piston,LandPlane,L1P,L,P32R,G
+EMBRAER,EMB-810,Seneca,,2,Piston,LandPlane,L2P,L,PA34,G
+EMBRAER,EMB-820,Navajo,,2,Piston,LandPlane,L2P,L,PA31,G
+EMBRAER,ERJ-135,,,2,Jet,LandPlane,L2J,M,E135,F
+EMBRAER,ERJ-140,,,2,Jet,LandPlane,L2J,M,E135,F
+EMBRAER,ERJ-145EP,,,2,Jet,LandPlane,L2J,M,E145,F
+EMBRAER,ERJ-145ER,,,2,Jet,LandPlane,L2J,M,E145,F
+EMBRAER,ERJ-145EU,,,2,Jet,LandPlane,L2J,M,E145,F
+EMBRAER,ERJ-145LR,,,2,Jet,LandPlane,L2J,M,E145,F
+EMBRAER,ERJ-145LU,,,2,Jet,LandPlane,L2J,M,E145,F
+EMBRAER,ERJ-145MP,,,2,Jet,LandPlane,L2J,M,E145,F
+EMBRAER,ERJ-145XR,,,2,Jet,LandPlane,L2J,M,E45X,F
+EMBRAER,,Ipanema,,1,Piston,LandPlane,L1P,L,IPAN,G
+EMBRAER,,Lance 2,,1,Piston,LandPlane,L1P,L,P32T,G
+EMBRAER,,Minuano,,1,Piston,LandPlane,L1P,L,PA32,G
+EMBRAER,,Navajo,,2,Piston,LandPlane,L2P,L,PA31,G
+EMBRAER,P-95,Bandeirulha,,2,Turboprop/Turboshaft,LandPlane,L2T,L,E110,G
+EMBRAER,PA-25,Pawnee,,1,Piston,LandPlane,L1P,L,PA25,G
+EMBRAER,PA-32RT-300,Lance 2,,1,Piston,LandPlane,L1P,L,P32T,G
+EMBRAER,,Pawnee,,1,Piston,LandPlane,L1P,L,PA25,G
+EMBRAER,Phenom 100,,,2,Jet,LandPlane,L2J,L,E50P,G
+EMBRAER,R-95,Bandeirante,,2,Turboprop/Turboshaft,LandPlane,L2T,L,E110,G
+EMBRAER,R-99,,,2,Jet,LandPlane,L2J,M,E145,F
+EMBRAER,RT-26,Xavante,,1,Jet,LandPlane,L1J,L,M326,G
+EMBRAER,SC-95,Bandeirante,,2,Turboprop/Turboshaft,LandPlane,L2T,L,E110,G
+EMBRAER,,Seneca,,2,Piston,LandPlane,L2P,L,PA34,G
+EMBRAER,,Sertanejo,,1,Piston,LandPlane,L1P,L,P32R,G
+EMBRAER,,Super Tucano,,1,Turboprop/Turboshaft,LandPlane,L1T,L,E314,G
+EMBRAER,T-27,Tucano,,1,Turboprop/Turboshaft,LandPlane,L1T,L,TUCA,G
+EMBRAER,,Tucano,,1,Turboprop/Turboshaft,LandPlane,L1T,L,TUCA,G
+EMBRAER,,Tupi,,1,Piston,LandPlane,L1P,L,P28A,G
+EMBRAER,U-7,Seneca,,2,Piston,LandPlane,L2P,L,PA34,G
+EMBRAER,EMB-550 Legacy 500,,,2,Jet,LandPlane,L2J,M,E550,G
+EMBRAER,U-19,Ipanema,,1,Piston,LandPlane,L1P,L,IPAN,G
+EMBRAER,VC-97,Brasilia,,2,Turboprop/Turboshaft,LandPlane,L2T,M,E120,G
+EMBRAER,VU-9,Xingu,,2,Turboprop/Turboshaft,LandPlane,L2T,L,E121,G
+EMBRAER,,Xavante,,1,Jet,LandPlane,L1J,L,M326,G
+EMBRAER,,Xingu,,2,Turboprop/Turboshaft,LandPlane,L2T,L,E121,G
+EMBRAER,YA-29,Super Tucano,,1,Turboprop/Turboshaft,LandPlane,L1T,L,E314,G
+EMBRAER,EMB-711ST Corisco 2 Turbo,,,1,Piston,LandPlane,L1P,L,P28U,G
+EMBRAER,Corisco 2 Turbo,,,1,Piston,LandPlane,L1P,L,P28U,G
+EMBRAER,Legacy 600,,,2,Jet,LandPlane,L2J,M,E35L,F
+EMBRAER,Legacy 650,,,2,Jet,LandPlane,L2J,M,E35L,F
+EMBRAER,VC-99B Legacy,,,2,Jet,LandPlane,L2J,M,E35L,F
+EMBRAER,VC-99B Legacy 600,,,2,Jet,LandPlane,L2J,M,E35L,F
+EMBRAER,E-99,,,2,Jet,LandPlane,L2J,M,E145,F
+EMBRAER,VC-99A,,,2,Jet,LandPlane,L2J,M,E145,F
+EMBRAER,EMB-145AEW&C,,,2,Jet,LandPlane,L2J,M,E145,F
+EMBRAER,EMB-145SM,,,2,Jet,LandPlane,L2J,M,E145,F
+EMBRAER,VC-99C,,,2,Jet,LandPlane,L2J,M,E135,F
+EMBRAER,EMB-135ER,,,2,Jet,LandPlane,L2J,M,E135,F
+EMBRAER,EMB-135KE,,,2,Jet,LandPlane,L2J,M,E135,F
+EMBRAER,EMB-135KL,,,2,Jet,LandPlane,L2J,M,E135,F
+EMBRAER,EMB-135LR,,,2,Jet,LandPlane,L2J,M,E135,F
+EMBRAER,195,,,2,Jet,LandPlane,L2J,M,E195,E
+EMBRAER,ERJ-190-100,,,2,Jet,LandPlane,L2J,M,E190,E
+EMBRAER,ERJ-190-200,,,2,Jet,LandPlane,L2J,M,E195,E
+EMBRAER,ERJ-190-300,,,2,Jet,LandPlane,L2J,M,E290,D
+EMBRAER,E190-E2,,,2,Jet,LandPlane,L2J,M,E290,D
+EMBRAER,ERJ-190-400,,,2,Jet,LandPlane,L2J,M,E295,D
+EMBRAER,E195-E2,,,2,Jet,LandPlane,L2J,M,E295,D
+EMBRAER,ERJ-190-500,,,2,Jet,LandPlane,L2J,M,E275,Z
+EMBRAER,E175-E2,,,2,Jet,LandPlane,L2J,M,E275,Z
+EMBRAER,EMB-550 Praetor 600,,,2,Jet,LandPlane,L2J,M,E550,G
+EMBRAER,,Praetor 600,,2,Jet,LandPlane,L2J,M,E550,G
+EMBRAER,EMB-545 Praetor 500,,,2,Jet,LandPlane,L2J,M,E545,G
+EMBRAER,,Praetor 500,,2,Jet,LandPlane,L2J,M,E545,G
+EMBRAER,,Legacy 450,,2,Jet,LandPlane,L2J,M,E545,G
+EMBRAER,,Legacy 500,,2,Jet,LandPlane,L2J,M,E550,G
+EMBRAER,,Legacy (EMB-135BJ),,2,Jet,LandPlane,L2J,M,E35L,F
+EMBRAER,EMB-203,Ipanema,,1,Piston,LandPlane,L1P,L,IPAN,G
+EMBRAER,KC-390,,,2,Jet,LandPlane,L2J,M,E390,
+EMBRAER,C-390,Millennium,,2,Jet,LandPlane,L2J,M,E390,
+EMBRAER,,Millennium,,2,Jet,LandPlane,L2J,M,E390,
+EMBRAER,EMB-390,,,2,Jet,LandPlane,L2J,M,E390,
+LOCKHEED MARTIN,C-130H,Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED MARTIN,,Desert Falcon,,1,Jet,LandPlane,L1J,M,F16,F
+LOCKHEED MARTIN,F-16 ,Sufa,,1,Jet,LandPlane,L1J,M,F16,F
+LOCKHEED MARTIN,F-16,Desert Falcon,,1,Jet,LandPlane,L1J,M,F16,F
+LOCKHEED MARTIN,F-16,Fighting Falcon,,1,Jet,LandPlane,L1J,M,F16,F
+LOCKHEED MARTIN,F-22,Raptor,,2,Jet,LandPlane,L2J,M,F22,F
+LOCKHEED MARTIN,,Fighting Falcon,,1,Jet,LandPlane,L1J,M,F16,F
+LOCKHEED MARTIN,L-285,Orion,,4,Turboprop/Turboshaft,LandPlane,L4T,M,P3,E
+LOCKHEED MARTIN,L-645,Raptor,,2,Jet,LandPlane,L2J,M,F22,F
+LOCKHEED MARTIN,LC-130,Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED MARTIN,,Orion,,4,Turboprop/Turboshaft,LandPlane,L4T,M,P3,E
+LOCKHEED MARTIN,P-3,Orion,,4,Turboprop/Turboshaft,LandPlane,L4T,M,P3,E
+LOCKHEED MARTIN,,Raptor,,2,Jet,LandPlane,L2J,M,F22,F
+LOCKHEED MARTIN,,Sufa,,1,Jet,LandPlane,L1J,M,F16,F
+LOCKHEED MARTIN,F-35A,Lightning 2,,1,Jet,LandPlane,L1J,M,F35,F
+LOCKHEED MARTIN,F-35B,Lightning 2,,1,Jet,LandPlane,L1J,M,VF35,F
+LOCKHEED MARTIN,F-35C,Lightning 2,,1,Jet,LandPlane,L1J,M,F35,F
+LOCKHEED MARTIN,,Lightning 2 (F-35A/C),,1,Jet,LandPlane,L1J,M,F35,F
+LOCKHEED MARTIN,,Lightning 2 (F-35B),,1,Jet,LandPlane,L1J,M,VF35,F
+LOCKHEED MARTIN,382C,Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED MARTIN,,Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED MARTIN,382J,Super Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C30J,D
+LOCKHEED MARTIN,382U,Super Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C30J,D
+LOCKHEED MARTIN,382V,Super Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C30J,D
+LOCKHEED MARTIN,C-130J,Super Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C30J,D
+LOCKHEED MARTIN,CC-130J,Super Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C30J,D
+LOCKHEED MARTIN,EC-130J,Super Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C30J,D
+LOCKHEED MARTIN,HC-130J,Super Hercules ,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C30J,D
+LOCKHEED MARTIN,KC-130J,Super Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C30J,D
+LOCKHEED MARTIN,MC-130J,Super Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C30J,D
+LOCKHEED MARTIN,WC-130J,Super Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C30J,D
+LOCKHEED MARTIN,LM-100J,Super Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C30J,D
+LOCKHEED MARTIN,,Super Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C30J,D
+LOCKHEED,Super Galaxy,,,4,Jet,LandPlane,L4J,H,C5M,B
+LOCKHEED,AC-130,Spectre,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED,AP-3,Orion,,4,Turboprop/Turboshaft,LandPlane,L4T,M,P3,E
+LOCKHEED,,Arcturus,,4,Turboprop/Turboshaft,LandPlane,L4T,M,P3,E
+LOCKHEED,AT-33,,,1,Jet,LandPlane,L1J,M,T33,G
+LOCKHEED,,Aurora,,4,Turboprop/Turboshaft,LandPlane,L4T,M,P3,E
+LOCKHEED,,Aya,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED,B-34,Lexington,,2,Piston,LandPlane,L2P,M,L37,G
+LOCKHEED,C-40,Electra Junior,,2,Piston,LandPlane,L2P,L,L12,G
+LOCKHEED,C-56,Lodestar,,2,Piston,LandPlane,L2P,M,L18,G
+LOCKHEED,C-57,Lodestar,,2,Piston,LandPlane,L2P,M,L18,G
+LOCKHEED,C-59,Lodestar,,2,Piston,LandPlane,L2P,M,L18,G
+LOCKHEED,C-60,Lodestar,,2,Piston,LandPlane,L2P,M,L18,G
+LOCKHEED,C-121,Constellation,,4,Piston,LandPlane,L4P,M,CONI,D
+LOCKHEED,C-130,Karnaf,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED,C-130A,Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED,C-130B,Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED,C-130E,Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED,C-130F,Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED,C-130H,Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED,C-130K,Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED,C-141,Starlifter,,4,Jet,LandPlane,L4J,H,C141,C
+LOCKHEED,CC-130,Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED,,Constellation,,4,Piston,LandPlane,L4P,M,CONI,D
+LOCKHEED,CP-140,Arcturus,,4,Turboprop/Turboshaft,LandPlane,L4T,M,P3,E
+LOCKHEED,CP-140,Aurora,,4,Turboprop/Turboshaft,LandPlane,L4T,M,P3,E
+LOCKHEED,DC-130,Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED,EC-121,Constellation,,4,Piston,LandPlane,L4P,M,CONI,D
+LOCKHEED,EC-130,Aya,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED,EC-130,Sapeer,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED,EC-130E,Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED,EC-130G,Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED,EC-130H,Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED,EC-130Q,Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED,,Electra (L-10),,2,Piston,LandPlane,L2P,L,L10,G
+LOCKHEED,,Electra (L-188),,4,Turboprop/Turboshaft,LandPlane,L4T,M,L188,E
+LOCKHEED,,Electra Junior,,2,Piston,LandPlane,L2P,L,L12,G
+LOCKHEED,EP-3,Orion,,4,Turboprop/Turboshaft,LandPlane,L4T,M,P3,E
+LOCKHEED,ER-2,,,1,Jet,LandPlane,L1J,M,U2,G
+LOCKHEED,F-5,Lightning,,2,Piston,LandPlane,L2P,M,P38,G
+LOCKHEED,F-16,Fighting Falcon,,1,Jet,LandPlane,L1J,M,F16,F
+LOCKHEED,F-104,Starfighter,,1,Jet,LandPlane,L1J,M,F104,G
+LOCKHEED,F-117,Nighthawk,,2,Jet,LandPlane,L2J,M,F117,F
+LOCKHEED,,Fighting Falcon,,1,Jet,LandPlane,L1J,M,F16,F
+LOCKHEED,,Harpoon,,2,Piston,LandPlane,L2P,M,L37,G
+LOCKHEED,HC-130,Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED,,Hercules (T-56 engines),,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED,,Hudson,,2,Piston,LandPlane,L2P,M,L14,G
+LOCKHEED,JC-130,Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED,,Jetstar 2,,4,Jet,LandPlane,L4J,M,L29B,F
+LOCKHEED,,Jetstar 6,,4,Jet,LandPlane,L4J,M,L29A,F
+LOCKHEED,,Jetstar 8,,4,Jet,LandPlane,L4J,M,L29A,F
+LOCKHEED,,Jetstar 731,,4,Jet,LandPlane,L4J,M,L29B,F
+LOCKHEED,JO,Electra Junior,,2,Piston,LandPlane,L2P,L,L12,G
+LOCKHEED,,Karnaf,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED,KC-130,Karnaf,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED,KC-130B,Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED,KC-130F,Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED,KC-130H,Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED,KC-130R,Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED,KC-130T,Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED,L-10,Electra,,2,Piston,LandPlane,L2P,L,L10,G
+LOCKHEED,L-12,Electra Junior,,2,Piston,LandPlane,L2P,L,L12,G
+LOCKHEED,L-14,Hudson,,2,Piston,LandPlane,L2P,M,L14,G
+LOCKHEED,L-14,Super Electra,,2,Piston,LandPlane,L2P,M,L14,G
+LOCKHEED,L-15,Harpoon,,2,Piston,LandPlane,L2P,M,L37,G
+LOCKHEED,L-18,Lodestar,,2,Piston,LandPlane,L2P,M,L18,G
+LOCKHEED,L-049,Constellation,,4,Piston,LandPlane,L4P,M,CONI,D
+LOCKHEED,L-100,Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED,L-137,Ventura,,2,Piston,LandPlane,L2P,M,L37,G
+LOCKHEED,L-185,Orion,,4,Turboprop/Turboshaft,LandPlane,L4T,M,P3,E
+LOCKHEED,L-188,Electra,,4,Turboprop/Turboshaft,LandPlane,L4T,M,L188,E
+LOCKHEED,L-222,Lightning,,2,Piston,LandPlane,L2P,M,P38,G
+LOCKHEED,L-237,Ventura,,2,Piston,LandPlane,L2P,M,L37,G
+LOCKHEED,L-285,Orion,,4,Turboprop/Turboshaft,LandPlane,L4T,M,P3,E
+LOCKHEED,L-300,Starlifter,,4,Jet,LandPlane,L4J,H,C141,C
+LOCKHEED,L-322,Lightning,,2,Piston,LandPlane,L2P,M,P38,G
+LOCKHEED,L-394,Viking,,2,Jet,LandPlane,L2J,M,S3,F
+LOCKHEED,L-422,Lightning,,2,Piston,LandPlane,L2P,M,P38,G
+LOCKHEED,L-426,Neptune,,2,Piston,LandPlane,L2P,M,P2,E
+LOCKHEED,L-580,Shooting Star,,1,Jet,LandPlane,L1J,M,T33,G
+LOCKHEED,L-580,T-Bird,,1,Jet,LandPlane,L1J,M,T33,G
+LOCKHEED,L-583,Starfighter,,1,Jet,LandPlane,L1J,M,F104,G
+LOCKHEED,L-683,Starfighter,,1,Jet,LandPlane,L1J,M,F104,G
+LOCKHEED,L-685,Orion,,4,Turboprop/Turboshaft,LandPlane,L4T,M,P3,E
+LOCKHEED,L-726,Neptune,,2,Piston,LandPlane,L2P,M,P2,E
+LOCKHEED,L-749,Constellation,,4,Piston,LandPlane,L4P,M,CONI,D
+LOCKHEED,L-785,Orion,,4,Turboprop/Turboshaft,LandPlane,L4T,M,P3,E
+LOCKHEED,L-826,Neptune,,2,Piston,LandPlane,L2P,M,P2,E
+LOCKHEED,L-1011,TriStar,,3,Jet,LandPlane,L3J,H,L101,C
+LOCKHEED,L-1049,Super Constellation,,4,Piston,LandPlane,L4P,M,CONI,D
+LOCKHEED,L-1329,Jetstar 2,,4,Jet,LandPlane,L4J,M,L29B,F
+LOCKHEED,L-1329,Jetstar 6,,4,Jet,LandPlane,L4J,M,L29A,F
+LOCKHEED,L-1329,Jetstar 8,,4,Jet,LandPlane,L4J,M,L29A,F
+LOCKHEED,L-1329,Jetstar 731,,4,Jet,LandPlane,L4J,M,L29B,F
+LOCKHEED,LASA-60,,,1,Piston,LandPlane,L1P,L,LA60,G
+LOCKHEED,LC-130,Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED,,Lightning,,2,Piston,LandPlane,L2P,M,P38,G
+LOCKHEED,,Lodestar,,2,Piston,LandPlane,L2P,M,L18,G
+LOCKHEED,MC-130,Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED,NC-130,Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED,,Neptune,,2,Piston,LandPlane,L2P,M,P2,E
+LOCKHEED,,Nighthawk,,2,Jet,LandPlane,L2J,M,F117,F
+LOCKHEED,NP-3,Orion,,4,Turboprop/Turboshaft,LandPlane,L4T,M,P3,E
+LOCKHEED,NT-33,,,1,Jet,LandPlane,L1J,M,T33,G
+LOCKHEED,,Orion,,4,Turboprop/Turboshaft,LandPlane,L4T,M,P3,E
+LOCKHEED,P-2,Neptune,,2,Piston,LandPlane,L2P,M,P2,E
+LOCKHEED,P2V,Neptune,,2,Piston,LandPlane,L2P,M,P2,E
+LOCKHEED,P-3,Orion,,4,Turboprop/Turboshaft,LandPlane,L4T,M,P3,E
+LOCKHEED,P-38,Lightning,,2,Piston,LandPlane,L2P,M,P38,G
+LOCKHEED,PV-1,Ventura,,2,Piston,LandPlane,L2P,M,L37,G
+LOCKHEED,PV-2,Harpoon,,2,Piston,LandPlane,L2P,M,L37,G
+LOCKHEED,R5O,Lodestar,,2,Piston,LandPlane,L2P,M,L18,G
+LOCKHEED,R7V,Constellation,,4,Piston,LandPlane,L4P,M,CONI,D
+LOCKHEED,RC-121,Constellation,,4,Piston,LandPlane,L4P,M,CONI,D
+LOCKHEED,RC-130,Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED,RF-104,Starfighter,,1,Jet,LandPlane,L1J,M,F104,G
+LOCKHEED,RP-3,Orion,,4,Turboprop/Turboshaft,LandPlane,L4T,M,P3,E
+LOCKHEED,RT-33,,,1,Jet,LandPlane,L1J,M,T33,G
+LOCKHEED,S-3,Viking,,2,Jet,LandPlane,L2J,M,S3,F
+LOCKHEED,,Sapeer,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED,,Shooting Star,,1,Jet,LandPlane,L1J,M,T33,G
+LOCKHEED,SP-2,Neptune,,2,Piston,LandPlane,L2P,M,P2,E
+LOCKHEED,,Spectre,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED,,Starfighter,,1,Jet,LandPlane,L1J,M,F104,G
+LOCKHEED,,Starlifter,,4,Jet,LandPlane,L4J,H,C141,C
+LOCKHEED,,Super Constellation,,4,Piston,LandPlane,L4P,M,CONI,D
+LOCKHEED,,Super Electra,,2,Piston,LandPlane,L2P,M,L14,G
+LOCKHEED,T-33,Shooting Star,,1,Jet,LandPlane,L1J,M,T33,G
+LOCKHEED,T-33,T-Bird,,1,Jet,LandPlane,L1J,M,T33,G
+LOCKHEED,,T-Bird,,1,Jet,LandPlane,L1J,M,T33,G
+LOCKHEED,TC-130,Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED,TF-104,Starfighter,,1,Jet,LandPlane,L1J,M,F104,G
+LOCKHEED,TP-3,Orion,,4,Turboprop/Turboshaft,LandPlane,L4T,M,P3,E
+LOCKHEED,Tp84,Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED,,TriStar,,3,Jet,LandPlane,L3J,H,L101,C
+LOCKHEED,U-2,,,1,Jet,LandPlane,L1J,M,U2,G
+LOCKHEED,UP-3,Orion,,4,Turboprop/Turboshaft,LandPlane,L4T,M,P3,E
+LOCKHEED,VC-121,Constellation,,4,Piston,LandPlane,L4P,M,CONI,D
+LOCKHEED,VC-130,Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED,,Ventura,,2,Piston,LandPlane,L2P,M,L37,G
+LOCKHEED,,Viking,,2,Jet,LandPlane,L2J,M,S3,F
+LOCKHEED,VP-3,Orion,,4,Turboprop/Turboshaft,LandPlane,L4T,M,P3,E
+LOCKHEED,,Warning Star,,4,Piston,LandPlane,L4P,M,CONI,D
+LOCKHEED,WC-130E,Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED,WC-130H,Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED,WP-3,Orion,,4,Turboprop/Turboshaft,LandPlane,L4T,M,P3,E
+LOCKHEED,WV,Warning Star,,4,Piston,LandPlane,L4P,M,CONI,D
+LOCKHEED,XR2O,Electra,,2,Piston,LandPlane,L2P,L,L10,G
+LOCKHEED,XR5O,Lodestar,,2,Piston,LandPlane,L2P,M,L18,G
+LOCKHEED,YF-117 Nighthawk,,,2,Jet,LandPlane,L2J,M,F117,F
+LOCKHEED,YO-3,,,1,Piston,LandPlane,L1P,L,O3,G
+LOCKHEED,C-5,Super Galaxy,,4,Jet,LandPlane,L4J,H,C5M,B
+LOCKHEED,182,Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED,282,Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED,382,Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+MCDONNELL DOUGLAS,TAV-8,Matador,,1,Jet,LandPlane,L1J,M,HAR,G
+MCDONNELL DOUGLAS,Hornet,,,2,Jet,LandPlane,L2J,M,F18H,F
+MCDONNELL DOUGLAS,ATF-18 Hornet,,,2,Jet,LandPlane,L2J,M,F18H,F
+MCDONNELL DOUGLAS,A-4,Skyhawk,,1,Jet,LandPlane,L1J,M,A4,G
+MCDONNELL DOUGLAS,AH-6G,,,1,Turboprop/Turboshaft,Helicopter,H1T,L,H500,G
+MCDONNELL DOUGLAS,AH-6J,,,1,Turboprop/Turboshaft,Helicopter,H1T,L,MD52,G
+MCDONNELL DOUGLAS,AH-64,Apache,,2,Turboprop/Turboshaft,Helicopter,H2T,M,H64,G
+MCDONNELL DOUGLAS,AH-64,Longbow Apache,,2,Turboprop/Turboshaft,Helicopter,H2T,M,H64,G
+MCDONNELL DOUGLAS,AH-64,Pethen,,2,Turboprop/Turboshaft,Helicopter,H2T,M,H64,G
+MCDONNELL DOUGLAS,,Akef,,2,Jet,LandPlane,L2J,M,F15,F
+MCDONNELL DOUGLAS,,Apache,,2,Turboprop/Turboshaft,Helicopter,H2T,M,H64,G
+MCDONNELL DOUGLAS,AV-8,Harrier,,1,Jet,LandPlane,L1J,M,HAR,G
+MCDONNELL DOUGLAS,,Baz,,2,Jet,LandPlane,L2J,M,F15,F
+MCDONNELL DOUGLAS,C-9,Nightingale,,2,Jet,LandPlane,L2J,M,DC93,E
+MCDONNELL DOUGLAS,C-9,Skytrain 2,,2,Jet,LandPlane,L2J,M,DC93,E
+MCDONNELL DOUGLAS,C-17,Globemaster 3,,4,Jet,LandPlane,L4J,H,C17,C
+MCDONNELL DOUGLAS,CF-18 Hornet,,,2,Jet,LandPlane,L2J,M,F18H,F
+MCDONNELL DOUGLAS,CF-188 Hornet,,,2,Jet,LandPlane,L2J,M,F18H,F
+MCDONNELL DOUGLAS,EF-18 Hornet,,,2,Jet,LandPlane,L2J,M,F18H,F
+MCDONNELL DOUGLAS,,Combat Explorer,,2,Turboprop/Turboshaft,Helicopter,H2T,L,EXPL,G
+MCDONNELL DOUGLAS,DC-8-50,,,4,Jet,LandPlane,L4J,H,DC85,C
+MCDONNELL DOUGLAS,DC-8-50,Jet Trader,,4,Jet,LandPlane,L4J,H,DC85,C
+MCDONNELL DOUGLAS,DC-8-60,,,4,Jet,LandPlane,L4J,H,DC86,C
+MCDONNELL DOUGLAS,DC-8-70,,,4,Jet,LandPlane,L4J,H,DC87,C
+MCDONNELL DOUGLAS,DC-9-10,,,2,Jet,LandPlane,L2J,M,DC91,F
+MCDONNELL DOUGLAS,DC-9-20,,,2,Jet,LandPlane,L2J,M,DC92,E
+MCDONNELL DOUGLAS,DC-9-30,,,2,Jet,LandPlane,L2J,M,DC93,E
+MCDONNELL DOUGLAS,DC-9-40,,,2,Jet,LandPlane,L2J,M,DC94,E
+MCDONNELL DOUGLAS,DC-9-50,,,2,Jet,LandPlane,L2J,M,DC95,E
+MCDONNELL DOUGLAS,DC-10,,,3,Jet,LandPlane,L3J,H,DC10,C
+MCDONNELL DOUGLAS,,Defender,,1,Turboprop/Turboshaft,Helicopter,H1T,L,H500,G
+MCDONNELL DOUGLAS,,Eagle,,2,Jet,LandPlane,L2J,M,F15,F
+MCDONNELL DOUGLAS,EAV-8,Matador,,1,Jet,LandPlane,L1J,M,HAR,G
+MCDONNELL DOUGLAS,,Enforcer,,2,Turboprop/Turboshaft,Helicopter,H2T,L,EXPL,G
+MCDONNELL DOUGLAS,,Explorer,,2,Turboprop/Turboshaft,Helicopter,H2T,L,EXPL,G
+MCDONNELL DOUGLAS,,Extender,,3,Jet,LandPlane,L3J,H,DC10,C
+MCDONNELL DOUGLAS,F-4,Kurnass,,2,Jet,LandPlane,L2J,M,F4,F
+MCDONNELL DOUGLAS,F-4,Phantom 2,,2,Jet,LandPlane,L2J,M,F4,F
+MCDONNELL DOUGLAS,F-15,Akef,,2,Jet,LandPlane,L2J,M,F15,F
+MCDONNELL DOUGLAS,FA-18A Hornet,,,2,Jet,LandPlane,L2J,M,F18H,F
+MCDONNELL DOUGLAS,FA-18B Hornet,,,2,Jet,LandPlane,L2J,M,F18H,F
+MCDONNELL DOUGLAS,F-15,Baz,,2,Jet,LandPlane,L2J,M,F15,F
+MCDONNELL DOUGLAS,F-15,Eagle,,2,Jet,LandPlane,L2J,M,F15,F
+MCDONNELL DOUGLAS,F-15,Ra'am,,2,Jet,LandPlane,L2J,M,F15,F
+MCDONNELL DOUGLAS,,Globemaster 3,,4,Jet,LandPlane,L4J,H,C17,C
+MCDONNELL DOUGLAS,,Goshawk,,1,Jet,LandPlane,L1J,M,HAWK,G
+MCDONNELL DOUGLAS,,Harrier,,1,Jet,LandPlane,L1J,M,HAR,G
+MCDONNELL DOUGLAS,JAH-64,Apache,,2,Turboprop/Turboshaft,Helicopter,H2T,M,H64,G
+MCDONNELL DOUGLAS,,Jet Trader,,4,Jet,LandPlane,L4J,H,DC85,C
+MCDONNELL DOUGLAS,KC-10,Extender,,3,Jet,LandPlane,L3J,H,DC10,C
+MCDONNELL DOUGLAS,KDC-10,,,3,Jet,LandPlane,L3J,H,DC10,C
+MCDONNELL DOUGLAS,,Kurnass,,2,Jet,LandPlane,L2J,M,F4,F
+MCDONNELL DOUGLAS,,Lifter,,1,Turboprop/Turboshaft,Helicopter,H1T,L,H500,G
+MCDONNELL DOUGLAS,,Longbow Apache,,2,Turboprop/Turboshaft,Helicopter,H2T,M,H64,G
+MCDONNELL DOUGLAS,,Matador,,1,Jet,LandPlane,L1J,M,HAR,G
+MCDONNELL DOUGLAS,MD-10,,,3,Jet,LandPlane,L3J,H,DC10,C
+MCDONNELL DOUGLAS,MD-11,,,3,Jet,LandPlane,L3J,H,MD11,C
+MCDONNELL DOUGLAS,MD-81,,,2,Jet,LandPlane,L2J,M,MD81,D
+MCDONNELL DOUGLAS,MD-82,,,2,Jet,LandPlane,L2J,M,MD82,D
+MCDONNELL DOUGLAS,MD-83,,,2,Jet,LandPlane,L2J,M,MD83,D
+MCDONNELL DOUGLAS,FA-18C Hornet,,,2,Jet,LandPlane,L2J,M,F18H,F
+MCDONNELL DOUGLAS,FA-18D Hornet,,,2,Jet,LandPlane,L2J,M,F18H,F
+MCDONNELL DOUGLAS,MD-87,,,2,Jet,LandPlane,L2J,M,MD87,D
+MCDONNELL DOUGLAS,MD-88,,,2,Jet,LandPlane,L2J,M,MD88,D
+MCDONNELL DOUGLAS,MD-90,,,2,Jet,LandPlane,L2J,M,MD90,D
+MCDONNELL DOUGLAS,MD-500,,,1,Turboprop/Turboshaft,Helicopter,H1T,L,H500,G
+MCDONNELL DOUGLAS,MD-500,Defender,,1,Turboprop/Turboshaft,Helicopter,H1T,L,H500,G
+MCDONNELL DOUGLAS,MD-500,Nightfox,,1,Turboprop/Turboshaft,Helicopter,H1T,L,H500,G
+MCDONNELL DOUGLAS,MD-520N,,,1,Turboprop/Turboshaft,Helicopter,H1T,L,MD52,G
+MCDONNELL DOUGLAS,MD-530F,Lifter,,1,Turboprop/Turboshaft,Helicopter,H1T,L,H500,G
+MCDONNELL DOUGLAS,MD-530MG,Defender,,1,Turboprop/Turboshaft,Helicopter,H1T,L,H500,G
+MCDONNELL DOUGLAS,MD-530MG,Nightfox,,1,Turboprop/Turboshaft,Helicopter,H1T,L,H500,G
+MCDONNELL DOUGLAS,MD-530N,,,1,Turboprop/Turboshaft,Helicopter,H1T,L,MD52,G
+MCDONNELL DOUGLAS,MD-600N,,,1,Turboprop/Turboshaft,Helicopter,H1T,L,MD60,G
+MCDONNELL DOUGLAS,MD-900,Combat Explorer,,2,Turboprop/Turboshaft,Helicopter,H2T,L,EXPL,G
+MCDONNELL DOUGLAS,MD-900,Explorer,,2,Turboprop/Turboshaft,Helicopter,H2T,L,EXPL,G
+MCDONNELL DOUGLAS,MD-902,Explorer,,2,Turboprop/Turboshaft,Helicopter,H2T,L,EXPL,G
+MCDONNELL DOUGLAS,MH-6H,,,1,Turboprop/Turboshaft,Helicopter,H1T,L,H500,G
+MCDONNELL DOUGLAS,MH-6J,,,1,Turboprop/Turboshaft,Helicopter,H1T,L,MD52,G
+MCDONNELL DOUGLAS,MH-90,Enforcer,,2,Turboprop/Turboshaft,Helicopter,H2T,L,EXPL,G
+MCDONNELL DOUGLAS,,Nightfox,,1,Turboprop/Turboshaft,Helicopter,H1T,L,H500,G
+MCDONNELL DOUGLAS,,Nightingale,,2,Jet,LandPlane,L2J,M,DC93,E
+MCDONNELL DOUGLAS,OA-4,Skyhawk,,1,Jet,LandPlane,L1J,M,A4,G
+MCDONNELL DOUGLAS,,Pethen,,2,Turboprop/Turboshaft,Helicopter,H2T,M,H64,G
+MCDONNELL DOUGLAS,,Phantom 2,,2,Jet,LandPlane,L2J,M,F4,F
+MCDONNELL DOUGLAS,QF-4,Phantom 2,,2,Jet,LandPlane,L2J,M,F4,F
+MCDONNELL DOUGLAS,,Ra'am,,2,Jet,LandPlane,L2J,M,F15,F
+MCDONNELL DOUGLAS,RF-4,Kurnass,,2,Jet,LandPlane,L2J,M,F4,F
+MCDONNELL DOUGLAS,RF-4,Phantom 2,,2,Jet,LandPlane,L2J,M,F4,F
+MCDONNELL DOUGLAS,,Skyhawk,,1,Jet,LandPlane,L1J,M,A4,G
+MCDONNELL DOUGLAS,,Skytrain 2,,2,Jet,LandPlane,L2J,M,DC93,E
+MCDONNELL DOUGLAS,T-45,Goshawk,,1,Jet,LandPlane,L1J,M,HAWK,G
+MCDONNELL DOUGLAS,TA-4,Skyhawk,,1,Jet,LandPlane,L1J,M,A4,G
+MCDONNELL DOUGLAS,TAV-8,Harrier,,1,Jet,LandPlane,L1J,M,HAR,G
+MCDONNELL DOUGLAS,VC-9,,,2,Jet,LandPlane,L2J,M,DC93,E
+MCDONNELL DOUGLAS,YC-15,,,4,Jet,LandPlane,L4J,M,C15,D
+MCDONNELL DOUGLAS,KAF-18 Hornet,,,2,Jet,LandPlane,L2J,M,F18H,F
+MCDONNELL DOUGLAS,Super Hornet,,,2,Jet,LandPlane,L2J,M,F18S,F
+MCDONNELL DOUGLAS,FA-18E Super Hornet,,,2,Jet,LandPlane,L2J,M,F18S,F
+MCDONNELL DOUGLAS,FA-18F Super Hornet,,,2,Jet,LandPlane,L2J,M,F18S,F
+MOONEY,,201,,1,Piston,LandPlane,L1P,L,M20P,G
+MOONEY,,205,,1,Piston,LandPlane,L1P,L,M20P,G
+MOONEY,,231,,1,Piston,LandPlane,L1P,L,M20T,G
+MOONEY,,252TSE,,1,Piston,LandPlane,L1P,L,M20T,G
+MOONEY,A-2,Aircoupe,,1,Piston,LandPlane,L1P,L,ERCO,G
+MOONEY,,Aircoupe,,1,Piston,LandPlane,L1P,L,ERCO,G
+MOONEY,,Allegro,,1,Piston,LandPlane,L1P,L,M20P,G
+MOONEY,,ATS,,1,Piston,LandPlane,L1P,L,M20P,G
+MOONEY,,Bravo,,1,Piston,LandPlane,L1P,L,M20T,G
+MOONEY,,Cadet,,1,Piston,LandPlane,L1P,L,M10,G
+MOONEY,,Chaparral,,1,Piston,LandPlane,L1P,L,M20P,G
+MOONEY,,Eagle,,1,Piston,LandPlane,L1P,L,M20P,G
+MOONEY,,Encore,,1,Piston,LandPlane,L1P,L,M20T,G
+MOONEY,,Executive,,1,Piston,LandPlane,L1P,L,M20P,G
+MOONEY,M-10,Cadet,,1,Piston,LandPlane,L1P,L,M10,G
+MOONEY,M-18,Mite,,1,Piston,LandPlane,L1P,L,MITE,G
+MOONEY,M-18,Wee Scotsman,,1,Piston,LandPlane,L1P,L,MITE,G
+MOONEY,M-20,,,1,Piston,LandPlane,L1P,L,M20P,G
+MOONEY,M-20A,,,1,Piston,LandPlane,L1P,L,M20P,G
+MOONEY,M-20B,Mark 21,,1,Piston,LandPlane,L1P,L,M20P,G
+MOONEY,M-20C,Mark 21,,1,Piston,LandPlane,L1P,L,M20P,G
+MOONEY,M-20C,Ranger,,1,Piston,LandPlane,L1P,L,M20P,G
+MOONEY,M-20D,Master,,1,Piston,LandPlane,L1P,L,M20P,G
+MOONEY,M-20E,Chaparral,,1,Piston,LandPlane,L1P,L,M20P,G
+MOONEY,M-20E,Super 21,,1,Piston,LandPlane,L1P,L,M20P,G
+MOONEY,M-20F,Executive,,1,Piston,LandPlane,L1P,L,M20P,G
+MOONEY,M-20G,Statesman,,1,Piston,LandPlane,L1P,L,M20P,G
+MOONEY,M-20J,201,,1,Piston,LandPlane,L1P,L,M20P,G
+MOONEY,M-20J,205,,1,Piston,LandPlane,L1P,L,M20P,G
+MOONEY,M-20J,Allegro,,1,Piston,LandPlane,L1P,L,M20P,G
+MOONEY,M-20J,ATS,,1,Piston,LandPlane,L1P,L,M20P,G
+MOONEY,M-20J,MSE,,1,Piston,LandPlane,L1P,L,M20P,G
+MOONEY,M-20K,231,,1,Piston,LandPlane,L1P,L,M20T,G
+MOONEY,M-20K,252TSE,,1,Piston,LandPlane,L1P,L,M20T,G
+MOONEY,M-20K,Encore,,1,Piston,LandPlane,L1P,L,M20T,G
+MOONEY,M-20L,PFM,,1,Piston,LandPlane,L1P,L,M20P,G
+MOONEY,M-20M,Bravo,,1,Piston,LandPlane,L1P,L,M20T,G
+MOONEY,M-20M,TLS,,1,Piston,LandPlane,L1P,L,M20T,G
+MOONEY,M-20R,Ovation,,1,Piston,LandPlane,L1P,L,M20P,G
+MOONEY,M-20S,Eagle,,1,Piston,LandPlane,L1P,L,M20P,G
+MOONEY,M-22,,,1,Piston,LandPlane,L1P,L,M22,G
+MOONEY,M-22,Mustang,,1,Piston,LandPlane,L1P,L,M22,G
+MOONEY,,Mark 21,,1,Piston,LandPlane,L1P,L,M20P,G
+MOONEY,,Master,,1,Piston,LandPlane,L1P,L,M20P,G
+MOONEY,,Mite,,1,Piston,LandPlane,L1P,L,MITE,G
+MOONEY,,MSE,,1,Piston,LandPlane,L1P,L,M20P,G
+MOONEY,,Mustang,,1,Piston,LandPlane,L1P,L,M22,G
+MOONEY,,Ovation,,1,Piston,LandPlane,L1P,L,M20P,G
+MOONEY,,PFM,,1,Piston,LandPlane,L1P,L,M20P,G
+MOONEY,,Ranger,,1,Piston,LandPlane,L1P,L,M20P,G
+MOONEY,,Statesman,,1,Piston,LandPlane,L1P,L,M20P,G
+MOONEY,,Super 21,,1,Piston,LandPlane,L1P,L,M20P,G
+MOONEY,,TLS,,1,Piston,LandPlane,L1P,L,M20T,G
+MOONEY,,Wee Scotsman,,1,Piston,LandPlane,L1P,L,MITE,G
+MOONEY,M-20TN Acclaim,,,1,Piston,LandPlane,L1P,L,M20T,G
+MOONEY,Acclaim,,,1,Piston,LandPlane,L1P,L,M20T,G
+MOONEY,M-20U Ovation Ultra,,,1,Piston,LandPlane,L1P,L,M20P,G
+MOONEY,Ovation Ultra,,,1,Piston,LandPlane,L1P,L,M20P,G
+MOONEY,M-20R Ovation 2,,,1,Piston,LandPlane,L1P,L,M20P,G
+MOONEY,Ovation 2,,,1,Piston,LandPlane,L1P,L,M20P,G
+MOONEY,M-20R Ovation 3,,,1,Piston,LandPlane,L1P,L,M20P,G
+MOONEY,Ovation 3,,,1,Piston,LandPlane,L1P,L,M20P,G
+MOONEY,M-20V Acclaim Ultra,,,1,Piston,LandPlane,L1P,L,M20T,G
+MOONEY,Acclaim Ultra,,,1,Piston,LandPlane,L1P,L,M20T,G
+MOONEY,M-20TN Acclaim Type S,,,1,Piston,LandPlane,L1P,L,M20T,G
+MOONEY,Acclaim Type S,,,1,Piston,LandPlane,L1P,L,M20T,G
+MOONEY,M-10J,,,1,Piston,LandPlane,L1P,L,M10R,G
+MOONEY,M-10T,,,1,Piston,LandPlane,L1P,L,M10F,G
+PIPER,PA-28R-201,Arrow,,1,Piston,LandPlane,L1P,L,P28R,G
+PIPER,,Arrow,,1,Piston,LandPlane,L1P,L,P28R,G
+PIPER,PA-46R-350T,Malibu Matrix,,1,Piston,LandPlane,L1P,L,PA46,G
+PIPER,,Malibu Matrix,,1,Piston,LandPlane,L1P,L,PA46,G
+PIPER,PA-28RT-201T Turbo Arrow 4,,,1,Piston,LandPlane,L1P,L,P28U,G
+PIPER,Turbo Arrow 4,,,1,Piston,LandPlane,L1P,L,P28U,G
+PIPER,PA-28R-201T Turbo Arrow 3,,,1,Piston,LandPlane,L1P,L,P28S,G
+PIPER,PA-28R-201T Turbo Arrow,,,1,Piston,LandPlane,L1P,L,P28S,G
+PIPER,Turbo Cherokee Arrow 3,,,1,Piston,LandPlane,L1P,L,P28S,G
+PIPER,Turbo Arrow 3,,,1,Piston,LandPlane,L1P,L,P28S,G
+PIPER,Turbo Arrow,,,1,Piston,LandPlane,L1P,L,P28S,G
+PIPER,PA-28-181 Archer TX,,,1,Piston,LandPlane,L1P,L,P28A,G
+PIPER,Archer TX,,,1,Piston,LandPlane,L1P,L,P28A,G
+PIPER,6X,,,1,Piston,LandPlane,L1P,L,PA32,G
+PIPER,6XT,,,1,Piston,LandPlane,L1P,L,PA32,G
+PIPER,108,Station Wagon,,1,Piston,LandPlane,L1P,L,S108,G
+PIPER,108,Voyager,,1,Piston,LandPlane,L1P,L,S108,G
+PIPER,AE,Cub Cruiser,,1,Piston,LandPlane,L1P,L,J5,G
+PIPER,,Aerostar,,2,Piston,LandPlane,L2P,L,AEST,G
+PIPER,,Apache,,2,Piston,LandPlane,L2P,L,PA23,G
+PIPER,,Archer 2,,1,Piston,LandPlane,L1P,L,P28A,G
+PIPER,,Archer 3,,1,Piston,LandPlane,L1P,L,P28A,G
+PIPER,,Arrow 3,,1,Piston,LandPlane,L1P,L,P28R,G
+PIPER,,Arrow 4,,1,Piston,LandPlane,L1P,L,P28T,G
+PIPER,,Aztec,,2,Piston,LandPlane,L2P,L,PA27,G
+PIPER,,Cadet,,1,Piston,LandPlane,L1P,L,P28A,G
+PIPER,,Caribbean,,1,Piston,LandPlane,L1P,L,PA22,G
+PIPER,,Cherokee 140-4,,1,Piston,LandPlane,L1P,L,P28A,G
+PIPER,,Cherokee (PA-28-140/150/160/180),,1,Piston,LandPlane,L1P,L,P28A,G
+PIPER,,Cherokee (PA-28-235),,1,Piston,LandPlane,L1P,L,P28B,G
+PIPER,,Cherokee Archer,,1,Piston,LandPlane,L1P,L,P28A,G
+PIPER,,Cherokee Archer 2,,1,Piston,LandPlane,L1P,L,P28A,G
+PIPER,,Cherokee Arrow,,1,Piston,LandPlane,L1P,L,P28R,G
+PIPER,,Cherokee Arrow 2,,1,Piston,LandPlane,L1P,L,P28R,G
+PIPER,,Cherokee Arrow 3,,1,Piston,LandPlane,L1P,L,P28R,G
+PIPER,,Cherokee Challenger,,1,Piston,LandPlane,L1P,L,P28A,G
+PIPER,,Cherokee Charger,,1,Piston,LandPlane,L1P,L,P28B,G
+PIPER,,Cherokee Chief,,1,Piston,LandPlane,L1P,L,P28A,G
+PIPER,,Cherokee Cruiser,,1,Piston,LandPlane,L1P,L,P28A,G
+PIPER,,Cherokee Flite Liner,,1,Piston,LandPlane,L1P,L,P28A,G
+PIPER,,Cherokee Lance,,1,Piston,LandPlane,L1P,L,P32R,G
+PIPER,,Cherokee Pathfinder,,1,Piston,LandPlane,L1P,L,P28B,G
+PIPER,,Cherokee Six,,1,Piston,LandPlane,L1P,L,PA32,G
+PIPER,,Cherokee Warrior,,1,Piston,LandPlane,L1P,L,P28A,G
+PIPER,,Cherokee Warrior 2,,1,Piston,LandPlane,L1P,L,P28A,G
+PIPER,,Cheyenne,,2,Turboprop/Turboshaft,LandPlane,L2T,L,PAY2,G
+PIPER,,Cheyenne 1,,2,Turboprop/Turboshaft,LandPlane,L2T,L,PAY1,G
+PIPER,,Cheyenne 2,,2,Turboprop/Turboshaft,LandPlane,L2T,L,PAY2,G
+PIPER,,Cheyenne 2XL,,2,Turboprop/Turboshaft,LandPlane,L2T,L,PAY2,G
+PIPER,,Cheyenne 3,,2,Turboprop/Turboshaft,LandPlane,L2T,L,PAY3,G
+PIPER,,Cheyenne 400,,2,Turboprop/Turboshaft,LandPlane,L2T,L,PAY4,G
+PIPER,,Chieftain,,2,Piston,LandPlane,L2P,L,PA31,G
+PIPER,,Clipper,,1,Piston,LandPlane,L1P,L,PA16,G
+PIPER,,Colt,,1,Piston,LandPlane,L1P,L,PA22,G
+PIPER,,Comanche,,1,Piston,LandPlane,L1P,L,PA24,G
+PIPER,,Cub (J-2),,1,Piston,LandPlane,L1P,L,J2,G
+PIPER,,Cub (J-3/L-4/NE),,1,Piston,LandPlane,L1P,L,J3,G
+PIPER,,Cub Coupe,,1,Piston,LandPlane,L1P,L,J4,G
+PIPER,,Cub Cruiser,,1,Piston,LandPlane,L1P,L,J5,G
+PIPER,,Cub Special,,1,Piston,LandPlane,L1P,L,PA11,G
+PIPER,,Dakota,,1,Piston,LandPlane,L1P,L,P28B,G
+PIPER,,Family Cruiser,,1,Piston,LandPlane,L1P,L,PA14,G
+PIPER,J-2,Cub,,1,Piston,LandPlane,L1P,L,J2,G
+PIPER,J-3,Cub,,1,Piston,LandPlane,L1P,L,J3,G
+PIPER,J-4,Cub Coupe,,1,Piston,LandPlane,L1P,L,J4,G
+PIPER,J-5,Cub Cruiser,,1,Piston,LandPlane,L1P,L,J5,G
+PIPER,L-4,Cub,,1,Piston,LandPlane,L1P,L,J3,G
+PIPER,L-14,Cub Cruiser,,1,Piston,LandPlane,L1P,L,J5,G
+PIPER,L-18B,Cub Special,,1,Piston,LandPlane,L1P,L,PA11,G
+PIPER,L-18C,Super Cub,,1,Piston,LandPlane,L1P,L,PA18,G
+PIPER,L-21,Super Cub,,1,Piston,LandPlane,L1P,L,PA18,G
+PIPER,,Lance,,1,Piston,LandPlane,L1P,L,P32R,G
+PIPER,,Lance 2,,1,Piston,LandPlane,L1P,L,P32T,G
+PIPER,,Malibu,,1,Piston,LandPlane,L1P,L,PA46,G
+PIPER,,Malibu Meridian,,1,Turboprop/Turboshaft,LandPlane,L1T,L,P46T,G
+PIPER,,Malibu Mirage,,1,Piston,LandPlane,L1P,L,PA46,G
+PIPER,,Mojave,,2,Piston,LandPlane,L2P,L,PA31,G
+PIPER,,Navajo,,2,Piston,LandPlane,L2P,L,PA31,G
+PIPER,,Navajo Chieftain,,2,Piston,LandPlane,L2P,L,PA31,G
+PIPER,,Navajo CR,,2,Piston,LandPlane,L2P,L,PA31,G
+PIPER,NE,Cub,,1,Piston,LandPlane,L1P,L,J3,G
+PIPER,PA-11,Cub Special,,1,Piston,LandPlane,L1P,L,PA11,G
+PIPER,PA-12,Super Cruiser,,1,Piston,LandPlane,L1P,L,PA12,G
+PIPER,PA-14,Family Cruiser,,1,Piston,LandPlane,L1P,L,PA14,G
+PIPER,PA-15,Vagabond,,1,Piston,LandPlane,L1P,L,PA15,G
+PIPER,PA-16,Clipper,,1,Piston,LandPlane,L1P,L,PA16,G
+PIPER,PA-17,Vagabond,,1,Piston,LandPlane,L1P,L,PA17,G
+PIPER,PA-17,Vagabond Trainer,,1,Piston,LandPlane,L1P,L,PA17,G
+PIPER,PA-18,Super Cub,,1,Piston,LandPlane,L1P,L,PA18,G
+PIPER,PA-20,Pacer,,1,Piston,LandPlane,L1P,L,PA20,G
+PIPER,PA-22,Caribbean,,1,Piston,LandPlane,L1P,L,PA22,G
+PIPER,PA-22,Colt,,1,Piston,LandPlane,L1P,L,PA22,G
+PIPER,PA-22,Tri-Pacer,,1,Piston,LandPlane,L1P,L,PA22,G
+PIPER,PA-23-150,Apache,,2,Piston,LandPlane,L2P,L,PA23,G
+PIPER,PA-23-160,Apache,,2,Piston,LandPlane,L2P,L,PA23,G
+PIPER,PA-23-235,Aztec,,2,Piston,LandPlane,L2P,L,PA27,G
+PIPER,PA-23-250,Aztec,,2,Piston,LandPlane,L2P,L,PA27,G
+PIPER,PA-23-250,Turbo Aztec,,2,Piston,LandPlane,L2P,L,PA27,G
+PIPER,PA-24,Comanche,,1,Piston,LandPlane,L1P,L,PA24,G
+PIPER,PA-25,Pawnee,,1,Piston,LandPlane,L1P,L,PA25,G
+PIPER,PA-28-140,Cherokee,,1,Piston,LandPlane,L1P,L,P28A,G
+PIPER,PA-28-140,Cherokee 140-4,,1,Piston,LandPlane,L1P,L,P28A,G
+PIPER,PA-28-140,Cherokee Cruiser,,1,Piston,LandPlane,L1P,L,P28A,G
+PIPER,PA-28-140,Cherokee Flite Liner,,1,Piston,LandPlane,L1P,L,P28A,G
+PIPER,PA-28-150,Cherokee,,1,Piston,LandPlane,L1P,L,P28A,G
+PIPER,PA-28-151,Cherokee Warrior,,1,Piston,LandPlane,L1P,L,P28A,G
+PIPER,PA-28-160,Cherokee,,1,Piston,LandPlane,L1P,L,P28A,G
+PIPER,PA-28-161,Cadet,,1,Piston,LandPlane,L1P,L,P28A,G
+PIPER,PA-28-161,Cherokee Warrior 2,,1,Piston,LandPlane,L1P,L,P28A,G
+PIPER,PA-28-161,Warrior 2,,1,Piston,LandPlane,L1P,L,P28A,G
+PIPER,PA-28-161,Warrior 3,,1,Piston,LandPlane,L1P,L,P28A,G
+PIPER,PA-28-180,Cherokee,,1,Piston,LandPlane,L1P,L,P28A,G
+PIPER,PA-28-180,Cherokee Archer,,1,Piston,LandPlane,L1P,L,P28A,G
+PIPER,PA-28-180,Cherokee Challenger,,1,Piston,LandPlane,L1P,L,P28A,G
+PIPER,PA-28-180TG,Cherokee Chief,,1,Piston,LandPlane,L1P,L,P28A,G
+PIPER,PA-28-181,Archer 2,,1,Piston,LandPlane,L1P,L,P28A,G
+PIPER,PA-28-181,Archer 3,,1,Piston,LandPlane,L1P,L,P28A,G
+PIPER,PA-28-181,Cherokee Archer 2,,1,Piston,LandPlane,L1P,L,P28A,G
+PIPER,PA-28-201T,Turbo Dakota,,1,Piston,LandPlane,L1P,L,P28B,G
+PIPER,PA-28-235,Cherokee,,1,Piston,LandPlane,L1P,L,P28B,G
+PIPER,PA-28-235,Cherokee Charger,,1,Piston,LandPlane,L1P,L,P28B,G
+PIPER,PA-28-235,Cherokee Pathfinder,,1,Piston,LandPlane,L1P,L,P28B,G
+PIPER,PA-28-236,Dakota,,1,Piston,LandPlane,L1P,L,P28B,G
+PIPER,PA-28R-180,Cherokee Arrow,,1,Piston,LandPlane,L1P,L,P28R,G
+PIPER,PA-28R-200,Cherokee Arrow,,1,Piston,LandPlane,L1P,L,P28R,G
+PIPER,PA-28R-200,Cherokee Arrow 2,,1,Piston,LandPlane,L1P,L,P28R,G
+PIPER,PA-28R-201,Arrow 3,,1,Piston,LandPlane,L1P,L,P28R,G
+PIPER,PA-28R-201,Cherokee Arrow 3,,1,Piston,LandPlane,L1P,L,P28R,G
+PIPER,PA-28R-300,Pillán,,1,Piston,LandPlane,L1P,L,PILL,G
+PIPER,PA-28RT-201,Arrow 4,,1,Piston,LandPlane,L1P,L,P28T,G
+PIPER,PA-30,Turbo Twin Comanche,,2,Piston,LandPlane,L2P,L,PA30,G
+PIPER,PA-30,Twin Comanche,,2,Piston,LandPlane,L2P,L,PA30,G
+PIPER,PA-31-300,Navajo,,2,Piston,LandPlane,L2P,L,PA31,G
+PIPER,PA-31-310,Navajo,,2,Piston,LandPlane,L2P,L,PA31,G
+PIPER,PA-31-325,Navajo CR,,2,Piston,LandPlane,L2P,L,PA31,G
+PIPER,PA-31-350,Chieftain,,2,Piston,LandPlane,L2P,L,PA31,G
+PIPER,PA-31-350,Navajo Chieftain,,2,Piston,LandPlane,L2P,L,PA31,G
+PIPER,PA-31-350,T-1020,,2,Piston,LandPlane,L2P,L,PA31,G
+PIPER,PA-31P-350,Mojave,,2,Piston,LandPlane,L2P,L,PA31,G
+PIPER,PA-31P-425,Pressurized Navajo,,2,Piston,LandPlane,L2P,L,PA31,G
+PIPER,PA-31T1-500,Cheyenne 1,,2,Turboprop/Turboshaft,LandPlane,L2T,L,PAY1,G
+PIPER,PA-31T2-620,Cheyenne 2XL,,2,Turboprop/Turboshaft,LandPlane,L2T,L,PAY2,G
+PIPER,PA-31T3-500,T-1040,,2,Turboprop/Turboshaft,LandPlane,L2T,L,PAT4,G
+PIPER,PA-31T-620,Cheyenne,,2,Turboprop/Turboshaft,LandPlane,L2T,L,PAY2,G
+PIPER,PA-31T-620,Cheyenne 2,,2,Turboprop/Turboshaft,LandPlane,L2T,L,PAY2,G
+PIPER,PA-32 6X,,,1,Piston,LandPlane,L1P,L,PA32,G
+PIPER,PA-32 6XT,,,1,Piston,LandPlane,L1P,L,PA32,G
+PIPER,PA-32,Cherokee Six,,1,Piston,LandPlane,L1P,L,PA32,G
+PIPER,PA-32,Saratoga,,1,Piston,LandPlane,L1P,L,PA32,G
+PIPER,PA-32,Six,,1,Piston,LandPlane,L1P,L,PA32,G
+PIPER,PA-32,Turbo Saratoga,,1,Piston,LandPlane,L1P,L,PA32,G
+PIPER,PA-32R-300,Cherokee Lance,,1,Piston,LandPlane,L1P,L,P32R,G
+PIPER,PA-32R-300,Lance,,1,Piston,LandPlane,L1P,L,P32R,G
+PIPER,PA-32R-301,Saratoga 2 HP,,1,Piston,LandPlane,L1P,L,P32R,G
+PIPER,PA-32R-301,Saratoga SP,,1,Piston,LandPlane,L1P,L,P32R,G
+PIPER,PA-32R-301T,Saratoga 2 TC,,1,Piston,LandPlane,L1P,L,P32R,G
+PIPER,PA-32R-301T,Turbo Saratoga SP,,1,Piston,LandPlane,L1P,L,P32R,G
+PIPER,PA-32RT-300,Lance 2,,1,Piston,LandPlane,L1P,L,P32T,G
+PIPER,PA-32RT-300T,Turbo Lance 2,,1,Piston,LandPlane,L1P,L,P32T,G
+PIPER,PA-34,Seneca,,2,Piston,LandPlane,L2P,L,PA34,G
+PIPER,PA-36,Pawnee Brave,,1,Piston,LandPlane,L1P,L,PA36,G
+PIPER,PA-38,Tomahawk,,1,Piston,LandPlane,L1P,L,PA38,G
+PIPER,PA-39,Twin Comanche CR,,2,Piston,LandPlane,L2P,L,PA30,G
+PIPER,PA-42-720,Cheyenne 3,,2,Turboprop/Turboshaft,LandPlane,L2T,L,PAY3,G
+PIPER,PA-42-1000,Cheyenne 400,,2,Turboprop/Turboshaft,LandPlane,L2T,L,PAY4,G
+PIPER,PA-44,Seminole,,2,Piston,LandPlane,L2P,L,PA44,G
+PIPER,PA-44,Turbo Seminole,,2,Piston,LandPlane,L2P,L,PA44,G
+PIPER,PA-46-310P,Malibu,,1,Piston,LandPlane,L1P,L,PA46,G
+PIPER,PA-46-350P,Malibu Mirage,,1,Piston,LandPlane,L1P,L,PA46,G
+PIPER,PA-46-500TP,Malibu Meridian,,1,Turboprop/Turboshaft,LandPlane,L1T,L,P46T,G
+PIPER,PA-60,Aerostar,,2,Piston,LandPlane,L2P,L,AEST,G
+PIPER,,Pacer,,1,Piston,LandPlane,L1P,L,PA20,G
+PIPER,,Pawnee,,1,Piston,LandPlane,L1P,L,PA25,G
+PIPER,,Pawnee Brave,,1,Piston,LandPlane,L1P,L,PA36,G
+PIPER,,Pillán,,1,Piston,LandPlane,L1P,L,PILL,G
+PIPER,,Pressurized Navajo,,2,Piston,LandPlane,L2P,L,PA31,G
+PIPER,,Saratoga,,1,Piston,LandPlane,L1P,L,PA32,G
+PIPER,,Saratoga 2 HP,,1,Piston,LandPlane,L1P,L,P32R,G
+PIPER,,Saratoga 2 TC,,1,Piston,LandPlane,L1P,L,P32R,G
+PIPER,,Saratoga SP,,1,Piston,LandPlane,L1P,L,P32R,G
+PIPER,,Seminole,,2,Piston,LandPlane,L2P,L,PA44,G
+PIPER,,Seneca,,2,Piston,LandPlane,L2P,L,PA34,G
+PIPER,,Six,,1,Piston,LandPlane,L1P,L,PA32,G
+PIPER,,Station Wagon,,1,Piston,LandPlane,L1P,L,S108,G
+PIPER,,Super Cruiser,,1,Piston,LandPlane,L1P,L,PA12,G
+PIPER,,Super Cub,,1,Piston,LandPlane,L1P,L,PA18,G
+PIPER,,T-1020,,2,Piston,LandPlane,L2P,L,PA31,G
+PIPER,,T-1040,,2,Turboprop/Turboshaft,LandPlane,L2T,L,PAT4,G
+PIPER,,Tomahawk,,1,Piston,LandPlane,L1P,L,PA38,G
+PIPER,,Tri-Pacer,,1,Piston,LandPlane,L1P,L,PA22,G
+PIPER,,Turbo Aztec,,2,Piston,LandPlane,L2P,L,PA27,G
+PIPER,,Turbo Dakota,,1,Piston,LandPlane,L1P,L,P28B,G
+PIPER,,Turbo Lance 2,,1,Piston,LandPlane,L1P,L,P32T,G
+PIPER,,Turbo Saratoga,,1,Piston,LandPlane,L1P,L,PA32,G
+PIPER,,Turbo Saratoga SP,,1,Piston,LandPlane,L1P,L,P32R,G
+PIPER,,Turbo Seminole,,2,Piston,LandPlane,L2P,L,PA44,G
+PIPER,,Turbo Twin Comanche,,2,Piston,LandPlane,L2P,L,PA30,G
+PIPER,,Twin Comanche,,2,Piston,LandPlane,L2P,L,PA30,G
+PIPER,,Twin Comanche CR,,2,Piston,LandPlane,L2P,L,PA30,G
+PIPER,U-7,Super Cub,,1,Piston,LandPlane,L1P,L,PA18,G
+PIPER,U-11,Aztec,,2,Piston,LandPlane,L2P,L,PA27,G
+PIPER,UC-26,Aztec,,2,Piston,LandPlane,L2P,L,PA27,G
+PIPER,,Vagabond (PA-15),,1,Piston,LandPlane,L1P,L,PA15,G
+PIPER,,Vagabond (PA-17),,1,Piston,LandPlane,L1P,L,PA17,G
+PIPER,,Vagabond Trainer,,1,Piston,LandPlane,L1P,L,PA17,G
+PIPER,,Voyager,,1,Piston,LandPlane,L1P,L,S108,G
+PIPER,,Warrior 2,,1,Piston,LandPlane,L1P,L,P28A,G
+PIPER,,Warrior 3,,1,Piston,LandPlane,L1P,L,P28A,G
+PIPER,PA-28R-201T ,Turbo Cherokee Arrow 3,,1,Piston,LandPlane,L1P,L,P28S,G
+PIPER,PiperSport,,,1,Piston,LandPlane,L1P,L,CRUZ,G
+PIPER,PA-28-181 Archer LX,,,1,Piston,LandPlane,L1P,L,P28A,G
+PIPER,PA-47 Piper Jet,,,1,Jet,LandPlane,L1J,L,PA47,G
+PIPER,PA-47 Piper Jet Altaire,,,1,Jet,LandPlane,L1J,L,PA47,G
+PIPER,Archer LX,,,1,Piston,LandPlane,L1P,L,P28A,G
+PIPER,Piper Jet,,,1,Jet,LandPlane,L1J,L,PA47,G
+PIPER,Piper Jet Altaire,,,1,Jet,LandPlane,L1J,L,PA47,G
+PIPER,PA-46-350P M350,,,1,Piston,LandPlane,L1P,L,PA46,G
+PIPER,M350,,,1,Piston,LandPlane,L1P,L,PA46,G
+PIPER,PA-46-500TP Meridian M500,,,1,Turboprop/Turboshaft,LandPlane,L1T,L,P46T,G
+PIPER,Meridian M500,,,1,Turboprop/Turboshaft,LandPlane,L1T,L,P46T,G
+PIPER,M500,,,1,Turboprop/Turboshaft,LandPlane,L1T,L,P46T,G
+PIPER,PA-46-600TP M600,,,1,Turboprop/Turboshaft,LandPlane,L1T,L,M600,G
+PIPER,M600,,,1,Turboprop/Turboshaft,LandPlane,L1T,L,M600,G
+PIPER,PA-28-181,Pilot,,1,Piston,LandPlane,L1P,L,P28A,
+PIPER,PA-28-181,Archer DX,,1,Piston,LandPlane,L1P,L,P28A,
+PIPER,PA-28-181,Archer DLX,,1,Piston,LandPlane,L1P,L,P28A,
+PIPER,,Pilot,,1,Piston,LandPlane,L1P,L,P28A,
+PIPER,,Archer DX,,1,Piston,LandPlane,L1P,L,P28A,
+PIPER,,Archer DLX,,1,Piston,LandPlane,L1P,L,P28A,
+ROBINSON,R-66,,,1,Turboprop/Turboshaft,Helicopter,H1T,L,R66,G
+ROBINSON,,Astro,,1,Piston,Helicopter,H1P,L,R44,G
+ROBINSON,,Beta,,1,Piston,Helicopter,H1P,L,R22,G
+ROBINSON,,Clipper,,1,Piston,Helicopter,H1P,L,R44,G
+ROBINSON,,Mariner,,1,Piston,Helicopter,H1P,L,R22,G
+ROBINSON,R-22,,,1,Piston,Helicopter,H1P,L,R22,G
+ROBINSON,R-22,Beta,,1,Piston,Helicopter,H1P,L,R22,G
+ROBINSON,R-22,Mariner,,1,Piston,Helicopter,H1P,L,R22,G
+ROBINSON,R-44,Astro,,1,Piston,Helicopter,H1P,L,R44,G
+ROBINSON,R-44,Clipper,,1,Piston,Helicopter,H1P,L,R44,G
+ROBINSON,R-44,Raven,,1,Piston,Helicopter,H1P,L,R44,G
+ROBINSON,,Raven,,1,Piston,Helicopter,H1P,L,R44,G
+SAAB,29,,,1,Jet,LandPlane,L1J,M,SB29,G
+SAAB,32,Lansen,,1,Jet,LandPlane,L1J,M,SB32,G
+SAAB,35,Draken,,1,Jet,LandPlane,L1J,M,SB35,G
+SAAB,37,Viggen,,1,Jet,LandPlane,L1J,M,SB37,F
+SAAB,39,Gripen,,1,Jet,LandPlane,L1J,M,SB39,G
+SAAB,91,Safir,,1,Piston,LandPlane,L1P,L,SB91,G
+SAAB,105,,,2,Jet,LandPlane,L2J,L,SB05,G
+SAAB,340,,,2,Turboprop/Turboshaft,LandPlane,L2T,M,SF34,F
+SAAB,2000,,,2,Turboprop/Turboshaft,LandPlane,L2T,M,SB20,F
+SAAB,AJ37,Viggen,,1,Jet,LandPlane,L1J,M,SB37,F
+SAAB,AJS37,Viggen,,1,Jet,LandPlane,L1J,M,SB37,F
+SAAB,,Argus,,2,Turboprop/Turboshaft,LandPlane,L2T,M,SF34,F
+SAAB,,Draken,,1,Jet,LandPlane,L1J,M,SB35,G
+SAAB,F-35,Draken,,1,Jet,LandPlane,L1J,M,SB35,G
+SAAB,,Gripen,,1,Jet,LandPlane,L1J,M,SB39,G
+SAAB,J29,,,1,Jet,LandPlane,L1J,M,SB29,G
+SAAB,J32,Lansen,,1,Jet,LandPlane,L1J,M,SB32,G
+SAAB,J35,Draken,,1,Jet,LandPlane,L1J,M,SB35,G
+SAAB,JA37,Viggen,,1,Jet,LandPlane,L1J,M,SB37,F
+SAAB,JAS39,Gripen,,1,Jet,LandPlane,L1J,M,SB39,G
+SAAB,,Lansen,,1,Jet,LandPlane,L1J,M,SB32,G
+SAAB,MFI-15,Safari,,1,Piston,LandPlane,L1P,L,MF17,G
+SAAB,MFI-17,Supporter,,1,Piston,LandPlane,L1P,L,MF17,G
+SAAB,OS100,,,2,Turboprop/Turboshaft,LandPlane,L2T,M,SF34,F
+SAAB,RF-35,Draken,,1,Jet,LandPlane,L1J,M,SB35,G
+SAAB,S100,Argus,,2,Turboprop/Turboshaft,LandPlane,L2T,M,SF34,F
+SAAB,,Safari,,1,Piston,LandPlane,L1P,L,MF17,G
+SAAB,,Safir,,1,Piston,LandPlane,L1P,L,SB91,G
+SAAB,SF37,Viggen,,1,Jet,LandPlane,L1J,M,SB37,F
+SAAB,SH37,Viggen,,1,Jet,LandPlane,L1J,M,SB37,F
+SAAB,Sk35,Draken,,1,Jet,LandPlane,L1J,M,SB35,G
+SAAB,Sk37,Viggen,,1,Jet,LandPlane,L1J,M,SB37,F
+SAAB,Sk50,Safir,,1,Piston,LandPlane,L1P,L,SB91,G
+SAAB,Sk60,,,2,Jet,LandPlane,L2J,L,SB05,G
+SAAB,,Supporter,,1,Piston,LandPlane,L1P,L,MF17,G
+SAAB,T-17,Supporter,,1,Piston,LandPlane,L1P,L,MF17,G
+SAAB,TF-35,Draken,,1,Jet,LandPlane,L1J,M,SB35,G
+SAAB,Tp100,,,2,Turboprop/Turboshaft,LandPlane,L2T,M,SF34,F
+SAAB,,Viggen,,1,Jet,LandPlane,L1J,M,SB37,F
