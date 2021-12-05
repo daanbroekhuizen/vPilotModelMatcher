@@ -4,41 +4,6 @@ using System.Xml;
 
 namespace vPilotModelMatcher
 {
-    public class ModelMatchRule
-    {
-        public string CallsignPrefix { get; set; }
-        public string ModelName { get; set; }
-        public string TypeCode { get; set; }
-    }
-
-    public class Fltsim
-    {
-        public string title { get; set; }
-        public string ui_type { get; set; }
-        public string ui_variation { get; set; }
-        public List<string> atc_parking_codes { get; set; }
-
-        public override string ToString()
-        {
-            return $"{title} - {ui_type} - {ui_variation}{(atc_parking_codes?.Any() ?? false ? $" - {string.Join(", ", atc_parking_codes)}" : "")}";
-        }
-    }
-
-    public class Aircraft
-    {
-        public string manufacturer_code { get; set; }
-        public string model_no { get; set; }
-        public string model_name { get; set; }
-        public string tdesig { get; set; }
-    }
-
-    public class Airline
-    {
-        public string operator_code { get; set; }
-        public string operator_name { get; set; }
-        public string country { get; set; }
-    }
-
     public class Program
     {
         public static void Main()
