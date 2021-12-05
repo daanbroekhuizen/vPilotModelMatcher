@@ -8,6 +8,16 @@ namespace vPilotModelMatcher
     {
         public static void Main()
         {
+            Console.Write("Enter rule set name: ");
+#if DEBUG
+            Console.WriteLine("");
+            var ruleSetName = "Model Matching Rules";
+#else
+            var ruleSetName = Console.ReadLine();
+#endif
+            Console.Write($"Rule set name: \"{ruleSetName}\"");
+            Console.WriteLine("");
+
             var aircraft = LoadAircraft();
             var airlines = LoadAirlines();
             var aircraftCfgs = LoadAircraftCfgs();
@@ -52,7 +62,7 @@ namespace vPilotModelMatcher
 
             xmlDocument = new();
             xmlDocument.LoadXml(outputXml);
-            xmlDocument.Save("Model Matching Rules aircraft.vmr");
+            xmlDocument.Save($"{ruleSetName} aircraft.vmr");
 
             Console.WriteLine(aircraftCfgs.Count);
             Console.ReadLine();
@@ -109,8 +119,17 @@ namespace vPilotModelMatcher
 
         private static Dictionary<string, List<string>> LoadAircraftCfgs()
         {
-            var aircraftCfgs = Directory.EnumerateFiles($"{Directory.GetCurrentDirectory()}\\TestData", "*.cfg", SearchOption.AllDirectories);
-            //var aircraftCfgs = Directory.EnumerateFiles(Directory.GetCurrentDirectory(), "aircraft.cfg", SearchOption.AllDirectories);
+            Console.Write("Enter path to folder: ");
+#if DEBUG
+            Console.WriteLine("");
+            var folderPath = $"{Directory.GetCurrentDirectory()}\\TestData";
+#else
+            var folderPath = Console.ReadLine();
+#endif
+            Console.Write($"Path used \"{folderPath}\"");
+            Console.WriteLine("");
+
+            var aircraftCfgs = Directory.EnumerateFiles(folderPath, "*.cfg", SearchOption.AllDirectories);
 
             var models = new Dictionary<string, List<string>>();
 
