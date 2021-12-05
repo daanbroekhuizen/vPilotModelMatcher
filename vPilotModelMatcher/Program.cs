@@ -20,7 +20,7 @@ namespace vPilotModelMatcher
 
         public override string ToString()
         {
-            return $"{title} - {ui_type} - {ui_variation} - {string.Join(", ", atc_parking_codes ?? new[] { "" }.ToList())}";
+            return $"{title} - {ui_type} - {ui_variation}{(atc_parking_codes?.Any() ?? false ? $" - {string.Join(", ", atc_parking_codes)}" : "")}";
         }
     }
 
@@ -47,25 +47,47 @@ namespace vPilotModelMatcher
             var airlines = LoadAirlines();
             var aircraftCfgs = LoadAircraftCfgs();
             var fltsims = ParseAircraftCfgs(aircraftCfgs);
-            var rules = GenerateRules(fltsims, airlines, aircraft)
+            var rules = GenerateRules(fltsims, airlines, aircraft).ToList();
+
+            var airlineRules = rules
                 .GroupBy(r => new { r.CallsignPrefix, r.TypeCode })
                 .Select(r => new ModelMatchRule
                 {
                     CallsignPrefix = r.Key.CallsignPrefix,
                     TypeCode = r.Key.TypeCode,
-                    ModelName = string.Join("//", r.Select(r => r.ModelName))
+                    ModelName = string.Join("//", r.Select(r => r.ModelName).OrderBy(r => r))
                 })
+                .Where(r => !string.IsNullOrWhiteSpace(r.CallsignPrefix))
                 .OrderBy(r => r.CallsignPrefix)
                 .ThenBy(r => r.TypeCode);
 
             var outputXml = $"<?xml version=\"1.0\" encoding=\"utf-8\"?>{Environment.NewLine}" +
                 $"<ModelMatchRuleSet>{Environment.NewLine}" +
-                $"{string.Join('\n', rules.Select(r => $"<ModelMatchRule {(string.IsNullOrWhiteSpace(r.CallsignPrefix) ? "" : $"CallsignPrefix=\"{SecurityElement.Escape(r.CallsignPrefix)}\" ")}TypeCode=\"{SecurityElement.Escape(r.TypeCode)}\" ModelName=\"{SecurityElement.Escape(r.ModelName)}\" />"))}" +
+                $"{string.Join('\n', airlineRules.Select(r => $"<ModelMatchRule {(string.IsNullOrWhiteSpace(r.CallsignPrefix) ? "" : $"CallsignPrefix=\"{SecurityElement.Escape(r.CallsignPrefix)}\" ")}TypeCode=\"{SecurityElement.Escape(r.TypeCode)}\" ModelName=\"{SecurityElement.Escape(r.ModelName)}\" />"))}" +
                 $"</ModelMatchRuleSet>";
 
             XmlDocument xmlDocument = new();
             xmlDocument.LoadXml(outputXml);
-            xmlDocument.Save("Model Matching Rules.vmr");
+            xmlDocument.Save("Model Matching Rules airlines.vmr");
+
+            var aircraftRules = rules
+                .GroupBy(r => new { r.TypeCode })
+                .Select(r => new ModelMatchRule
+                {
+                    TypeCode = r.Key.TypeCode,
+                    ModelName = string.Join("//", r.Select(r => r.ModelName).OrderBy(r => r))
+                })
+                .OrderBy(r => r.TypeCode)
+                .ToList();
+
+            outputXml = $"<?xml version=\"1.0\" encoding=\"utf-8\"?>{Environment.NewLine}" +
+                $"<ModelMatchRuleSet>{Environment.NewLine}" +
+                $"{string.Join('\n', aircraftRules.Select(r => $"<ModelMatchRule TypeCode=\"{SecurityElement.Escape(r.TypeCode)}\" ModelName=\"{SecurityElement.Escape(r.ModelName)}\" />"))}" +
+                $"</ModelMatchRuleSet>";
+
+            xmlDocument = new();
+            xmlDocument.LoadXml(outputXml);
+            xmlDocument.Save("Model Matching Rules aircraft.vmr");
 
             Console.WriteLine(aircraftCfgs.Count);
             Console.ReadLine();
@@ -335,6 +357,11 @@ namespace vPilotModelMatcher
 
             ui_typeSplit.AddRange(ui_typeSplit.Select(ui => ui.Replace("-", "")).ToList());
 
+            ui_typeSplit.AddRange(ui_typeSplit
+                .Select(ui => Regex.Replace(ui, "[^0-9.-]", ""))
+                .Where(s => !string.IsNullOrWhiteSpace(s))
+                .ToList());
+
             ui_typeSplit = ui_typeSplit.Distinct().ToList();
 
             var matchingManufacturer = aircraft.Where(a => ui_typeSplit.Select(ui => ui.ToUpper()).Contains(a.manufacturer_code.ToUpper()));
@@ -348,8 +375,15 @@ namespace vPilotModelMatcher
                     .AsEnumerable();
 
                 matchingAircraft = matchingAircraft.Concat(matchingManufacturer
-                  .Where(a => ui_typeSplit.Any(ui => ui.Contains(a.tdesig)))
-                  .OrderByDescending(a => a.model_no.Length));
+                    .Where(a => ui_typeSplit.Any(ui => ui.Contains(a.tdesig)))
+                    .OrderByDescending(a => a.model_no.Length));
+
+                var tdesigContains = matchingAircraft
+                    .Where(a => ui_typeSplit.Any(ui => a.tdesig.Contains(ui)))
+                    .GroupBy(a => a.tdesig);
+
+                if (tdesigContains.Count() == 1)
+                    return matchingAircraft.Where(a => ui_typeSplit.Any(ui => a.tdesig.Contains(ui)));
 
                 if (matchingAircraft.GroupBy(a => a.tdesig).Count() == 1)
                     return matchingAircraft;

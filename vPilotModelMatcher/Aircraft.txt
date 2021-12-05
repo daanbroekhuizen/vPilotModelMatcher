@@ -649,6 +649,14 @@ BOMBARDIER,BD-700,Global 7500,,2,Jet,LandPlane,L2J,M,GL7T,E
 BOMBARDIER,,Global 5500,,2,Jet,LandPlane,L2J,M,GL5T,E
 BOMBARDIER,,Global 6500,,2,Jet,LandPlane,L2J,M,GLEX,E
 BOMBARDIER,,Global 7500,,2,Jet,LandPlane,L2J,M,GL7T,E
+BOMBARDIER,,Dash 8 (100),,2,Turboprop/Turboshaft,LandPlane,L2T,M,DH8A,F
+BOMBARDIER,,Dash 8 (200),,2,Turboprop/Turboshaft,LandPlane,L2T,M,DH8B,F
+BOMBARDIER,,Dash 8 (300),,2,Turboprop/Turboshaft,LandPlane,L2T,M,DH8C,F
+BOMBARDIER,,Dash 8 (400),,2,Turboprop/Turboshaft,LandPlane,L2T,M,DH8D,E
+BOMBARDIER,DHC-8-100,Dash 8,,2,Turboprop/Turboshaft,LandPlane,L2T,M,DH8A,F
+BOMBARDIER,DHC-8-200,Dash 8,,2,Turboprop/Turboshaft,LandPlane,L2T,M,DH8B,F
+BOMBARDIER,DHC-8-300,Dash 8,,2,Turboprop/Turboshaft,LandPlane,L2T,M,DH8C,F
+BOMBARDIER,DHC-8-400,Dash 8,,2,Turboprop/Turboshaft,LandPlane,L2T,M,DH8D,E
 CANADAIR,A-10,Catalina,,2,Piston,Amphibian,A2P,M,CAT,Z
 CANADAIR,C-143 Challenger 604,,,2,Jet,LandPlane,L2J,M,CL60,F
 CANADAIR,,Catalina,,2,Piston,Amphibian,A2P,M,CAT,Z
