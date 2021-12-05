@@ -303,7 +303,7 @@ namespace vPilotModelMatcher
                 {
                     matchingAircraft = aircraft
                         .Where(a => fltsim.ui_type.Replace("-", "").Contains(a.tdesig))
-                        .OrderByDescending(a => a.model_no.Length);
+                        .OrderByDescending(a => a.tdesig.Length);
                 }
 
                 if (!matchingAircraft.Any())
