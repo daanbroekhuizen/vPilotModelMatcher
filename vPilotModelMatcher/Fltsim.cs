@@ -2,10 +2,10 @@
 {
     public class Fltsim
     {
-        public string title { get; set; }
-        public string ui_type { get; set; }
-        public string ui_variation { get; set; }
-        public List<string> atc_parking_codes { get; set; }
+        public string? title { get; set; }
+        public string? ui_type { get; set; }
+        public string? ui_variation { get; set; }
+        public List<string>? atc_parking_codes { get; set; }
 
         public override string ToString()
         {

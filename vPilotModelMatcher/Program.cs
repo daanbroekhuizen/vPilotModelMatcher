@@ -43,7 +43,7 @@ namespace vPilotModelMatcher
 
             XmlDocument xmlDocument = new();
             xmlDocument.LoadXml(outputXml);
-            xmlDocument.Save("Model Matching Rules airlines.vmr");
+            xmlDocument.Save($"{ruleSetName} airlines.vmr");
 
             var aircraftRules = rules
                 .GroupBy(r => new { r.TypeCode })
@@ -72,6 +72,9 @@ namespace vPilotModelMatcher
         {
             var aircraft = typeof(Program).Assembly.GetManifestResourceStream("vPilotModelMatcher.Aircraft.txt");
 
+            if (aircraft == null)
+                throw new NullReferenceException($"{nameof(aircraft)} cannot be null");
+
             using var streamReader = new StreamReader(aircraft);
 
             return streamReader
@@ -96,6 +99,9 @@ namespace vPilotModelMatcher
         private static IEnumerable<Airline> LoadAirlines()
         {
             var airlines = typeof(Program).Assembly.GetManifestResourceStream("vPilotModelMatcher.Airlines.txt");
+
+            if (airlines == null)
+                throw new NullReferenceException($"{nameof(airlines)} cannot be null");
 
             using var streamReader = new StreamReader(airlines);
 
@@ -122,7 +128,7 @@ namespace vPilotModelMatcher
             Console.Write("Enter path to folder: ");
 #if DEBUG
             Console.WriteLine("");
-            var folderPath = $"{Directory.GetCurrentDirectory()}\\TestData";
+            var folderPath = $"{Directory.GetCurrentDirectory()}\\TestData\\TestData.Ruben";
 #else
             var folderPath = Console.ReadLine();
 #endif
@@ -259,34 +265,28 @@ namespace vPilotModelMatcher
             var matchingAirlines = new List<Airline>().AsEnumerable();
 
             if (fltsim.atc_parking_codes?.Any() ?? false)
-                matchingAirlines = airlines.Where(a => fltsim.atc_parking_codes.Any(apc => apc.ToUpper() == a.operator_code.ToUpper()));
+                matchingAirlines = airlines.Where(a => fltsim.atc_parking_codes.Any(apc => apc.ToUpper() == a.operator_code?.ToUpper()));
 
             if (!matchingAirlines.Any() || matchingAirlines.Count() > 1)
             {
-                var iata = Regex.Match(fltsim.ui_variation, "(?<![A-Z]|-)[A-Z]{3}(?![A-Z])");
-
-                if (iata.Captures.Count == 1)
-                    matchingAirlines = airlines.Where(a => iata.Value.ToUpper() == a.operator_code.ToUpper());
-                else
+                if (!string.IsNullOrWhiteSpace(fltsim.ui_variation))
                 {
-                    iata = Regex.Match(fltsim.title, "(?<![A-Z]|-)[A-Z]{3}(?![A-Z])");
+                    var iata = Regex.Match(fltsim.ui_variation, "(?<![A-Z]|-)[A-Z]{3}(?![A-Z])");
 
                     if (iata.Captures.Count == 1)
-                    {
-                        matchingAirlines = airlines.Where(a => iata.Value.ToUpper() == a.operator_code.ToUpper());
+                        matchingAirlines = airlines.Where(a => iata.Value.ToUpper() == a.operator_code?.ToUpper());
+                }
+                else if (!string.IsNullOrWhiteSpace(fltsim.title))
+                {
+                    var iata = Regex.Match(fltsim.title, "(?<![A-Z]|-)[A-Z]{3}(?![A-Z])");
 
-                        if (!matchingAirlines.Any())
-                            matchingAirlines = AlternativeSearch();
-                    }
-                    else
-                    {
-                        if (fltsim.atc_parking_codes?.Any() ?? false)
-                            matchingAirlines = airlines.Where(a => fltsim.atc_parking_codes.Any(apc => apc.ToUpper() == a.operator_code.ToUpper()));
-                        else
-                            matchingAirlines = AlternativeSearch();
-                    }
+                    if (iata.Captures.Count == 1)
+                        matchingAirlines = airlines.Where(a => iata.Value.ToUpper() == a.operator_code?.ToUpper());
                 }
             }
+
+            if (!matchingAirlines.Any())
+                matchingAirlines = AlternativeSearch();
 
             return matchingAirlines;
         }
