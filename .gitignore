@@ -1,7 +1,8 @@
-﻿.vs/
+﻿*.csproj.user
+.vs/
 bin/
 obj/
-TestData/
+output
 TestData.AIG/
 TestData.IVAO/
-*.csproj.user
+TestData/

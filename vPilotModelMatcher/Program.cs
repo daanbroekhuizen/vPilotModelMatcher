@@ -1,4 +1,5 @@
-﻿using System.Security;
+﻿using Microsoft.Extensions.Configuration;
+using System.Security;
 using System.Text.RegularExpressions;
 using System.Xml;
 
@@ -6,6 +7,21 @@ namespace vPilotModelMatcher
 {
     public class Program
     {
+        private static IConfigurationRoot Config
+        {
+            get
+            {
+                if (_config == null)
+                    _config = new ConfigurationBuilder()
+                        .AddJsonFile("appSettings.json", optional: true, reloadOnChange: true)
+                        .Build();
+
+                return _config;
+            }
+        }
+
+        private static IConfigurationRoot? _config;
+
         public static void Main()
         {
             Console.Write("Enter rule set name: ");
@@ -13,7 +29,12 @@ namespace vPilotModelMatcher
             Console.WriteLine("");
             var ruleSetName = "Model Matching Rules";
 #else
-            var ruleSetName = Console.ReadLine();
+            var ruleSetName = "";
+
+            if (!string.IsNullOrEmpty(Config["ruleSetName"]))
+                ruleSetName = Config["ruleSetName"];
+            else
+                ruleSetName = Console.ReadLine();
 #endif
             Console.Write($"Rule set name: \"{ruleSetName}\"");
             Console.WriteLine("");
@@ -36,6 +57,11 @@ namespace vPilotModelMatcher
                 .OrderBy(r => r.CallsignPrefix)
                 .ThenBy(r => r.TypeCode);
 
+            var folderPath = ""; ;
+
+            if (!string.IsNullOrEmpty(Config["savePath"]))
+                folderPath = Path.GetFullPath(Config["savePath"]);
+
             var outputXml = $"<?xml version=\"1.0\" encoding=\"utf-8\"?>{Environment.NewLine}" +
                 $"<ModelMatchRuleSet>{Environment.NewLine}" +
                 $"{string.Join('\n', airlineRules.Select(r => $"<ModelMatchRule {(string.IsNullOrWhiteSpace(r.CallsignPrefix) ? "" : $"CallsignPrefix=\"{SecurityElement.Escape(r.CallsignPrefix)}\" ")}TypeCode=\"{SecurityElement.Escape(r.TypeCode)}\" ModelName=\"{SecurityElement.Escape(r.ModelName)}\" />"))}" +
@@ -43,7 +69,7 @@ namespace vPilotModelMatcher
 
             XmlDocument xmlDocument = new();
             xmlDocument.LoadXml(outputXml);
-            xmlDocument.Save($"{ruleSetName} airlines.vmr");
+            xmlDocument.Save($"{(string.IsNullOrEmpty(folderPath) ? ruleSetName : $"{folderPath}\\{ruleSetName}")} airlines.vmr");
 
             var aircraftRules = rules
                 .GroupBy(r => new { r.TypeCode })
@@ -62,7 +88,7 @@ namespace vPilotModelMatcher
 
             xmlDocument = new();
             xmlDocument.LoadXml(outputXml);
-            xmlDocument.Save($"{ruleSetName} aircraft.vmr");
+            xmlDocument.Save($"{(string.IsNullOrEmpty(folderPath) ? ruleSetName : $"{folderPath}\\{ruleSetName}")} aircraft.vmr");
 
             Console.WriteLine(aircraftCfgs.Count);
             Console.ReadLine();
@@ -130,7 +156,12 @@ namespace vPilotModelMatcher
             Console.WriteLine("");
             var folderPath = $"{Directory.GetCurrentDirectory()}\\TestData\\TestData.Ruben";
 #else
-            var folderPath = Console.ReadLine();
+            var folderPath = "";
+
+            if (!string.IsNullOrEmpty(Config["scanPath"]))
+                folderPath = Path.GetFullPath(Config["scanPath"]);
+            else
+                folderPath = Console.ReadLine();
 #endif
             Console.Write($"Path used \"{folderPath}\"");
             Console.WriteLine("");
